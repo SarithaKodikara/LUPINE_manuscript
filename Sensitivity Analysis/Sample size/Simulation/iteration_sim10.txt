@@ -1,0 +1,100 @@
+
+ size= 10 ;  iter= 1 
+
+ size= 10 ;  iter= 2 
+
+ size= 10 ;  iter= 3 
+
+ size= 10 ;  iter= 4 
+
+ size= 10 ;  iter= 5 
+
+ size= 10 ;  iter= 7 
+
+ size= 10 ;  iter= 6 
+
+ size= 10 ;  iter= 8 
+
+ size= 10 ;  iter= 9 
+
+ size= 10 ;  iter= 17 
+
+ size= 10 ;  iter= 18 
+
+ size= 10 ;  iter= 11 
+
+ size= 10 ;  iter= 15 
+
+ size= 10 ;  iter= 14 
+
+ size= 10 ;  iter= 10 
+
+ size= 10 ;  iter= 13 
+
+ size= 10 ;  iter= 16 
+
+ size= 10 ;  iter= 12 
+
+ size= 10 ;  iter= 19 
+
+ size= 10 ;  iter= 23 
+
+ size= 10 ;  iter= 27 
+
+ size= 10 ;  iter= 24 
+
+ size= 10 ;  iter= 22 
+
+ size= 10 ;  iter= 25 
+
+ size= 10 ;  iter= 26 
+
+ size= 10 ;  iter= 20 
+
+ size= 10 ;  iter= 21 
+
+ size= 10 ;  iter= 28 
+
+ size= 10 ;  iter= 32 
+
+ size= 10 ;  iter= 34 
+
+ size= 10 ;  iter= 33 
+
+ size= 10 ;  iter= 35 
+
+ size= 10 ;  iter= 36 
+
+ size= 10 ;  iter= 31 
+
+ size= 10 ;  iter= 29 
+
+ size= 10 ;  iter= 30 
+
+ size= 10 ;  iter= 43 
+
+ size= 10 ;  iter= 42 
+
+ size= 10 ;  iter= 37 
+
+ size= 10 ;  iter= 40 
+
+ size= 10 ;  iter= 41 
+
+ size= 10 ;  iter= 44 
+
+ size= 10 ;  iter= 39 
+
+ size= 10 ;  iter= 45 
+
+ size= 10 ;  iter= 38 
+
+ size= 10 ;  iter= 49 
+
+ size= 10 ;  iter= 50 
+
+ size= 10 ;  iter= 46 
+
+ size= 10 ;  iter= 48 
+
+ size= 10 ;  iter= 47 

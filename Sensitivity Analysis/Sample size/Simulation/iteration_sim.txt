@@ -1,0 +1,36 @@
+
+ size= 1500 ;  iter= 1 
+
+ size= 1500 ;  iter= 2 
+
+ size= 1500 ;  iter= 3 
+
+ size= 1500 ;  iter= 4 
+
+ size= 1500 ;  iter= 5 
+
+ size= 1500 ;  iter= 6 
+
+ size= 1500 ;  iter= 7 
+
+ size= 1500 ;  iter= 8 
+
+ size= 1500 ;  iter= 9 
+
+ size= 1500 ;  iter= 17 
+
+ size= 1500 ;  iter= 10 
+
+ size= 1500 ;  iter= 15 
+
+ size= 1500 ;  iter= 12 
+
+ size= 1500 ;  iter= 16 
+
+ size= 1500 ;  iter= 11 
+
+ size= 1500 ;  iter= 14 
+
+ size= 1500 ;  iter= 18 
+
+ size= 1500 ;  iter= 13 

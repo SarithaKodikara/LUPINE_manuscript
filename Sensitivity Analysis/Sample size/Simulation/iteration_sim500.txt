@@ -1,0 +1,100 @@
+
+ size= 500 ;  iter= 1 
+
+ size= 500 ;  iter= 2 
+
+ size= 500 ;  iter= 3 
+
+ size= 500 ;  iter= 4 
+
+ size= 500 ;  iter= 5 
+
+ size= 500 ;  iter= 6 
+
+ size= 500 ;  iter= 7 
+
+ size= 500 ;  iter= 8 
+
+ size= 500 ;  iter= 9 
+
+ size= 500 ;  iter= 11 
+
+ size= 500 ;  iter= 10 
+
+ size= 500 ;  iter= 15 
+
+ size= 500 ;  iter= 16 
+
+ size= 500 ;  iter= 13 
+
+ size= 500 ;  iter= 14 
+
+ size= 500 ;  iter= 17 
+
+ size= 500 ;  iter= 18 
+
+ size= 500 ;  iter= 12 
+
+ size= 500 ;  iter= 20 
+
+ size= 500 ;  iter= 19 
+
+ size= 500 ;  iter= 25 
+
+ size= 500 ;  iter= 24 
+
+ size= 500 ;  iter= 22 
+
+ size= 500 ;  iter= 26 
+
+ size= 500 ;  iter= 23 
+
+ size= 500 ;  iter= 21 
+
+ size= 500 ;  iter= 27 
+
+ size= 500 ;  iter= 28 
+
+ size= 500 ;  iter= 29 
+
+ size= 500 ;  iter= 31 
+
+ size= 500 ;  iter= 30 
+
+ size= 500 ;  iter= 32 
+
+ size= 500 ;  iter= 33 
+
+ size= 500 ;  iter= 34 
+
+ size= 500 ;  iter= 35 
+
+ size= 500 ;  iter= 36 
+
+ size= 500 ;  iter= 37 
+
+ size= 500 ;  iter= 38 
+
+ size= 500 ;  iter= 40 
+
+ size= 500 ;  iter= 39 
+
+ size= 500 ;  iter= 41 
+
+ size= 500 ;  iter= 42 
+
+ size= 500 ;  iter= 44 
+
+ size= 500 ;  iter= 43 
+
+ size= 500 ;  iter= 45 
+
+ size= 500 ;  iter= 46 
+
+ size= 500 ;  iter= 47 
+
+ size= 500 ;  iter= 49 
+
+ size= 500 ;  iter= 50 
+
+ size= 500 ;  iter= 48 

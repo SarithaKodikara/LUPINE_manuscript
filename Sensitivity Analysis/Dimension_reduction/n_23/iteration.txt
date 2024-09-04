@@ -1,0 +1,6318 @@
+
+ iter= 1 ;  day= 2 ;  method= PCA 
+
+ iter= 2 ;  day= 2 ;  method= PCA 
+
+ iter= 3 ;  day= 2 ;  method= PCA 
+
+ iter= 4 ;  day= 2 ;  method= PCA 
+
+ iter= 5 ;  day= 2 ;  method= PCA 
+
+ iter= 6 ;  day= 2 ;  method= PCA 
+
+ iter= 7 ;  day= 2 ;  method= PCA 
+
+ iter= 8 ;  day= 2 ;  method= PCA 
+
+ iter= 9 ;  day= 2 ;  method= PCA 
+
+ iter= 2 ;  day= 2 ;  method= PCA 
+
+ iter= 3 ;  day= 2 ;  method= PCA 
+
+ iter= 1 ;  day= 2 ;  method= PCA 
+
+ iter= 4 ;  day= 2 ;  method= PCA 
+
+ iter= 5 ;  day= 2 ;  method= PCA 
+
+ iter= 6 ;  day= 2 ;  method= PCA 
+
+ iter= 7 ;  day= 2 ;  method= PCA 
+
+ iter= 8 ;  day= 2 ;  method= PCA 
+
+ iter= 9 ;  day= 2 ;  method= PCA 
+
+ iter= 7 ;  day= 2 ;  method= ICA 
+
+ iter= 9 ;  day= 2 ;  method= ICA 
+
+ iter= 4 ;  day= 2 ;  method= ICA 
+
+ iter= 5 ;  day= 2 ;  method= ICA 
+
+ iter= 6 ;  day= 2 ;  method= ICA 
+
+ iter= 2 ;  day= 2 ;  method= ICA 
+
+ iter= 1 ;  day= 2 ;  method= ICA 
+
+ iter= 3 ;  day= 2 ;  method= ICA 
+
+ iter= 8 ;  day= 2 ;  method= ICA 
+
+ iter= 7 ;  day= 3 ;  method= PCA 
+
+ iter= 6 ;  day= 3 ;  method= PCA 
+
+ iter= 4 ;  day= 3 ;  method= PCA 
+
+ iter= 5 ;  day= 3 ;  method= PCA 
+
+ iter= 2 ;  day= 3 ;  method= PCA 
+
+ iter= 9 ;  day= 3 ;  method= PCA 
+
+ iter= 8 ;  day= 3 ;  method= PCA 
+
+ iter= 1 ;  day= 3 ;  method= PCA 
+
+ iter= 3 ;  day= 3 ;  method= PCA 
+
+ iter= 7 ;  day= 3 ;  method= ICA 
+
+ iter= 6 ;  day= 3 ;  method= ICA 
+
+ iter= 4 ;  day= 3 ;  method= ICA 
+
+ iter= 5 ;  day= 3 ;  method= ICA 
+
+ iter= 9 ;  day= 3 ;  method= ICA 
+
+ iter= 2 ;  day= 3 ;  method= ICA 
+
+ iter= 8 ;  day= 3 ;  method= ICA 
+
+ iter= 1 ;  day= 3 ;  method= ICA 
+
+ iter= 3 ;  day= 3 ;  method= ICA 
+
+ iter= 7 ;  day= 4 ;  method= PCA 
+
+ iter= 6 ;  day= 4 ;  method= PCA 
+
+ iter= 4 ;  day= 4 ;  method= PCA 
+
+ iter= 5 ;  day= 4 ;  method= PCA 
+
+ iter= 8 ;  day= 4 ;  method= PCA 
+
+ iter= 9 ;  day= 4 ;  method= PCA 
+
+ iter= 2 ;  day= 4 ;  method= PCA 
+
+ iter= 1 ;  day= 4 ;  method= PCA 
+
+ iter= 3 ;  day= 4 ;  method= PCA 
+
+ iter= 7 ;  day= 4 ;  method= ICA 
+
+ iter= 6 ;  day= 4 ;  method= ICA 
+
+ iter= 4 ;  day= 4 ;  method= ICA 
+
+ iter= 9 ;  day= 4 ;  method= ICA 
+
+ iter= 2 ;  day= 4 ;  method= ICA 
+
+ iter= 8 ;  day= 4 ;  method= ICA 
+
+ iter= 5 ;  day= 4 ;  method= ICA 
+
+ iter= 1 ;  day= 4 ;  method= ICA 
+
+ iter= 3 ;  day= 4 ;  method= ICA 
+
+ iter= 7 ;  day= 5 ;  method= PCA 
+
+ iter= 6 ;  day= 5 ;  method= PCA 
+
+ iter= 4 ;  day= 5 ;  method= PCA 
+
+ iter= 8 ;  day= 5 ;  method= PCA 
+
+ iter= 9 ;  day= 5 ;  method= PCA 
+
+ iter= 2 ;  day= 5 ;  method= PCA 
+
+ iter= 3 ;  day= 5 ;  method= PCA 
+
+ iter= 1 ;  day= 5 ;  method= PCA 
+
+ iter= 5 ;  day= 5 ;  method= PCA 
+
+ iter= 7 ;  day= 5 ;  method= ICA 
+
+ iter= 6 ;  day= 5 ;  method= ICA 
+
+ iter= 4 ;  day= 5 ;  method= ICA 
+
+ iter= 8 ;  day= 5 ;  method= ICA 
+
+ iter= 2 ;  day= 5 ;  method= ICA 
+
+ iter= 9 ;  day= 5 ;  method= ICA 
+
+ iter= 3 ;  day= 5 ;  method= ICA 
+
+ iter= 1 ;  day= 5 ;  method= ICA 
+
+ iter= 5 ;  day= 5 ;  method= ICA 
+
+ iter= 7 ;  day= 6 ;  method= PCA 
+
+ iter= 6 ;  day= 6 ;  method= PCA 
+
+ iter= 4 ;  day= 6 ;  method= PCA 
+
+ iter= 8 ;  day= 6 ;  method= PCA 
+
+ iter= 2 ;  day= 6 ;  method= PCA 
+
+ iter= 9 ;  day= 6 ;  method= PCA 
+
+ iter= 3 ;  day= 6 ;  method= PCA 
+
+ iter= 1 ;  day= 6 ;  method= PCA 
+
+ iter= 5 ;  day= 6 ;  method= PCA 
+
+ iter= 7 ;  day= 6 ;  method= ICA 
+
+ iter= 6 ;  day= 6 ;  method= ICA 
+
+ iter= 4 ;  day= 6 ;  method= ICA 
+
+ iter= 8 ;  day= 6 ;  method= ICA 
+
+ iter= 2 ;  day= 6 ;  method= ICA 
+
+ iter= 9 ;  day= 6 ;  method= ICA 
+
+ iter= 3 ;  day= 6 ;  method= ICA 
+
+ iter= 1 ;  day= 6 ;  method= ICA 
+
+ iter= 5 ;  day= 6 ;  method= ICA 
+
+ iter= 7 ;  day= 7 ;  method= PCA 
+
+ iter= 6 ;  day= 7 ;  method= PCA 
+
+ iter= 4 ;  day= 7 ;  method= PCA 
+
+ iter= 8 ;  day= 7 ;  method= PCA 
+
+ iter= 2 ;  day= 7 ;  method= PCA 
+
+ iter= 9 ;  day= 7 ;  method= PCA 
+
+ iter= 3 ;  day= 7 ;  method= PCA 
+
+ iter= 1 ;  day= 7 ;  method= PCA 
+
+ iter= 5 ;  day= 7 ;  method= PCA 
+
+ iter= 7 ;  day= 7 ;  method= ICA 
+
+ iter= 6 ;  day= 7 ;  method= ICA 
+
+ iter= 4 ;  day= 7 ;  method= ICA 
+
+ iter= 8 ;  day= 7 ;  method= ICA 
+
+ iter= 2 ;  day= 7 ;  method= ICA 
+
+ iter= 9 ;  day= 7 ;  method= ICA 
+
+ iter= 3 ;  day= 7 ;  method= ICA 
+
+ iter= 1 ;  day= 7 ;  method= ICA 
+
+ iter= 5 ;  day= 7 ;  method= ICA 
+
+ iter= 7 ;  day= 8 ;  method= PCA 
+
+ iter= 6 ;  day= 8 ;  method= PCA 
+
+ iter= 4 ;  day= 8 ;  method= PCA 
+
+ iter= 8 ;  day= 8 ;  method= PCA 
+
+ iter= 2 ;  day= 8 ;  method= PCA 
+
+ iter= 9 ;  day= 8 ;  method= PCA 
+
+ iter= 3 ;  day= 8 ;  method= PCA 
+
+ iter= 5 ;  day= 8 ;  method= PCA 
+
+ iter= 1 ;  day= 8 ;  method= PCA 
+
+ iter= 7 ;  day= 8 ;  method= ICA 
+
+ iter= 6 ;  day= 8 ;  method= ICA 
+
+ iter= 4 ;  day= 8 ;  method= ICA 
+
+ iter= 8 ;  day= 8 ;  method= ICA 
+
+ iter= 2 ;  day= 8 ;  method= ICA 
+
+ iter= 9 ;  day= 8 ;  method= ICA 
+
+ iter= 3 ;  day= 8 ;  method= ICA 
+
+ iter= 5 ;  day= 8 ;  method= ICA 
+
+ iter= 7 ;  day= 9 ;  method= PCA 
+
+ iter= 6 ;  day= 9 ;  method= PCA 
+
+ iter= 4 ;  day= 9 ;  method= PCA 
+
+ iter= 1 ;  day= 8 ;  method= ICA 
+
+ iter= 8 ;  day= 9 ;  method= PCA 
+
+ iter= 2 ;  day= 9 ;  method= PCA 
+
+ iter= 9 ;  day= 9 ;  method= PCA 
+
+ iter= 3 ;  day= 9 ;  method= PCA 
+
+ iter= 5 ;  day= 9 ;  method= PCA 
+
+ iter= 1 ;  day= 9 ;  method= PCA 
+
+ iter= 7 ;  day= 9 ;  method= ICA 
+
+ iter= 6 ;  day= 9 ;  method= ICA 
+
+ iter= 4 ;  day= 9 ;  method= ICA 
+
+ iter= 8 ;  day= 9 ;  method= ICA 
+
+ iter= 2 ;  day= 9 ;  method= ICA 
+
+ iter= 9 ;  day= 9 ;  method= ICA 
+
+ iter= 3 ;  day= 9 ;  method= ICA 
+
+ iter= 7 ;  day= 10 ;  method= PCA 
+
+ iter= 5 ;  day= 9 ;  method= ICA 
+
+ iter= 6 ;  day= 10 ;  method= PCA 
+
+ iter= 4 ;  day= 10 ;  method= PCA 
+
+ iter= 1 ;  day= 9 ;  method= ICA 
+
+ iter= 8 ;  day= 10 ;  method= PCA 
+
+ iter= 2 ;  day= 10 ;  method= PCA 
+
+ iter= 9 ;  day= 10 ;  method= PCA 
+
+ iter= 3 ;  day= 10 ;  method= PCA 
+
+ iter= 5 ;  day= 10 ;  method= PCA 
+
+ iter= 1 ;  day= 10 ;  method= PCA 
+
+ iter= 7 ;  day= 10 ;  method= ICA 
+
+ iter= 6 ;  day= 10 ;  method= ICA 
+
+ iter= 4 ;  day= 10 ;  method= ICA 
+
+ iter= 8 ;  day= 10 ;  method= ICA 
+
+ iter= 2 ;  day= 10 ;  method= ICA 
+
+ iter= 9 ;  day= 10 ;  method= ICA 
+
+ iter= 3 ;  day= 10 ;  method= ICA 
+
+ iter= 5 ;  day= 10 ;  method= ICA 
+
+ iter= 15 ;  day= 2 ;  method= PCA 
+
+ iter= 16 ;  day= 2 ;  method= PCA 
+
+ iter= 13 ;  day= 2 ;  method= PCA 
+
+ iter= 1 ;  day= 10 ;  method= ICA 
+
+ iter= 17 ;  day= 2 ;  method= PCA 
+
+ iter= 11 ;  day= 2 ;  method= PCA 
+
+ iter= 18 ;  day= 2 ;  method= PCA 
+
+ iter= 12 ;  day= 2 ;  method= PCA 
+
+ iter= 14 ;  day= 2 ;  method= PCA 
+
+ iter= 10 ;  day= 2 ;  method= PCA 
+
+ iter= 15 ;  day= 2 ;  method= ICA 
+
+ iter= 16 ;  day= 2 ;  method= ICA 
+
+ iter= 13 ;  day= 2 ;  method= ICA 
+
+ iter= 17 ;  day= 2 ;  method= ICA 
+
+ iter= 11 ;  day= 2 ;  method= ICA 
+
+ iter= 18 ;  day= 2 ;  method= ICA 
+
+ iter= 12 ;  day= 2 ;  method= ICA 
+
+ iter= 14 ;  day= 2 ;  method= ICA 
+
+ iter= 10 ;  day= 2 ;  method= ICA 
+
+ iter= 15 ;  day= 3 ;  method= PCA 
+
+ iter= 16 ;  day= 3 ;  method= PCA 
+
+ iter= 13 ;  day= 3 ;  method= PCA 
+
+ iter= 17 ;  day= 3 ;  method= PCA 
+
+ iter= 11 ;  day= 3 ;  method= PCA 
+
+ iter= 18 ;  day= 3 ;  method= PCA 
+
+ iter= 12 ;  day= 3 ;  method= PCA 
+
+ iter= 14 ;  day= 3 ;  method= PCA 
+
+ iter= 10 ;  day= 3 ;  method= PCA 
+
+ iter= 15 ;  day= 3 ;  method= ICA 
+
+ iter= 16 ;  day= 3 ;  method= ICA 
+
+ iter= 13 ;  day= 3 ;  method= ICA 
+
+ iter= 11 ;  day= 3 ;  method= ICA 
+
+ iter= 17 ;  day= 3 ;  method= ICA 
+
+ iter= 18 ;  day= 3 ;  method= ICA 
+
+ iter= 12 ;  day= 3 ;  method= ICA 
+
+ iter= 14 ;  day= 3 ;  method= ICA 
+
+ iter= 10 ;  day= 3 ;  method= ICA 
+
+ iter= 15 ;  day= 4 ;  method= PCA 
+
+ iter= 16 ;  day= 4 ;  method= PCA 
+
+ iter= 13 ;  day= 4 ;  method= PCA 
+
+ iter= 17 ;  day= 4 ;  method= PCA 
+
+ iter= 11 ;  day= 4 ;  method= PCA 
+
+ iter= 18 ;  day= 4 ;  method= PCA 
+
+ iter= 12 ;  day= 4 ;  method= PCA 
+
+ iter= 14 ;  day= 4 ;  method= PCA 
+
+ iter= 10 ;  day= 4 ;  method= PCA 
+
+ iter= 15 ;  day= 4 ;  method= ICA 
+
+ iter= 13 ;  day= 4 ;  method= ICA 
+
+ iter= 16 ;  day= 4 ;  method= ICA 
+
+ iter= 17 ;  day= 4 ;  method= ICA 
+
+ iter= 18 ;  day= 4 ;  method= ICA 
+
+ iter= 11 ;  day= 4 ;  method= ICA 
+
+ iter= 12 ;  day= 4 ;  method= ICA 
+
+ iter= 14 ;  day= 4 ;  method= ICA 
+
+ iter= 10 ;  day= 4 ;  method= ICA 
+
+ iter= 15 ;  day= 5 ;  method= PCA 
+
+ iter= 13 ;  day= 5 ;  method= PCA 
+
+ iter= 16 ;  day= 5 ;  method= PCA 
+
+ iter= 17 ;  day= 5 ;  method= PCA 
+
+ iter= 11 ;  day= 5 ;  method= PCA 
+
+ iter= 18 ;  day= 5 ;  method= PCA 
+
+ iter= 12 ;  day= 5 ;  method= PCA 
+
+ iter= 14 ;  day= 5 ;  method= PCA 
+
+ iter= 10 ;  day= 5 ;  method= PCA 
+
+ iter= 15 ;  day= 5 ;  method= ICA 
+
+ iter= 13 ;  day= 5 ;  method= ICA 
+
+ iter= 16 ;  day= 5 ;  method= ICA 
+
+ iter= 17 ;  day= 5 ;  method= ICA 
+
+ iter= 18 ;  day= 5 ;  method= ICA 
+
+ iter= 11 ;  day= 5 ;  method= ICA 
+
+ iter= 14 ;  day= 5 ;  method= ICA 
+
+ iter= 12 ;  day= 5 ;  method= ICA 
+
+ iter= 10 ;  day= 5 ;  method= ICA 
+
+ iter= 15 ;  day= 6 ;  method= PCA 
+
+ iter= 13 ;  day= 6 ;  method= PCA 
+
+ iter= 16 ;  day= 6 ;  method= PCA 
+
+ iter= 17 ;  day= 6 ;  method= PCA 
+
+ iter= 18 ;  day= 6 ;  method= PCA 
+
+ iter= 11 ;  day= 6 ;  method= PCA 
+
+ iter= 14 ;  day= 6 ;  method= PCA 
+
+ iter= 12 ;  day= 6 ;  method= PCA 
+
+ iter= 10 ;  day= 6 ;  method= PCA 
+
+ iter= 15 ;  day= 6 ;  method= ICA 
+
+ iter= 13 ;  day= 6 ;  method= ICA 
+
+ iter= 16 ;  day= 6 ;  method= ICA 
+
+ iter= 17 ;  day= 6 ;  method= ICA 
+
+ iter= 18 ;  day= 6 ;  method= ICA 
+
+ iter= 11 ;  day= 6 ;  method= ICA 
+
+ iter= 14 ;  day= 6 ;  method= ICA 
+
+ iter= 12 ;  day= 6 ;  method= ICA 
+
+ iter= 10 ;  day= 6 ;  method= ICA 
+
+ iter= 15 ;  day= 7 ;  method= PCA 
+
+ iter= 13 ;  day= 7 ;  method= PCA 
+
+ iter= 16 ;  day= 7 ;  method= PCA 
+
+ iter= 17 ;  day= 7 ;  method= PCA 
+
+ iter= 18 ;  day= 7 ;  method= PCA 
+
+ iter= 11 ;  day= 7 ;  method= PCA 
+
+ iter= 14 ;  day= 7 ;  method= PCA 
+
+ iter= 12 ;  day= 7 ;  method= PCA 
+
+ iter= 10 ;  day= 7 ;  method= PCA 
+
+ iter= 15 ;  day= 7 ;  method= ICA 
+
+ iter= 13 ;  day= 7 ;  method= ICA 
+
+ iter= 16 ;  day= 7 ;  method= ICA 
+
+ iter= 17 ;  day= 7 ;  method= ICA 
+
+ iter= 18 ;  day= 7 ;  method= ICA 
+
+ iter= 11 ;  day= 7 ;  method= ICA 
+
+ iter= 14 ;  day= 7 ;  method= ICA 
+
+ iter= 12 ;  day= 7 ;  method= ICA 
+
+ iter= 15 ;  day= 8 ;  method= PCA 
+
+ iter= 10 ;  day= 7 ;  method= ICA 
+
+ iter= 13 ;  day= 8 ;  method= PCA 
+
+ iter= 16 ;  day= 8 ;  method= PCA 
+
+ iter= 17 ;  day= 8 ;  method= PCA 
+
+ iter= 18 ;  day= 8 ;  method= PCA 
+
+ iter= 11 ;  day= 8 ;  method= PCA 
+
+ iter= 14 ;  day= 8 ;  method= PCA 
+
+ iter= 12 ;  day= 8 ;  method= PCA 
+
+ iter= 10 ;  day= 8 ;  method= PCA 
+
+ iter= 15 ;  day= 8 ;  method= ICA 
+
+ iter= 13 ;  day= 8 ;  method= ICA 
+
+ iter= 16 ;  day= 8 ;  method= ICA 
+
+ iter= 17 ;  day= 8 ;  method= ICA 
+
+ iter= 18 ;  day= 8 ;  method= ICA 
+
+ iter= 11 ;  day= 8 ;  method= ICA 
+
+ iter= 14 ;  day= 8 ;  method= ICA 
+
+ iter= 12 ;  day= 8 ;  method= ICA 
+
+ iter= 15 ;  day= 9 ;  method= PCA 
+
+ iter= 10 ;  day= 8 ;  method= ICA 
+
+ iter= 13 ;  day= 9 ;  method= PCA 
+
+ iter= 16 ;  day= 9 ;  method= PCA 
+
+ iter= 17 ;  day= 9 ;  method= PCA 
+
+ iter= 18 ;  day= 9 ;  method= PCA 
+
+ iter= 11 ;  day= 9 ;  method= PCA 
+
+ iter= 14 ;  day= 9 ;  method= PCA 
+
+ iter= 12 ;  day= 9 ;  method= PCA 
+
+ iter= 10 ;  day= 9 ;  method= PCA 
+
+ iter= 15 ;  day= 9 ;  method= ICA 
+
+ iter= 13 ;  day= 9 ;  method= ICA 
+
+ iter= 16 ;  day= 9 ;  method= ICA 
+
+ iter= 17 ;  day= 9 ;  method= ICA 
+
+ iter= 18 ;  day= 9 ;  method= ICA 
+
+ iter= 11 ;  day= 9 ;  method= ICA 
+
+ iter= 14 ;  day= 9 ;  method= ICA 
+
+ iter= 12 ;  day= 9 ;  method= ICA 
+
+ iter= 10 ;  day= 9 ;  method= ICA 
+
+ iter= 17 ;  day= 10 ;  method= PCA 
+
+ iter= 16 ;  day= 10 ;  method= PCA 
+
+ iter= 18 ;  day= 10 ;  method= PCA 
+
+ iter= 11 ;  day= 10 ;  method= PCA 
+
+ iter= 15 ;  day= 10 ;  method= PCA 
+
+ iter= 13 ;  day= 10 ;  method= PCA 
+
+ iter= 14 ;  day= 10 ;  method= PCA 
+
+ iter= 12 ;  day= 10 ;  method= PCA 
+
+ iter= 10 ;  day= 10 ;  method= PCA 
+
+ iter= 18 ;  day= 10 ;  method= ICA 
+
+ iter= 17 ;  day= 10 ;  method= ICA 
+
+ iter= 11 ;  day= 10 ;  method= ICA 
+
+ iter= 16 ;  day= 10 ;  method= ICA 
+
+ iter= 15 ;  day= 10 ;  method= ICA 
+
+ iter= 13 ;  day= 10 ;  method= ICA 
+
+ iter= 14 ;  day= 10 ;  method= ICA 
+
+ iter= 12 ;  day= 10 ;  method= ICA 
+
+ iter= 10 ;  day= 10 ;  method= ICA 
+
+ iter= 26 ;  day= 2 ;  method= PCA 
+
+ iter= 25 ;  day= 2 ;  method= PCA 
+
+ iter= 27 ;  day= 2 ;  method= PCA 
+
+ iter= 24 ;  day= 2 ;  method= PCA 
+
+ iter= 23 ;  day= 2 ;  method= PCA 
+
+ iter= 22 ;  day= 2 ;  method= PCA 
+
+ iter= 21 ;  day= 2 ;  method= PCA 
+
+ iter= 20 ;  day= 2 ;  method= PCA 
+
+ iter= 19 ;  day= 2 ;  method= PCA 
+
+ iter= 23 ;  day= 2 ;  method= ICA 
+
+ iter= 24 ;  day= 2 ;  method= ICA 
+
+ iter= 20 ;  day= 2 ;  method= ICA 
+
+ iter= 21 ;  day= 2 ;  method= ICA 
+
+ iter= 22 ;  day= 2 ;  method= ICA 
+
+ iter= 26 ;  day= 2 ;  method= ICA 
+
+ iter= 25 ;  day= 2 ;  method= ICA 
+
+ iter= 27 ;  day= 2 ;  method= ICA 
+
+ iter= 19 ;  day= 2 ;  method= ICA 
+
+ iter= 26 ;  day= 3 ;  method= PCA 
+
+ iter= 22 ;  day= 3 ;  method= PCA 
+
+ iter= 23 ;  day= 3 ;  method= PCA 
+
+ iter= 20 ;  day= 3 ;  method= PCA 
+
+ iter= 24 ;  day= 3 ;  method= PCA 
+
+ iter= 21 ;  day= 3 ;  method= PCA 
+
+ iter= 25 ;  day= 3 ;  method= PCA 
+
+ iter= 27 ;  day= 3 ;  method= PCA 
+
+ iter= 19 ;  day= 3 ;  method= PCA 
+
+ iter= 23 ;  day= 3 ;  method= ICA 
+
+ iter= 20 ;  day= 3 ;  method= ICA 
+
+ iter= 21 ;  day= 3 ;  method= ICA 
+
+ iter= 25 ;  day= 3 ;  method= ICA 
+
+ iter= 24 ;  day= 3 ;  method= ICA 
+
+ iter= 27 ;  day= 3 ;  method= ICA 
+
+ iter= 26 ;  day= 3 ;  method= ICA 
+
+ iter= 22 ;  day= 3 ;  method= ICA 
+
+ iter= 19 ;  day= 3 ;  method= ICA 
+
+ iter= 25 ;  day= 4 ;  method= PCA 
+
+ iter= 23 ;  day= 4 ;  method= PCA 
+
+ iter= 20 ;  day= 4 ;  method= PCA 
+
+ iter= 24 ;  day= 4 ;  method= PCA 
+
+ iter= 27 ;  day= 4 ;  method= PCA 
+
+ iter= 26 ;  day= 4 ;  method= PCA 
+
+ iter= 19 ;  day= 4 ;  method= PCA 
+
+ iter= 21 ;  day= 4 ;  method= PCA 
+
+ iter= 22 ;  day= 4 ;  method= PCA 
+
+ iter= 27 ;  day= 4 ;  method= ICA 
+
+ iter= 25 ;  day= 4 ;  method= ICA 
+
+ iter= 22 ;  day= 4 ;  method= ICA 
+
+ iter= 24 ;  day= 4 ;  method= ICA 
+
+ iter= 20 ;  day= 4 ;  method= ICA 
+
+ iter= 21 ;  day= 4 ;  method= ICA 
+
+ iter= 26 ;  day= 4 ;  method= ICA 
+
+ iter= 19 ;  day= 4 ;  method= ICA 
+
+ iter= 23 ;  day= 4 ;  method= ICA 
+
+ iter= 23 ;  day= 5 ;  method= PCA 
+
+ iter= 20 ;  day= 5 ;  method= PCA 
+
+ iter= 25 ;  day= 5 ;  method= PCA 
+
+ iter= 27 ;  day= 5 ;  method= PCA 
+
+ iter= 21 ;  day= 5 ;  method= PCA 
+
+ iter= 24 ;  day= 5 ;  method= PCA 
+
+ iter= 19 ;  day= 5 ;  method= PCA 
+
+ iter= 22 ;  day= 5 ;  method= PCA 
+
+ iter= 26 ;  day= 5 ;  method= PCA 
+
+ iter= 27 ;  day= 5 ;  method= ICA 
+
+ iter= 24 ;  day= 5 ;  method= ICA 
+
+ iter= 25 ;  day= 5 ;  method= ICA 
+
+ iter= 19 ;  day= 5 ;  method= ICA 
+
+ iter= 22 ;  day= 5 ;  method= ICA 
+
+ iter= 23 ;  day= 5 ;  method= ICA 
+
+ iter= 26 ;  day= 5 ;  method= ICA 
+
+ iter= 20 ;  day= 5 ;  method= ICA 
+
+ iter= 21 ;  day= 5 ;  method= ICA 
+
+ iter= 27 ;  day= 6 ;  method= PCA 
+
+ iter= 25 ;  day= 6 ;  method= PCA 
+
+ iter= 24 ;  day= 6 ;  method= PCA 
+
+ iter= 23 ;  day= 6 ;  method= PCA 
+
+ iter= 22 ;  day= 6 ;  method= PCA 
+
+ iter= 19 ;  day= 6 ;  method= PCA 
+
+ iter= 20 ;  day= 6 ;  method= PCA 
+
+ iter= 26 ;  day= 6 ;  method= PCA 
+
+ iter= 21 ;  day= 6 ;  method= PCA 
+
+ iter= 27 ;  day= 6 ;  method= ICA 
+
+ iter= 24 ;  day= 6 ;  method= ICA 
+
+ iter= 23 ;  day= 6 ;  method= ICA 
+
+ iter= 25 ;  day= 6 ;  method= ICA 
+
+ iter= 22 ;  day= 6 ;  method= ICA 
+
+ iter= 21 ;  day= 6 ;  method= ICA 
+
+ iter= 20 ;  day= 6 ;  method= ICA 
+
+ iter= 19 ;  day= 6 ;  method= ICA 
+
+ iter= 26 ;  day= 6 ;  method= ICA 
+
+ iter= 27 ;  day= 7 ;  method= PCA 
+
+ iter= 25 ;  day= 7 ;  method= PCA 
+
+ iter= 24 ;  day= 7 ;  method= PCA 
+
+ iter= 23 ;  day= 7 ;  method= PCA 
+
+ iter= 21 ;  day= 7 ;  method= PCA 
+
+ iter= 22 ;  day= 7 ;  method= PCA 
+
+ iter= 20 ;  day= 7 ;  method= PCA 
+
+ iter= 19 ;  day= 7 ;  method= PCA 
+
+ iter= 26 ;  day= 7 ;  method= PCA 
+
+ iter= 27 ;  day= 7 ;  method= ICA 
+
+ iter= 24 ;  day= 7 ;  method= ICA 
+
+ iter= 23 ;  day= 7 ;  method= ICA 
+
+ iter= 22 ;  day= 7 ;  method= ICA 
+
+ iter= 21 ;  day= 7 ;  method= ICA 
+
+ iter= 20 ;  day= 7 ;  method= ICA 
+
+ iter= 19 ;  day= 7 ;  method= ICA 
+
+ iter= 26 ;  day= 7 ;  method= ICA 
+
+ iter= 25 ;  day= 7 ;  method= ICA 
+
+ iter= 27 ;  day= 8 ;  method= PCA 
+
+ iter= 25 ;  day= 8 ;  method= PCA 
+
+ iter= 26 ;  day= 8 ;  method= PCA 
+
+ iter= 20 ;  day= 8 ;  method= PCA 
+
+ iter= 22 ;  day= 8 ;  method= PCA 
+
+ iter= 23 ;  day= 8 ;  method= PCA 
+
+ iter= 24 ;  day= 8 ;  method= PCA 
+
+ iter= 21 ;  day= 8 ;  method= PCA 
+
+ iter= 19 ;  day= 8 ;  method= PCA 
+
+ iter= 27 ;  day= 8 ;  method= ICA 
+
+ iter= 21 ;  day= 8 ;  method= ICA 
+
+ iter= 23 ;  day= 8 ;  method= ICA 
+
+ iter= 20 ;  day= 8 ;  method= ICA 
+
+ iter= 25 ;  day= 8 ;  method= ICA 
+
+ iter= 24 ;  day= 8 ;  method= ICA 
+
+ iter= 22 ;  day= 8 ;  method= ICA 
+
+ iter= 26 ;  day= 8 ;  method= ICA 
+
+ iter= 19 ;  day= 8 ;  method= ICA 
+
+ iter= 27 ;  day= 9 ;  method= PCA 
+
+ iter= 20 ;  day= 9 ;  method= PCA 
+
+ iter= 21 ;  day= 9 ;  method= PCA 
+
+ iter= 24 ;  day= 9 ;  method= PCA 
+
+ iter= 25 ;  day= 9 ;  method= PCA 
+
+ iter= 22 ;  day= 9 ;  method= PCA 
+
+ iter= 19 ;  day= 9 ;  method= PCA 
+
+ iter= 26 ;  day= 9 ;  method= PCA 
+
+ iter= 23 ;  day= 9 ;  method= PCA 
+
+ iter= 27 ;  day= 9 ;  method= ICA 
+
+ iter= 24 ;  day= 9 ;  method= ICA 
+
+ iter= 20 ;  day= 9 ;  method= ICA 
+
+ iter= 25 ;  day= 9 ;  method= ICA 
+
+ iter= 26 ;  day= 9 ;  method= ICA 
+
+ iter= 19 ;  day= 9 ;  method= ICA 
+
+ iter= 23 ;  day= 9 ;  method= ICA 
+
+ iter= 22 ;  day= 9 ;  method= ICA 
+
+ iter= 21 ;  day= 9 ;  method= ICA 
+
+ iter= 27 ;  day= 10 ;  method= PCA 
+
+ iter= 26 ;  day= 10 ;  method= PCA 
+
+ iter= 20 ;  day= 10 ;  method= PCA 
+
+ iter= 19 ;  day= 10 ;  method= PCA 
+
+ iter= 21 ;  day= 10 ;  method= PCA 
+
+ iter= 24 ;  day= 10 ;  method= PCA 
+
+ iter= 23 ;  day= 10 ;  method= PCA 
+
+ iter= 25 ;  day= 10 ;  method= PCA 
+
+ iter= 22 ;  day= 10 ;  method= PCA 
+
+ iter= 27 ;  day= 10 ;  method= ICA 
+
+ iter= 21 ;  day= 10 ;  method= ICA 
+
+ iter= 26 ;  day= 10 ;  method= ICA 
+
+ iter= 19 ;  day= 10 ;  method= ICA 
+
+ iter= 24 ;  day= 10 ;  method= ICA 
+
+ iter= 23 ;  day= 10 ;  method= ICA 
+
+ iter= 36 ;  day= 2 ;  method= PCA 
+
+ iter= 20 ;  day= 10 ;  method= ICA 
+
+ iter= 22 ;  day= 10 ;  method= ICA 
+
+ iter= 25 ;  day= 10 ;  method= ICA 
+
+ iter= 30 ;  day= 2 ;  method= PCA 
+
+ iter= 32 ;  day= 2 ;  method= PCA 
+
+ iter= 28 ;  day= 2 ;  method= PCA 
+
+ iter= 33 ;  day= 2 ;  method= PCA 
+
+ iter= 35 ;  day= 2 ;  method= PCA 
+
+ iter= 29 ;  day= 2 ;  method= PCA 
+
+ iter= 31 ;  day= 2 ;  method= PCA 
+
+ iter= 34 ;  day= 2 ;  method= PCA 
+
+ iter= 36 ;  day= 2 ;  method= ICA 
+
+ iter= 32 ;  day= 2 ;  method= ICA 
+
+ iter= 30 ;  day= 2 ;  method= ICA 
+
+ iter= 28 ;  day= 2 ;  method= ICA 
+
+ iter= 36 ;  day= 3 ;  method= PCA 
+
+ iter= 35 ;  day= 2 ;  method= ICA 
+
+ iter= 33 ;  day= 2 ;  method= ICA 
+
+ iter= 34 ;  day= 2 ;  method= ICA 
+
+ iter= 29 ;  day= 2 ;  method= ICA 
+
+ iter= 31 ;  day= 2 ;  method= ICA 
+
+ iter= 32 ;  day= 3 ;  method= PCA 
+
+ iter= 36 ;  day= 3 ;  method= ICA 
+
+ iter= 28 ;  day= 3 ;  method= PCA 
+
+ iter= 30 ;  day= 3 ;  method= PCA 
+
+ iter= 33 ;  day= 3 ;  method= PCA 
+
+ iter= 35 ;  day= 3 ;  method= PCA 
+
+ iter= 29 ;  day= 3 ;  method= PCA 
+
+ iter= 31 ;  day= 3 ;  method= PCA 
+
+ iter= 34 ;  day= 3 ;  method= PCA 
+
+ iter= 32 ;  day= 3 ;  method= ICA 
+
+ iter= 36 ;  day= 4 ;  method= PCA 
+
+ iter= 28 ;  day= 3 ;  method= ICA 
+
+ iter= 30 ;  day= 3 ;  method= ICA 
+
+ iter= 35 ;  day= 3 ;  method= ICA 
+
+ iter= 31 ;  day= 3 ;  method= ICA 
+
+ iter= 29 ;  day= 3 ;  method= ICA 
+
+ iter= 33 ;  day= 3 ;  method= ICA 
+
+ iter= 34 ;  day= 3 ;  method= ICA 
+
+ iter= 32 ;  day= 4 ;  method= PCA 
+
+ iter= 28 ;  day= 4 ;  method= PCA 
+
+ iter= 35 ;  day= 4 ;  method= PCA 
+
+ iter= 33 ;  day= 4 ;  method= PCA 
+
+ iter= 29 ;  day= 4 ;  method= PCA 
+
+ iter= 34 ;  day= 4 ;  method= PCA 
+
+ iter= 36 ;  day= 4 ;  method= ICA 
+
+ iter= 31 ;  day= 4 ;  method= PCA 
+
+ iter= 30 ;  day= 4 ;  method= PCA 
+
+ iter= 33 ;  day= 4 ;  method= ICA 
+
+ iter= 32 ;  day= 4 ;  method= ICA 
+
+ iter= 31 ;  day= 4 ;  method= ICA 
+
+ iter= 28 ;  day= 4 ;  method= ICA 
+
+ iter= 36 ;  day= 5 ;  method= PCA 
+
+ iter= 34 ;  day= 4 ;  method= ICA 
+
+ iter= 35 ;  day= 4 ;  method= ICA 
+
+ iter= 29 ;  day= 4 ;  method= ICA 
+
+ iter= 30 ;  day= 4 ;  method= ICA 
+
+ iter= 31 ;  day= 5 ;  method= PCA 
+
+ iter= 30 ;  day= 5 ;  method= PCA 
+
+ iter= 34 ;  day= 5 ;  method= PCA 
+
+ iter= 35 ;  day= 5 ;  method= PCA 
+
+ iter= 29 ;  day= 5 ;  method= PCA 
+
+ iter= 28 ;  day= 5 ;  method= PCA 
+
+ iter= 32 ;  day= 5 ;  method= PCA 
+
+ iter= 33 ;  day= 5 ;  method= PCA 
+
+ iter= 36 ;  day= 5 ;  method= ICA 
+
+ iter= 34 ;  day= 5 ;  method= ICA 
+
+ iter= 29 ;  day= 5 ;  method= ICA 
+
+ iter= 35 ;  day= 5 ;  method= ICA 
+
+ iter= 28 ;  day= 5 ;  method= ICA 
+
+ iter= 30 ;  day= 5 ;  method= ICA 
+
+ iter= 31 ;  day= 5 ;  method= ICA 
+
+ iter= 32 ;  day= 5 ;  method= ICA 
+
+ iter= 36 ;  day= 6 ;  method= PCA 
+
+ iter= 33 ;  day= 5 ;  method= ICA 
+
+ iter= 35 ;  day= 6 ;  method= PCA 
+
+ iter= 34 ;  day= 6 ;  method= PCA 
+
+ iter= 29 ;  day= 6 ;  method= PCA 
+
+ iter= 28 ;  day= 6 ;  method= PCA 
+
+ iter= 31 ;  day= 6 ;  method= PCA 
+
+ iter= 32 ;  day= 6 ;  method= PCA 
+
+ iter= 30 ;  day= 6 ;  method= PCA 
+
+ iter= 33 ;  day= 6 ;  method= PCA 
+
+ iter= 36 ;  day= 6 ;  method= ICA 
+
+ iter= 28 ;  day= 6 ;  method= ICA 
+
+ iter= 35 ;  day= 6 ;  method= ICA 
+
+ iter= 32 ;  day= 6 ;  method= ICA 
+
+ iter= 29 ;  day= 6 ;  method= ICA 
+
+ iter= 36 ;  day= 7 ;  method= PCA 
+
+ iter= 31 ;  day= 6 ;  method= ICA 
+
+ iter= 33 ;  day= 6 ;  method= ICA 
+
+ iter= 30 ;  day= 6 ;  method= ICA 
+
+ iter= 34 ;  day= 6 ;  method= ICA 
+
+ iter= 28 ;  day= 7 ;  method= PCA 
+
+ iter= 29 ;  day= 7 ;  method= PCA 
+
+ iter= 35 ;  day= 7 ;  method= PCA 
+
+ iter= 33 ;  day= 7 ;  method= PCA 
+
+ iter= 32 ;  day= 7 ;  method= PCA 
+
+ iter= 30 ;  day= 7 ;  method= PCA 
+
+ iter= 31 ;  day= 7 ;  method= PCA 
+
+ iter= 34 ;  day= 7 ;  method= PCA 
+
+ iter= 36 ;  day= 7 ;  method= ICA 
+
+ iter= 28 ;  day= 7 ;  method= ICA 
+
+ iter= 33 ;  day= 7 ;  method= ICA 
+
+ iter= 35 ;  day= 7 ;  method= ICA 
+
+ iter= 29 ;  day= 7 ;  method= ICA 
+
+ iter= 36 ;  day= 8 ;  method= PCA 
+
+ iter= 30 ;  day= 7 ;  method= ICA 
+
+ iter= 34 ;  day= 7 ;  method= ICA 
+
+ iter= 32 ;  day= 7 ;  method= ICA 
+
+ iter= 31 ;  day= 7 ;  method= ICA 
+
+ iter= 34 ;  day= 8 ;  method= PCA 
+
+ iter= 28 ;  day= 8 ;  method= PCA 
+
+ iter= 33 ;  day= 8 ;  method= PCA 
+
+ iter= 31 ;  day= 8 ;  method= PCA 
+
+ iter= 32 ;  day= 8 ;  method= PCA 
+
+ iter= 29 ;  day= 8 ;  method= PCA 
+
+ iter= 35 ;  day= 8 ;  method= PCA 
+
+ iter= 30 ;  day= 8 ;  method= PCA 
+
+ iter= 36 ;  day= 8 ;  method= ICA 
+
+ iter= 36 ;  day= 9 ;  method= PCA 
+
+ iter= 34 ;  day= 8 ;  method= ICA 
+
+ iter= 31 ;  day= 8 ;  method= ICA 
+
+ iter= 29 ;  day= 8 ;  method= ICA 
+
+ iter= 30 ;  day= 8 ;  method= ICA 
+
+ iter= 35 ;  day= 8 ;  method= ICA 
+
+ iter= 33 ;  day= 8 ;  method= ICA 
+
+ iter= 32 ;  day= 8 ;  method= ICA 
+
+ iter= 28 ;  day= 8 ;  method= ICA 
+
+ iter= 31 ;  day= 9 ;  method= PCA 
+
+ iter= 34 ;  day= 9 ;  method= PCA 
+
+ iter= 36 ;  day= 9 ;  method= ICA 
+
+ iter= 33 ;  day= 9 ;  method= PCA 
+
+ iter= 30 ;  day= 9 ;  method= PCA 
+
+ iter= 28 ;  day= 9 ;  method= PCA 
+
+ iter= 29 ;  day= 9 ;  method= PCA 
+
+ iter= 32 ;  day= 9 ;  method= PCA 
+
+ iter= 35 ;  day= 9 ;  method= PCA 
+
+ iter= 36 ;  day= 10 ;  method= PCA 
+
+ iter= 34 ;  day= 9 ;  method= ICA 
+
+ iter= 31 ;  day= 9 ;  method= ICA 
+
+ iter= 29 ;  day= 9 ;  method= ICA 
+
+ iter= 30 ;  day= 9 ;  method= ICA 
+
+ iter= 28 ;  day= 9 ;  method= ICA 
+
+ iter= 35 ;  day= 9 ;  method= ICA 
+
+ iter= 33 ;  day= 9 ;  method= ICA 
+
+ iter= 32 ;  day= 9 ;  method= ICA 
+
+ iter= 31 ;  day= 10 ;  method= PCA 
+
+ iter= 36 ;  day= 10 ;  method= ICA 
+
+ iter= 34 ;  day= 10 ;  method= PCA 
+
+ iter= 28 ;  day= 10 ;  method= PCA 
+
+ iter= 35 ;  day= 10 ;  method= PCA 
+
+ iter= 33 ;  day= 10 ;  method= PCA 
+
+ iter= 29 ;  day= 10 ;  method= PCA 
+
+ iter= 30 ;  day= 10 ;  method= PCA 
+
+ iter= 32 ;  day= 10 ;  method= PCA 
+
+ iter= 45 ;  day= 2 ;  method= PCA 
+
+ iter= 31 ;  day= 10 ;  method= ICA 
+
+ iter= 29 ;  day= 10 ;  method= ICA 
+
+ iter= 35 ;  day= 10 ;  method= ICA 
+
+ iter= 34 ;  day= 10 ;  method= ICA 
+
+ iter= 30 ;  day= 10 ;  method= ICA 
+
+ iter= 28 ;  day= 10 ;  method= ICA 
+
+ iter= 32 ;  day= 10 ;  method= ICA 
+
+ iter= 33 ;  day= 10 ;  method= ICA 
+
+ iter= 37 ;  day= 2 ;  method= PCA 
+
+ iter= 39 ;  day= 2 ;  method= PCA 
+
+ iter= 41 ;  day= 2 ;  method= PCA 
+
+ iter= 38 ;  day= 2 ;  method= PCA 
+
+ iter= 40 ;  day= 2 ;  method= PCA 
+
+ iter= 45 ;  day= 2 ;  method= ICA 
+
+ iter= 44 ;  day= 2 ;  method= PCA 
+
+ iter= 42 ;  day= 2 ;  method= PCA 
+
+ iter= 43 ;  day= 2 ;  method= PCA 
+
+ iter= 45 ;  day= 3 ;  method= PCA 
+
+ iter= 41 ;  day= 2 ;  method= ICA 
+
+ iter= 38 ;  day= 2 ;  method= ICA 
+
+ iter= 44 ;  day= 2 ;  method= ICA 
+
+ iter= 43 ;  day= 2 ;  method= ICA 
+
+ iter= 39 ;  day= 2 ;  method= ICA 
+
+ iter= 37 ;  day= 2 ;  method= ICA 
+
+ iter= 42 ;  day= 2 ;  method= ICA 
+
+ iter= 40 ;  day= 2 ;  method= ICA 
+
+ iter= 45 ;  day= 3 ;  method= ICA 
+
+ iter= 42 ;  day= 3 ;  method= PCA 
+
+ iter= 41 ;  day= 3 ;  method= PCA 
+
+ iter= 40 ;  day= 3 ;  method= PCA 
+
+ iter= 38 ;  day= 3 ;  method= PCA 
+
+ iter= 44 ;  day= 3 ;  method= PCA 
+
+ iter= 37 ;  day= 3 ;  method= PCA 
+
+ iter= 39 ;  day= 3 ;  method= PCA 
+
+ iter= 43 ;  day= 3 ;  method= PCA 
+
+ iter= 45 ;  day= 4 ;  method= PCA 
+
+ iter= 44 ;  day= 3 ;  method= ICA 
+
+ iter= 42 ;  day= 3 ;  method= ICA 
+
+ iter= 37 ;  day= 3 ;  method= ICA 
+
+ iter= 38 ;  day= 3 ;  method= ICA 
+
+ iter= 41 ;  day= 3 ;  method= ICA 
+
+ iter= 43 ;  day= 3 ;  method= ICA 
+
+ iter= 39 ;  day= 3 ;  method= ICA 
+
+ iter= 40 ;  day= 3 ;  method= ICA 
+
+ iter= 45 ;  day= 4 ;  method= ICA 
+
+ iter= 37 ;  day= 4 ;  method= PCA 
+
+ iter= 44 ;  day= 4 ;  method= PCA 
+
+ iter= 39 ;  day= 4 ;  method= PCA 
+
+ iter= 38 ;  day= 4 ;  method= PCA 
+
+ iter= 40 ;  day= 4 ;  method= PCA 
+
+ iter= 42 ;  day= 4 ;  method= PCA 
+
+ iter= 43 ;  day= 4 ;  method= PCA 
+
+ iter= 41 ;  day= 4 ;  method= PCA 
+
+ iter= 45 ;  day= 5 ;  method= PCA 
+
+ iter= 37 ;  day= 4 ;  method= ICA 
+
+ iter= 39 ;  day= 4 ;  method= ICA 
+
+ iter= 38 ;  day= 4 ;  method= ICA 
+
+ iter= 43 ;  day= 4 ;  method= ICA 
+
+ iter= 40 ;  day= 4 ;  method= ICA 
+
+ iter= 44 ;  day= 4 ;  method= ICA 
+
+ iter= 42 ;  day= 4 ;  method= ICA 
+
+ iter= 41 ;  day= 4 ;  method= ICA 
+
+ iter= 45 ;  day= 5 ;  method= ICA 
+
+ iter= 39 ;  day= 5 ;  method= PCA 
+
+ iter= 37 ;  day= 5 ;  method= PCA 
+
+ iter= 38 ;  day= 5 ;  method= PCA 
+
+ iter= 40 ;  day= 5 ;  method= PCA 
+
+ iter= 44 ;  day= 5 ;  method= PCA 
+
+ iter= 43 ;  day= 5 ;  method= PCA 
+
+ iter= 42 ;  day= 5 ;  method= PCA 
+
+ iter= 41 ;  day= 5 ;  method= PCA 
+
+ iter= 45 ;  day= 6 ;  method= PCA 
+
+ iter= 39 ;  day= 5 ;  method= ICA 
+
+ iter= 37 ;  day= 5 ;  method= ICA 
+
+ iter= 40 ;  day= 5 ;  method= ICA 
+
+ iter= 43 ;  day= 5 ;  method= ICA 
+
+ iter= 42 ;  day= 5 ;  method= ICA 
+
+ iter= 38 ;  day= 5 ;  method= ICA 
+
+ iter= 41 ;  day= 5 ;  method= ICA 
+
+ iter= 44 ;  day= 5 ;  method= ICA 
+
+ iter= 39 ;  day= 6 ;  method= PCA 
+
+ iter= 45 ;  day= 6 ;  method= ICA 
+
+ iter= 40 ;  day= 6 ;  method= PCA 
+
+ iter= 43 ;  day= 6 ;  method= PCA 
+
+ iter= 41 ;  day= 6 ;  method= PCA 
+
+ iter= 42 ;  day= 6 ;  method= PCA 
+
+ iter= 38 ;  day= 6 ;  method= PCA 
+
+ iter= 44 ;  day= 6 ;  method= PCA 
+
+ iter= 37 ;  day= 6 ;  method= PCA 
+
+ iter= 45 ;  day= 7 ;  method= PCA 
+
+ iter= 41 ;  day= 6 ;  method= ICA 
+
+ iter= 39 ;  day= 6 ;  method= ICA 
+
+ iter= 40 ;  day= 6 ;  method= ICA 
+
+ iter= 43 ;  day= 6 ;  method= ICA 
+
+ iter= 44 ;  day= 6 ;  method= ICA 
+
+ iter= 42 ;  day= 6 ;  method= ICA 
+
+ iter= 37 ;  day= 6 ;  method= ICA 
+
+ iter= 38 ;  day= 6 ;  method= ICA 
+
+ iter= 45 ;  day= 7 ;  method= ICA 
+
+ iter= 41 ;  day= 7 ;  method= PCA 
+
+ iter= 40 ;  day= 7 ;  method= PCA 
+
+ iter= 39 ;  day= 7 ;  method= PCA 
+
+ iter= 44 ;  day= 7 ;  method= PCA 
+
+ iter= 37 ;  day= 7 ;  method= PCA 
+
+ iter= 42 ;  day= 7 ;  method= PCA 
+
+ iter= 43 ;  day= 7 ;  method= PCA 
+
+ iter= 38 ;  day= 7 ;  method= PCA 
+
+ iter= 45 ;  day= 8 ;  method= PCA 
+
+ iter= 41 ;  day= 7 ;  method= ICA 
+
+ iter= 39 ;  day= 7 ;  method= ICA 
+
+ iter= 40 ;  day= 7 ;  method= ICA 
+
+ iter= 44 ;  day= 7 ;  method= ICA 
+
+ iter= 42 ;  day= 7 ;  method= ICA 
+
+ iter= 37 ;  day= 7 ;  method= ICA 
+
+ iter= 38 ;  day= 7 ;  method= ICA 
+
+ iter= 43 ;  day= 7 ;  method= ICA 
+
+ iter= 45 ;  day= 8 ;  method= ICA 
+
+ iter= 41 ;  day= 8 ;  method= PCA 
+
+ iter= 39 ;  day= 8 ;  method= PCA 
+
+ iter= 40 ;  day= 8 ;  method= PCA 
+
+ iter= 38 ;  day= 8 ;  method= PCA 
+
+ iter= 42 ;  day= 8 ;  method= PCA 
+
+ iter= 37 ;  day= 8 ;  method= PCA 
+
+ iter= 44 ;  day= 8 ;  method= PCA 
+
+ iter= 43 ;  day= 8 ;  method= PCA 
+
+ iter= 45 ;  day= 9 ;  method= PCA 
+
+ iter= 39 ;  day= 8 ;  method= ICA 
+
+ iter= 41 ;  day= 8 ;  method= ICA 
+
+ iter= 38 ;  day= 8 ;  method= ICA 
+
+ iter= 37 ;  day= 8 ;  method= ICA 
+
+ iter= 42 ;  day= 8 ;  method= ICA 
+
+ iter= 44 ;  day= 8 ;  method= ICA 
+
+ iter= 40 ;  day= 8 ;  method= ICA 
+
+ iter= 43 ;  day= 8 ;  method= ICA 
+
+ iter= 45 ;  day= 9 ;  method= ICA 
+
+ iter= 39 ;  day= 9 ;  method= PCA 
+
+ iter= 40 ;  day= 9 ;  method= PCA 
+
+ iter= 43 ;  day= 9 ;  method= PCA 
+
+ iter= 44 ;  day= 9 ;  method= PCA 
+
+ iter= 45 ;  day= 10 ;  method= PCA 
+
+ iter= 41 ;  day= 9 ;  method= PCA 
+
+ iter= 38 ;  day= 9 ;  method= PCA 
+
+ iter= 37 ;  day= 9 ;  method= PCA 
+
+ iter= 42 ;  day= 9 ;  method= PCA 
+
+ iter= 39 ;  day= 9 ;  method= ICA 
+
+ iter= 38 ;  day= 9 ;  method= ICA 
+
+ iter= 37 ;  day= 9 ;  method= ICA 
+
+ iter= 42 ;  day= 9 ;  method= ICA 
+
+ iter= 43 ;  day= 9 ;  method= ICA 
+
+ iter= 40 ;  day= 9 ;  method= ICA 
+
+ iter= 44 ;  day= 9 ;  method= ICA 
+
+ iter= 45 ;  day= 10 ;  method= ICA 
+
+ iter= 39 ;  day= 10 ;  method= PCA 
+
+ iter= 41 ;  day= 9 ;  method= ICA 
+
+ iter= 42 ;  day= 10 ;  method= PCA 
+
+ iter= 43 ;  day= 10 ;  method= PCA 
+
+ iter= 38 ;  day= 10 ;  method= PCA 
+
+ iter= 37 ;  day= 10 ;  method= PCA 
+
+ iter= 40 ;  day= 10 ;  method= PCA 
+
+ iter= 44 ;  day= 10 ;  method= PCA 
+
+ iter= 39 ;  day= 10 ;  method= ICA 
+
+ iter= 41 ;  day= 10 ;  method= PCA 
+
+ iter= 37 ;  day= 10 ;  method= ICA 
+
+ iter= 43 ;  day= 10 ;  method= ICA 
+
+ iter= 42 ;  day= 10 ;  method= ICA 
+
+ iter= 38 ;  day= 10 ;  method= ICA 
+
+ iter= 40 ;  day= 10 ;  method= ICA 
+
+ iter= 44 ;  day= 10 ;  method= ICA 
+
+ iter= 48 ;  day= 2 ;  method= PCA 
+
+ iter= 41 ;  day= 10 ;  method= ICA 
+
+ iter= 46 ;  day= 2 ;  method= PCA 
+
+ iter= 47 ;  day= 2 ;  method= PCA 
+
+ iter= 49 ;  day= 2 ;  method= PCA 
+
+ iter= 50 ;  day= 2 ;  method= PCA 
+
+ iter= 48 ;  day= 2 ;  method= ICA 
+
+ iter= 46 ;  day= 2 ;  method= ICA 
+
+ iter= 47 ;  day= 2 ;  method= ICA 
+
+ iter= 49 ;  day= 2 ;  method= ICA 
+
+ iter= 50 ;  day= 2 ;  method= ICA 
+
+ iter= 48 ;  day= 3 ;  method= PCA 
+
+ iter= 46 ;  day= 3 ;  method= PCA 
+
+ iter= 47 ;  day= 3 ;  method= PCA 
+
+ iter= 49 ;  day= 3 ;  method= PCA 
+
+ iter= 50 ;  day= 3 ;  method= PCA 
+
+ iter= 48 ;  day= 3 ;  method= ICA 
+
+ iter= 46 ;  day= 3 ;  method= ICA 
+
+ iter= 47 ;  day= 3 ;  method= ICA 
+
+ iter= 49 ;  day= 3 ;  method= ICA 
+
+ iter= 48 ;  day= 4 ;  method= PCA 
+
+ iter= 50 ;  day= 3 ;  method= ICA 
+
+ iter= 46 ;  day= 4 ;  method= PCA 
+
+ iter= 47 ;  day= 4 ;  method= PCA 
+
+ iter= 49 ;  day= 4 ;  method= PCA 
+
+ iter= 50 ;  day= 4 ;  method= PCA 
+
+ iter= 48 ;  day= 4 ;  method= ICA 
+
+ iter= 46 ;  day= 4 ;  method= ICA 
+
+ iter= 49 ;  day= 4 ;  method= ICA 
+
+ iter= 47 ;  day= 4 ;  method= ICA 
+
+ iter= 48 ;  day= 5 ;  method= PCA 
+
+ iter= 50 ;  day= 4 ;  method= ICA 
+
+ iter= 46 ;  day= 5 ;  method= PCA 
+
+ iter= 49 ;  day= 5 ;  method= PCA 
+
+ iter= 47 ;  day= 5 ;  method= PCA 
+
+ iter= 50 ;  day= 5 ;  method= PCA 
+
+ iter= 48 ;  day= 5 ;  method= ICA 
+
+ iter= 46 ;  day= 5 ;  method= ICA 
+
+ iter= 49 ;  day= 5 ;  method= ICA 
+
+ iter= 47 ;  day= 5 ;  method= ICA 
+
+ iter= 48 ;  day= 6 ;  method= PCA 
+
+ iter= 50 ;  day= 5 ;  method= ICA 
+
+ iter= 46 ;  day= 6 ;  method= PCA 
+
+ iter= 49 ;  day= 6 ;  method= PCA 
+
+ iter= 47 ;  day= 6 ;  method= PCA 
+
+ iter= 48 ;  day= 6 ;  method= ICA 
+
+ iter= 50 ;  day= 6 ;  method= PCA 
+
+ iter= 46 ;  day= 6 ;  method= ICA 
+
+ iter= 49 ;  day= 6 ;  method= ICA 
+
+ iter= 47 ;  day= 6 ;  method= ICA 
+
+ iter= 48 ;  day= 7 ;  method= PCA 
+
+ iter= 50 ;  day= 6 ;  method= ICA 
+
+ iter= 46 ;  day= 7 ;  method= PCA 
+
+ iter= 49 ;  day= 7 ;  method= PCA 
+
+ iter= 47 ;  day= 7 ;  method= PCA 
+
+ iter= 48 ;  day= 7 ;  method= ICA 
+
+ iter= 50 ;  day= 7 ;  method= PCA 
+
+ iter= 46 ;  day= 7 ;  method= ICA 
+
+ iter= 49 ;  day= 7 ;  method= ICA 
+
+ iter= 47 ;  day= 7 ;  method= ICA 
+
+ iter= 48 ;  day= 8 ;  method= PCA 
+
+ iter= 50 ;  day= 7 ;  method= ICA 
+
+ iter= 46 ;  day= 8 ;  method= PCA 
+
+ iter= 49 ;  day= 8 ;  method= PCA 
+
+ iter= 47 ;  day= 8 ;  method= PCA 
+
+ iter= 48 ;  day= 8 ;  method= ICA 
+
+ iter= 50 ;  day= 8 ;  method= PCA 
+
+ iter= 46 ;  day= 8 ;  method= ICA 
+
+ iter= 49 ;  day= 8 ;  method= ICA 
+
+ iter= 47 ;  day= 8 ;  method= ICA 
+
+ iter= 48 ;  day= 9 ;  method= PCA 
+
+ iter= 50 ;  day= 8 ;  method= ICA 
+
+ iter= 46 ;  day= 9 ;  method= PCA 
+
+ iter= 49 ;  day= 9 ;  method= PCA 
+
+ iter= 47 ;  day= 9 ;  method= PCA 
+
+ iter= 48 ;  day= 9 ;  method= ICA 
+
+ iter= 50 ;  day= 9 ;  method= PCA 
+
+ iter= 46 ;  day= 9 ;  method= ICA 
+
+ iter= 49 ;  day= 9 ;  method= ICA 
+
+ iter= 47 ;  day= 9 ;  method= ICA 
+
+ iter= 48 ;  day= 10 ;  method= PCA 
+
+ iter= 50 ;  day= 9 ;  method= ICA 
+
+ iter= 46 ;  day= 10 ;  method= PCA 
+
+ iter= 49 ;  day= 10 ;  method= PCA 
+
+ iter= 47 ;  day= 10 ;  method= PCA 
+
+ iter= 48 ;  day= 10 ;  method= ICA 
+
+ iter= 50 ;  day= 10 ;  method= PCA 
+
+ iter= 46 ;  day= 10 ;  method= ICA 
+
+ iter= 49 ;  day= 10 ;  method= ICA 
+
+ iter= 47 ;  day= 10 ;  method= ICA 
+
+ iter= 50 ;  day= 10 ;  method= ICA 
+
+ iter= 1 ;  day= 2 ;  method= PCA 
+
+ iter= 2 ;  day= 2 ;  method= PCA 
+
+ iter= 3 ;  day= 2 ;  method= PCA 
+
+ iter= 4 ;  day= 2 ;  method= PCA 
+
+ iter= 5 ;  day= 2 ;  method= PCA 
+
+ iter= 6 ;  day= 2 ;  method= PCA 
+
+ iter= 7 ;  day= 2 ;  method= PCA 
+
+ iter= 8 ;  day= 2 ;  method= PCA 
+
+ iter= 9 ;  day= 2 ;  method= PCA 
+
+ iter= 8 ;  day= 2 ;  method= RPCA 
+
+ iter= 6 ;  day= 2 ;  method= RPCA 
+
+ iter= 9 ;  day= 2 ;  method= RPCA 
+
+ iter= 2 ;  day= 2 ;  method= RPCA 
+
+ iter= 7 ;  day= 2 ;  method= RPCA 
+
+ iter= 4 ;  day= 2 ;  method= RPCA 
+
+ iter= 3 ;  day= 2 ;  method= RPCA 
+
+ iter= 5 ;  day= 2 ;  method= RPCA 
+
+ iter= 1 ;  day= 2 ;  method= RPCA 
+
+ iter= 6 ;  day= 3 ;  method= PCA 
+
+ iter= 8 ;  day= 3 ;  method= PCA 
+
+ iter= 3 ;  day= 3 ;  method= PCA 
+
+ iter= 7 ;  day= 3 ;  method= PCA 
+
+ iter= 4 ;  day= 3 ;  method= PCA 
+
+ iter= 9 ;  day= 3 ;  method= PCA 
+
+ iter= 5 ;  day= 3 ;  method= PCA 
+
+ iter= 2 ;  day= 3 ;  method= PCA 
+
+ iter= 1 ;  day= 3 ;  method= PCA 
+
+ iter= 8 ;  day= 3 ;  method= RPCA 
+
+ iter= 6 ;  day= 3 ;  method= RPCA 
+
+ iter= 5 ;  day= 3 ;  method= RPCA 
+
+ iter= 2 ;  day= 3 ;  method= RPCA 
+
+ iter= 1 ;  day= 3 ;  method= RPCA 
+
+ iter= 3 ;  day= 3 ;  method= RPCA 
+
+ iter= 9 ;  day= 3 ;  method= RPCA 
+
+ iter= 4 ;  day= 3 ;  method= RPCA 
+
+ iter= 7 ;  day= 3 ;  method= RPCA 
+
+ iter= 8 ;  day= 4 ;  method= PCA 
+
+ iter= 6 ;  day= 4 ;  method= PCA 
+
+ iter= 5 ;  day= 4 ;  method= PCA 
+
+ iter= 3 ;  day= 4 ;  method= PCA 
+
+ iter= 2 ;  day= 4 ;  method= PCA 
+
+ iter= 7 ;  day= 4 ;  method= PCA 
+
+ iter= 4 ;  day= 4 ;  method= PCA 
+
+ iter= 1 ;  day= 4 ;  method= PCA 
+
+ iter= 9 ;  day= 4 ;  method= PCA 
+
+ iter= 8 ;  day= 4 ;  method= RPCA 
+
+ iter= 6 ;  day= 4 ;  method= RPCA 
+
+ iter= 5 ;  day= 4 ;  method= RPCA 
+
+ iter= 9 ;  day= 4 ;  method= RPCA 
+
+ iter= 1 ;  day= 4 ;  method= RPCA 
+
+ iter= 7 ;  day= 4 ;  method= RPCA 
+
+ iter= 3 ;  day= 4 ;  method= RPCA 
+
+ iter= 2 ;  day= 4 ;  method= RPCA 
+
+ iter= 4 ;  day= 4 ;  method= RPCA 
+
+ iter= 8 ;  day= 5 ;  method= PCA 
+
+ iter= 6 ;  day= 5 ;  method= PCA 
+
+ iter= 5 ;  day= 5 ;  method= PCA 
+
+ iter= 3 ;  day= 5 ;  method= PCA 
+
+ iter= 4 ;  day= 5 ;  method= PCA 
+
+ iter= 9 ;  day= 5 ;  method= PCA 
+
+ iter= 7 ;  day= 5 ;  method= PCA 
+
+ iter= 1 ;  day= 5 ;  method= PCA 
+
+ iter= 2 ;  day= 5 ;  method= PCA 
+
+ iter= 8 ;  day= 5 ;  method= RPCA 
+
+ iter= 6 ;  day= 5 ;  method= RPCA 
+
+ iter= 5 ;  day= 5 ;  method= RPCA 
+
+ iter= 3 ;  day= 5 ;  method= RPCA 
+
+ iter= 8 ;  day= 6 ;  method= PCA 
+
+ iter= 4 ;  day= 5 ;  method= RPCA 
+
+ iter= 9 ;  day= 5 ;  method= RPCA 
+
+ iter= 2 ;  day= 5 ;  method= RPCA 
+
+ iter= 7 ;  day= 5 ;  method= RPCA 
+
+ iter= 6 ;  day= 6 ;  method= PCA 
+
+ iter= 1 ;  day= 5 ;  method= RPCA 
+
+ iter= 5 ;  day= 6 ;  method= PCA 
+
+ iter= 9 ;  day= 6 ;  method= PCA 
+
+ iter= 2 ;  day= 6 ;  method= PCA 
+
+ iter= 7 ;  day= 6 ;  method= PCA 
+
+ iter= 8 ;  day= 6 ;  method= RPCA 
+
+ iter= 3 ;  day= 6 ;  method= PCA 
+
+ iter= 1 ;  day= 6 ;  method= PCA 
+
+ iter= 6 ;  day= 6 ;  method= RPCA 
+
+ iter= 4 ;  day= 6 ;  method= PCA 
+
+ iter= 5 ;  day= 6 ;  method= RPCA 
+
+ iter= 6 ;  day= 7 ;  method= PCA 
+
+ iter= 3 ;  day= 6 ;  method= RPCA 
+
+ iter= 4 ;  day= 6 ;  method= RPCA 
+
+ iter= 8 ;  day= 7 ;  method= PCA 
+
+ iter= 9 ;  day= 6 ;  method= RPCA 
+
+ iter= 7 ;  day= 6 ;  method= RPCA 
+
+ iter= 5 ;  day= 7 ;  method= PCA 
+
+ iter= 2 ;  day= 6 ;  method= RPCA 
+
+ iter= 1 ;  day= 6 ;  method= RPCA 
+
+ iter= 6 ;  day= 7 ;  method= RPCA 
+
+ iter= 9 ;  day= 7 ;  method= PCA 
+
+ iter= 7 ;  day= 7 ;  method= PCA 
+
+ iter= 2 ;  day= 7 ;  method= PCA 
+
+ iter= 3 ;  day= 7 ;  method= PCA 
+
+ iter= 4 ;  day= 7 ;  method= PCA 
+
+ iter= 1 ;  day= 7 ;  method= PCA 
+
+ iter= 5 ;  day= 7 ;  method= RPCA 
+
+ iter= 8 ;  day= 7 ;  method= RPCA 
+
+ iter= 6 ;  day= 8 ;  method= PCA 
+
+ iter= 5 ;  day= 8 ;  method= PCA 
+
+ iter= 8 ;  day= 8 ;  method= PCA 
+
+ iter= 4 ;  day= 7 ;  method= RPCA 
+
+ iter= 9 ;  day= 7 ;  method= RPCA 
+
+ iter= 7 ;  day= 7 ;  method= RPCA 
+
+ iter= 2 ;  day= 7 ;  method= RPCA 
+
+ iter= 3 ;  day= 7 ;  method= RPCA 
+
+ iter= 1 ;  day= 7 ;  method= RPCA 
+
+ iter= 6 ;  day= 8 ;  method= RPCA 
+
+ iter= 5 ;  day= 8 ;  method= RPCA 
+
+ iter= 4 ;  day= 8 ;  method= PCA 
+
+ iter= 3 ;  day= 8 ;  method= PCA 
+
+ iter= 8 ;  day= 8 ;  method= RPCA 
+
+ iter= 9 ;  day= 8 ;  method= PCA 
+
+ iter= 1 ;  day= 8 ;  method= PCA 
+
+ iter= 2 ;  day= 8 ;  method= PCA 
+
+ iter= 7 ;  day= 8 ;  method= PCA 
+
+ iter= 5 ;  day= 9 ;  method= PCA 
+
+ iter= 6 ;  day= 9 ;  method= PCA 
+
+ iter= 8 ;  day= 9 ;  method= PCA 
+
+ iter= 3 ;  day= 8 ;  method= RPCA 
+
+ iter= 4 ;  day= 8 ;  method= RPCA 
+
+ iter= 7 ;  day= 8 ;  method= RPCA 
+
+ iter= 2 ;  day= 8 ;  method= RPCA 
+
+ iter= 9 ;  day= 8 ;  method= RPCA 
+
+ iter= 1 ;  day= 8 ;  method= RPCA 
+
+ iter= 6 ;  day= 9 ;  method= RPCA 
+
+ iter= 5 ;  day= 9 ;  method= RPCA 
+
+ iter= 3 ;  day= 9 ;  method= PCA 
+
+ iter= 4 ;  day= 9 ;  method= PCA 
+
+ iter= 8 ;  day= 9 ;  method= RPCA 
+
+ iter= 1 ;  day= 9 ;  method= PCA 
+
+ iter= 9 ;  day= 9 ;  method= PCA 
+
+ iter= 6 ;  day= 10 ;  method= PCA 
+
+ iter= 5 ;  day= 10 ;  method= PCA 
+
+ iter= 2 ;  day= 9 ;  method= PCA 
+
+ iter= 7 ;  day= 9 ;  method= PCA 
+
+ iter= 3 ;  day= 9 ;  method= RPCA 
+
+ iter= 8 ;  day= 10 ;  method= PCA 
+
+ iter= 6 ;  day= 10 ;  method= RPCA 
+
+ iter= 9 ;  day= 9 ;  method= RPCA 
+
+ iter= 2 ;  day= 9 ;  method= RPCA 
+
+ iter= 7 ;  day= 9 ;  method= RPCA 
+
+ iter= 5 ;  day= 10 ;  method= RPCA 
+
+ iter= 4 ;  day= 9 ;  method= RPCA 
+
+ iter= 1 ;  day= 9 ;  method= RPCA 
+
+ iter= 3 ;  day= 10 ;  method= PCA 
+
+ iter= 2 ;  day= 10 ;  method= PCA 
+
+ iter= 4 ;  day= 10 ;  method= PCA 
+
+ iter= 1 ;  day= 10 ;  method= PCA 
+
+ iter= 15 ;  day= 2 ;  method= PCA 
+
+ iter= 9 ;  day= 10 ;  method= PCA 
+
+ iter= 14 ;  day= 2 ;  method= PCA 
+
+ iter= 7 ;  day= 10 ;  method= PCA 
+
+ iter= 8 ;  day= 10 ;  method= RPCA 
+
+ iter= 3 ;  day= 10 ;  method= RPCA 
+
+ iter= 2 ;  day= 10 ;  method= RPCA 
+
+ iter= 4 ;  day= 10 ;  method= RPCA 
+
+ iter= 17 ;  day= 2 ;  method= PCA 
+
+ iter= 12 ;  day= 2 ;  method= PCA 
+
+ iter= 1 ;  day= 10 ;  method= RPCA 
+
+ iter= 15 ;  day= 2 ;  method= RPCA 
+
+ iter= 9 ;  day= 10 ;  method= RPCA 
+
+ iter= 7 ;  day= 10 ;  method= RPCA 
+
+ iter= 14 ;  day= 2 ;  method= RPCA 
+
+ iter= 11 ;  day= 2 ;  method= PCA 
+
+ iter= 13 ;  day= 2 ;  method= PCA 
+
+ iter= 17 ;  day= 2 ;  method= RPCA 
+
+ iter= 10 ;  day= 2 ;  method= PCA 
+
+ iter= 12 ;  day= 2 ;  method= RPCA 
+
+ iter= 15 ;  day= 3 ;  method= PCA 
+
+ iter= 16 ;  day= 2 ;  method= PCA 
+
+ iter= 14 ;  day= 3 ;  method= PCA 
+
+ iter= 18 ;  day= 2 ;  method= PCA 
+
+ iter= 17 ;  day= 3 ;  method= PCA 
+
+ iter= 11 ;  day= 2 ;  method= RPCA 
+
+ iter= 13 ;  day= 2 ;  method= RPCA 
+
+ iter= 12 ;  day= 3 ;  method= PCA 
+
+ iter= 10 ;  day= 2 ;  method= RPCA 
+
+ iter= 15 ;  day= 3 ;  method= RPCA 
+
+ iter= 16 ;  day= 2 ;  method= RPCA 
+
+ iter= 14 ;  day= 3 ;  method= RPCA 
+
+ iter= 18 ;  day= 2 ;  method= RPCA 
+
+ iter= 11 ;  day= 3 ;  method= PCA 
+
+ iter= 13 ;  day= 3 ;  method= PCA 
+
+ iter= 17 ;  day= 3 ;  method= RPCA 
+
+ iter= 14 ;  day= 4 ;  method= PCA 
+
+ iter= 15 ;  day= 4 ;  method= PCA 
+
+ iter= 16 ;  day= 3 ;  method= PCA 
+
+ iter= 10 ;  day= 3 ;  method= PCA 
+
+ iter= 18 ;  day= 3 ;  method= PCA 
+
+ iter= 12 ;  day= 3 ;  method= RPCA 
+
+ iter= 17 ;  day= 4 ;  method= PCA 
+
+ iter= 11 ;  day= 3 ;  method= RPCA 
+
+ iter= 13 ;  day= 3 ;  method= RPCA 
+
+ iter= 14 ;  day= 4 ;  method= RPCA 
+
+ iter= 11 ;  day= 4 ;  method= PCA 
+
+ iter= 12 ;  day= 4 ;  method= PCA 
+
+ iter= 15 ;  day= 4 ;  method= RPCA 
+
+ iter= 13 ;  day= 4 ;  method= PCA 
+
+ iter= 18 ;  day= 3 ;  method= RPCA 
+
+ iter= 16 ;  day= 3 ;  method= RPCA 
+
+ iter= 10 ;  day= 3 ;  method= RPCA 
+
+ iter= 17 ;  day= 4 ;  method= RPCA 
+
+ iter= 14 ;  day= 5 ;  method= PCA 
+
+ iter= 17 ;  day= 5 ;  method= PCA 
+
+ iter= 16 ;  day= 4 ;  method= PCA 
+
+ iter= 12 ;  day= 4 ;  method= RPCA 
+
+ iter= 10 ;  day= 4 ;  method= PCA 
+
+ iter= 15 ;  day= 5 ;  method= PCA 
+
+ iter= 18 ;  day= 4 ;  method= PCA 
+
+ iter= 11 ;  day= 4 ;  method= RPCA 
+
+ iter= 13 ;  day= 4 ;  method= RPCA 
+
+ iter= 14 ;  day= 5 ;  method= RPCA 
+
+ iter= 12 ;  day= 5 ;  method= PCA 
+
+ iter= 17 ;  day= 5 ;  method= RPCA 
+
+ iter= 16 ;  day= 4 ;  method= RPCA 
+
+ iter= 11 ;  day= 5 ;  method= PCA 
+
+ iter= 10 ;  day= 4 ;  method= RPCA 
+
+ iter= 15 ;  day= 5 ;  method= RPCA 
+
+ iter= 13 ;  day= 5 ;  method= PCA 
+
+ iter= 18 ;  day= 4 ;  method= RPCA 
+
+ iter= 14 ;  day= 6 ;  method= PCA 
+
+ iter= 16 ;  day= 5 ;  method= PCA 
+
+ iter= 15 ;  day= 6 ;  method= PCA 
+
+ iter= 12 ;  day= 5 ;  method= RPCA 
+
+ iter= 18 ;  day= 5 ;  method= PCA 
+
+ iter= 10 ;  day= 5 ;  method= PCA 
+
+ iter= 11 ;  day= 5 ;  method= RPCA 
+
+ iter= 13 ;  day= 5 ;  method= RPCA 
+
+ iter= 17 ;  day= 6 ;  method= PCA 
+
+ iter= 14 ;  day= 6 ;  method= RPCA 
+
+ iter= 11 ;  day= 6 ;  method= PCA 
+
+ iter= 13 ;  day= 6 ;  method= PCA 
+
+ iter= 16 ;  day= 5 ;  method= RPCA 
+
+ iter= 15 ;  day= 6 ;  method= RPCA 
+
+ iter= 10 ;  day= 5 ;  method= RPCA 
+
+ iter= 17 ;  day= 6 ;  method= RPCA 
+
+ iter= 12 ;  day= 6 ;  method= PCA 
+
+ iter= 18 ;  day= 5 ;  method= RPCA 
+
+ iter= 14 ;  day= 7 ;  method= PCA 
+
+ iter= 11 ;  day= 6 ;  method= RPCA 
+
+ iter= 17 ;  day= 7 ;  method= PCA 
+
+ iter= 18 ;  day= 6 ;  method= PCA 
+
+ iter= 16 ;  day= 6 ;  method= PCA 
+
+ iter= 10 ;  day= 6 ;  method= PCA 
+
+ iter= 15 ;  day= 7 ;  method= PCA 
+
+ iter= 13 ;  day= 6 ;  method= RPCA 
+
+ iter= 12 ;  day= 6 ;  method= RPCA 
+
+ iter= 14 ;  day= 7 ;  method= RPCA 
+
+ iter= 11 ;  day= 7 ;  method= PCA 
+
+ iter= 12 ;  day= 7 ;  method= PCA 
+
+ iter= 14 ;  day= 8 ;  method= PCA 
+
+ iter= 15 ;  day= 7 ;  method= RPCA 
+
+ iter= 10 ;  day= 6 ;  method= RPCA 
+
+ iter= 16 ;  day= 6 ;  method= RPCA 
+
+ iter= 13 ;  day= 7 ;  method= PCA 
+
+ iter= 17 ;  day= 7 ;  method= RPCA 
+
+ iter= 18 ;  day= 6 ;  method= RPCA 
+
+ iter= 10 ;  day= 7 ;  method= PCA 
+
+ iter= 11 ;  day= 7 ;  method= RPCA 
+
+ iter= 17 ;  day= 8 ;  method= PCA 
+
+ iter= 15 ;  day= 8 ;  method= PCA 
+
+ iter= 16 ;  day= 7 ;  method= PCA 
+
+ iter= 12 ;  day= 7 ;  method= RPCA 
+
+ iter= 18 ;  day= 7 ;  method= PCA 
+
+ iter= 14 ;  day= 8 ;  method= RPCA 
+
+ iter= 13 ;  day= 7 ;  method= RPCA 
+
+ iter= 11 ;  day= 8 ;  method= PCA 
+
+ iter= 13 ;  day= 8 ;  method= PCA 
+
+ iter= 12 ;  day= 8 ;  method= PCA 
+
+ iter= 10 ;  day= 7 ;  method= RPCA 
+
+ iter= 18 ;  day= 7 ;  method= RPCA 
+
+ iter= 16 ;  day= 7 ;  method= RPCA 
+
+ iter= 14 ;  day= 9 ;  method= PCA 
+
+ iter= 15 ;  day= 8 ;  method= RPCA 
+
+ iter= 17 ;  day= 8 ;  method= RPCA 
+
+ iter= 13 ;  day= 8 ;  method= RPCA 
+
+ iter= 11 ;  day= 8 ;  method= RPCA 
+
+ iter= 15 ;  day= 9 ;  method= PCA 
+
+ iter= 18 ;  day= 8 ;  method= PCA 
+
+ iter= 14 ;  day= 9 ;  method= RPCA 
+
+ iter= 17 ;  day= 9 ;  method= PCA 
+
+ iter= 10 ;  day= 8 ;  method= PCA 
+
+ iter= 16 ;  day= 8 ;  method= PCA 
+
+ iter= 12 ;  day= 8 ;  method= RPCA 
+
+ iter= 13 ;  day= 9 ;  method= PCA 
+
+ iter= 14 ;  day= 10 ;  method= PCA 
+
+ iter= 11 ;  day= 9 ;  method= PCA 
+
+ iter= 18 ;  day= 8 ;  method= RPCA 
+
+ iter= 12 ;  day= 9 ;  method= PCA 
+
+ iter= 15 ;  day= 9 ;  method= RPCA 
+
+ iter= 10 ;  day= 8 ;  method= RPCA 
+
+ iter= 16 ;  day= 8 ;  method= RPCA 
+
+ iter= 17 ;  day= 9 ;  method= RPCA 
+
+ iter= 17 ;  day= 10 ;  method= PCA 
+
+ iter= 12 ;  day= 9 ;  method= RPCA 
+
+ iter= 10 ;  day= 9 ;  method= PCA 
+
+ iter= 16 ;  day= 9 ;  method= PCA 
+
+ iter= 18 ;  day= 9 ;  method= PCA 
+
+ iter= 13 ;  day= 9 ;  method= RPCA 
+
+ iter= 15 ;  day= 10 ;  method= PCA 
+
+ iter= 11 ;  day= 9 ;  method= RPCA 
+
+ iter= 14 ;  day= 10 ;  method= RPCA 
+
+ iter= 17 ;  day= 10 ;  method= RPCA 
+
+ iter= 13 ;  day= 10 ;  method= PCA 
+
+ iter= 16 ;  day= 9 ;  method= RPCA 
+
+ iter= 11 ;  day= 10 ;  method= PCA 
+
+ iter= 23 ;  day= 2 ;  method= PCA 
+
+ iter= 12 ;  day= 10 ;  method= PCA 
+
+ iter= 10 ;  day= 9 ;  method= RPCA 
+
+ iter= 18 ;  day= 9 ;  method= RPCA 
+
+ iter= 15 ;  day= 10 ;  method= RPCA 
+
+ iter= 26 ;  day= 2 ;  method= PCA 
+
+ iter= 16 ;  day= 10 ;  method= PCA 
+
+ iter= 10 ;  day= 10 ;  method= PCA 
+
+ iter= 24 ;  day= 2 ;  method= PCA 
+
+ iter= 18 ;  day= 10 ;  method= PCA 
+
+ iter= 13 ;  day= 10 ;  method= RPCA 
+
+ iter= 11 ;  day= 10 ;  method= RPCA 
+
+ iter= 12 ;  day= 10 ;  method= RPCA 
+
+ iter= 23 ;  day= 2 ;  method= RPCA 
+
+ iter= 21 ;  day= 2 ;  method= PCA 
+
+ iter= 26 ;  day= 2 ;  method= RPCA 
+
+ iter= 20 ;  day= 2 ;  method= PCA 
+
+ iter= 22 ;  day= 2 ;  method= PCA 
+
+ iter= 10 ;  day= 10 ;  method= RPCA 
+
+ iter= 24 ;  day= 2 ;  method= RPCA 
+
+ iter= 18 ;  day= 10 ;  method= RPCA 
+
+ iter= 16 ;  day= 10 ;  method= RPCA 
+
+ iter= 23 ;  day= 3 ;  method= PCA 
+
+ iter= 27 ;  day= 2 ;  method= PCA 
+
+ iter= 25 ;  day= 2 ;  method= PCA 
+
+ iter= 19 ;  day= 2 ;  method= PCA 
+
+ iter= 24 ;  day= 3 ;  method= PCA 
+
+ iter= 23 ;  day= 3 ;  method= RPCA 
+
+ iter= 26 ;  day= 3 ;  method= PCA 
+
+ iter= 20 ;  day= 2 ;  method= RPCA 
+
+ iter= 21 ;  day= 2 ;  method= RPCA 
+
+ iter= 22 ;  day= 2 ;  method= RPCA 
+
+ iter= 27 ;  day= 2 ;  method= RPCA 
+
+ iter= 24 ;  day= 3 ;  method= RPCA 
+
+ iter= 26 ;  day= 3 ;  method= RPCA 
+
+ iter= 23 ;  day= 4 ;  method= PCA 
+
+ iter= 25 ;  day= 2 ;  method= RPCA 
+
+ iter= 19 ;  day= 2 ;  method= RPCA 
+
+ iter= 22 ;  day= 3 ;  method= PCA 
+
+ iter= 21 ;  day= 3 ;  method= PCA 
+
+ iter= 20 ;  day= 3 ;  method= PCA 
+
+ iter= 24 ;  day= 4 ;  method= PCA 
+
+ iter= 27 ;  day= 3 ;  method= PCA 
+
+ iter= 26 ;  day= 4 ;  method= PCA 
+
+ iter= 21 ;  day= 3 ;  method= RPCA 
+
+ iter= 20 ;  day= 3 ;  method= RPCA 
+
+ iter= 23 ;  day= 4 ;  method= RPCA 
+
+ iter= 22 ;  day= 3 ;  method= RPCA 
+
+ iter= 19 ;  day= 3 ;  method= PCA 
+
+ iter= 25 ;  day= 3 ;  method= PCA 
+
+ iter= 24 ;  day= 4 ;  method= RPCA 
+
+ iter= 27 ;  day= 3 ;  method= RPCA 
+
+ iter= 26 ;  day= 4 ;  method= RPCA 
+
+ iter= 20 ;  day= 4 ;  method= PCA 
+
+ iter= 21 ;  day= 4 ;  method= PCA 
+
+ iter= 22 ;  day= 4 ;  method= PCA 
+
+ iter= 23 ;  day= 5 ;  method= PCA 
+
+ iter= 24 ;  day= 5 ;  method= PCA 
+
+ iter= 25 ;  day= 3 ;  method= RPCA 
+
+ iter= 19 ;  day= 3 ;  method= RPCA 
+
+ iter= 27 ;  day= 4 ;  method= PCA 
+
+ iter= 26 ;  day= 5 ;  method= PCA 
+
+ iter= 20 ;  day= 4 ;  method= RPCA 
+
+ iter= 19 ;  day= 4 ;  method= PCA 
+
+ iter= 25 ;  day= 4 ;  method= PCA 
+
+ iter= 22 ;  day= 4 ;  method= RPCA 
+
+ iter= 23 ;  day= 5 ;  method= RPCA 
+
+ iter= 24 ;  day= 5 ;  method= RPCA 
+
+ iter= 21 ;  day= 4 ;  method= RPCA 
+
+ iter= 27 ;  day= 4 ;  method= RPCA 
+
+ iter= 20 ;  day= 5 ;  method= PCA 
+
+ iter= 26 ;  day= 5 ;  method= RPCA 
+
+ iter= 24 ;  day= 6 ;  method= PCA 
+
+ iter= 27 ;  day= 5 ;  method= PCA 
+
+ iter= 21 ;  day= 5 ;  method= PCA 
+
+ iter= 25 ;  day= 4 ;  method= RPCA 
+
+ iter= 19 ;  day= 4 ;  method= RPCA 
+
+ iter= 23 ;  day= 6 ;  method= PCA 
+
+ iter= 22 ;  day= 5 ;  method= PCA 
+
+ iter= 26 ;  day= 6 ;  method= PCA 
+
+ iter= 20 ;  day= 5 ;  method= RPCA 
+
+ iter= 19 ;  day= 5 ;  method= PCA 
+
+ iter= 25 ;  day= 5 ;  method= PCA 
+
+ iter= 27 ;  day= 5 ;  method= RPCA 
+
+ iter= 24 ;  day= 6 ;  method= RPCA 
+
+ iter= 21 ;  day= 5 ;  method= RPCA 
+
+ iter= 22 ;  day= 5 ;  method= RPCA 
+
+ iter= 23 ;  day= 6 ;  method= RPCA 
+
+ iter= 26 ;  day= 6 ;  method= RPCA 
+
+ iter= 20 ;  day= 6 ;  method= PCA 
+
+ iter= 19 ;  day= 5 ;  method= RPCA 
+
+ iter= 22 ;  day= 6 ;  method= PCA 
+
+ iter= 26 ;  day= 7 ;  method= PCA 
+
+ iter= 23 ;  day= 7 ;  method= PCA 
+
+ iter= 25 ;  day= 5 ;  method= RPCA 
+
+ iter= 27 ;  day= 6 ;  method= PCA 
+
+ iter= 21 ;  day= 6 ;  method= PCA 
+
+ iter= 24 ;  day= 7 ;  method= PCA 
+
+ iter= 20 ;  day= 6 ;  method= RPCA 
+
+ iter= 19 ;  day= 6 ;  method= PCA 
+
+ iter= 26 ;  day= 7 ;  method= RPCA 
+
+ iter= 25 ;  day= 6 ;  method= PCA 
+
+ iter= 22 ;  day= 6 ;  method= RPCA 
+
+ iter= 23 ;  day= 7 ;  method= RPCA 
+
+ iter= 27 ;  day= 6 ;  method= RPCA 
+
+ iter= 24 ;  day= 7 ;  method= RPCA 
+
+ iter= 20 ;  day= 7 ;  method= PCA 
+
+ iter= 21 ;  day= 6 ;  method= RPCA 
+
+ iter= 19 ;  day= 6 ;  method= RPCA 
+
+ iter= 23 ;  day= 8 ;  method= PCA 
+
+ iter= 24 ;  day= 8 ;  method= PCA 
+
+ iter= 27 ;  day= 7 ;  method= PCA 
+
+ iter= 21 ;  day= 7 ;  method= PCA 
+
+ iter= 26 ;  day= 8 ;  method= PCA 
+
+ iter= 22 ;  day= 7 ;  method= PCA 
+
+ iter= 25 ;  day= 6 ;  method= RPCA 
+
+ iter= 20 ;  day= 7 ;  method= RPCA 
+
+ iter= 19 ;  day= 7 ;  method= PCA 
+
+ iter= 25 ;  day= 7 ;  method= PCA 
+
+ iter= 23 ;  day= 8 ;  method= RPCA 
+
+ iter= 22 ;  day= 7 ;  method= RPCA 
+
+ iter= 20 ;  day= 8 ;  method= PCA 
+
+ iter= 27 ;  day= 7 ;  method= RPCA 
+
+ iter= 21 ;  day= 7 ;  method= RPCA 
+
+ iter= 24 ;  day= 8 ;  method= RPCA 
+
+ iter= 26 ;  day= 8 ;  method= RPCA 
+
+ iter= 19 ;  day= 7 ;  method= RPCA 
+
+ iter= 23 ;  day= 9 ;  method= PCA 
+
+ iter= 27 ;  day= 8 ;  method= PCA 
+
+ iter= 21 ;  day= 8 ;  method= PCA 
+
+ iter= 25 ;  day= 7 ;  method= RPCA 
+
+ iter= 24 ;  day= 9 ;  method= PCA 
+
+ iter= 26 ;  day= 9 ;  method= PCA 
+
+ iter= 20 ;  day= 8 ;  method= RPCA 
+
+ iter= 22 ;  day= 8 ;  method= PCA 
+
+ iter= 19 ;  day= 8 ;  method= PCA 
+
+ iter= 20 ;  day= 9 ;  method= PCA 
+
+ iter= 25 ;  day= 8 ;  method= PCA 
+
+ iter= 22 ;  day= 8 ;  method= RPCA 
+
+ iter= 26 ;  day= 9 ;  method= RPCA 
+
+ iter= 21 ;  day= 8 ;  method= RPCA 
+
+ iter= 24 ;  day= 9 ;  method= RPCA 
+
+ iter= 19 ;  day= 8 ;  method= RPCA 
+
+ iter= 27 ;  day= 8 ;  method= RPCA 
+
+ iter= 23 ;  day= 9 ;  method= RPCA 
+
+ iter= 20 ;  day= 9 ;  method= RPCA 
+
+ iter= 22 ;  day= 9 ;  method= PCA 
+
+ iter= 19 ;  day= 9 ;  method= PCA 
+
+ iter= 23 ;  day= 10 ;  method= PCA 
+
+ iter= 21 ;  day= 9 ;  method= PCA 
+
+ iter= 26 ;  day= 10 ;  method= PCA 
+
+ iter= 25 ;  day= 8 ;  method= RPCA 
+
+ iter= 27 ;  day= 9 ;  method= PCA 
+
+ iter= 24 ;  day= 10 ;  method= PCA 
+
+ iter= 20 ;  day= 10 ;  method= PCA 
+
+ iter= 23 ;  day= 10 ;  method= RPCA 
+
+ iter= 25 ;  day= 9 ;  method= PCA 
+
+ iter= 22 ;  day= 9 ;  method= RPCA 
+
+ iter= 24 ;  day= 10 ;  method= RPCA 
+
+ iter= 19 ;  day= 9 ;  method= RPCA 
+
+ iter= 27 ;  day= 9 ;  method= RPCA 
+
+ iter= 26 ;  day= 10 ;  method= RPCA 
+
+ iter= 21 ;  day= 9 ;  method= RPCA 
+
+ iter= 20 ;  day= 10 ;  method= RPCA 
+
+ iter= 32 ;  day= 2 ;  method= PCA 
+
+ iter= 22 ;  day= 10 ;  method= PCA 
+
+ iter= 25 ;  day= 9 ;  method= RPCA 
+
+ iter= 21 ;  day= 10 ;  method= PCA 
+
+ iter= 29 ;  day= 2 ;  method= PCA 
+
+ iter= 33 ;  day= 2 ;  method= PCA 
+
+ iter= 35 ;  day= 2 ;  method= PCA 
+
+ iter= 19 ;  day= 10 ;  method= PCA 
+
+ iter= 27 ;  day= 10 ;  method= PCA 
+
+ iter= 32 ;  day= 2 ;  method= RPCA 
+
+ iter= 25 ;  day= 10 ;  method= PCA 
+
+ iter= 22 ;  day= 10 ;  method= RPCA 
+
+ iter= 21 ;  day= 10 ;  method= RPCA 
+
+ iter= 32 ;  day= 3 ;  method= PCA 
+
+ iter= 33 ;  day= 2 ;  method= RPCA 
+
+ iter= 29 ;  day= 2 ;  method= RPCA 
+
+ iter= 27 ;  day= 10 ;  method= RPCA 
+
+ iter= 35 ;  day= 2 ;  method= RPCA 
+
+ iter= 19 ;  day= 10 ;  method= RPCA 
+
+ iter= 25 ;  day= 10 ;  method= RPCA 
+
+ iter= 31 ;  day= 2 ;  method= PCA 
+
+ iter= 30 ;  day= 2 ;  method= PCA 
+
+ iter= 29 ;  day= 3 ;  method= PCA 
+
+ iter= 36 ;  day= 2 ;  method= PCA 
+
+ iter= 33 ;  day= 3 ;  method= PCA 
+
+ iter= 28 ;  day= 2 ;  method= PCA 
+
+ iter= 35 ;  day= 3 ;  method= PCA 
+
+ iter= 32 ;  day= 3 ;  method= RPCA 
+
+ iter= 34 ;  day= 2 ;  method= PCA 
+
+ iter= 32 ;  day= 4 ;  method= PCA 
+
+ iter= 29 ;  day= 3 ;  method= RPCA 
+
+ iter= 33 ;  day= 3 ;  method= RPCA 
+
+ iter= 36 ;  day= 2 ;  method= RPCA 
+
+ iter= 28 ;  day= 2 ;  method= RPCA 
+
+ iter= 35 ;  day= 3 ;  method= RPCA 
+
+ iter= 30 ;  day= 2 ;  method= RPCA 
+
+ iter= 31 ;  day= 2 ;  method= RPCA 
+
+ iter= 34 ;  day= 2 ;  method= RPCA 
+
+ iter= 35 ;  day= 4 ;  method= PCA 
+
+ iter= 30 ;  day= 3 ;  method= PCA 
+
+ iter= 31 ;  day= 3 ;  method= PCA 
+
+ iter= 32 ;  day= 4 ;  method= RPCA 
+
+ iter= 33 ;  day= 4 ;  method= PCA 
+
+ iter= 36 ;  day= 3 ;  method= PCA 
+
+ iter= 29 ;  day= 4 ;  method= PCA 
+
+ iter= 28 ;  day= 3 ;  method= PCA 
+
+ iter= 34 ;  day= 3 ;  method= PCA 
+
+ iter= 31 ;  day= 3 ;  method= RPCA 
+
+ iter= 30 ;  day= 3 ;  method= RPCA 
+
+ iter= 35 ;  day= 4 ;  method= RPCA 
+
+ iter= 32 ;  day= 5 ;  method= PCA 
+
+ iter= 36 ;  day= 3 ;  method= RPCA 
+
+ iter= 29 ;  day= 4 ;  method= RPCA 
+
+ iter= 33 ;  day= 4 ;  method= RPCA 
+
+ iter= 34 ;  day= 3 ;  method= RPCA 
+
+ iter= 28 ;  day= 3 ;  method= RPCA 
+
+ iter= 30 ;  day= 4 ;  method= PCA 
+
+ iter= 36 ;  day= 4 ;  method= PCA 
+
+ iter= 31 ;  day= 4 ;  method= PCA 
+
+ iter= 33 ;  day= 5 ;  method= PCA 
+
+ iter= 29 ;  day= 5 ;  method= PCA 
+
+ iter= 35 ;  day= 5 ;  method= PCA 
+
+ iter= 34 ;  day= 4 ;  method= PCA 
+
+ iter= 32 ;  day= 5 ;  method= RPCA 
+
+ iter= 28 ;  day= 4 ;  method= PCA 
+
+ iter= 32 ;  day= 6 ;  method= PCA 
+
+ iter= 30 ;  day= 4 ;  method= RPCA 
+
+ iter= 36 ;  day= 4 ;  method= RPCA 
+
+ iter= 31 ;  day= 4 ;  method= RPCA 
+
+ iter= 33 ;  day= 5 ;  method= RPCA 
+
+ iter= 29 ;  day= 5 ;  method= RPCA 
+
+ iter= 34 ;  day= 4 ;  method= RPCA 
+
+ iter= 35 ;  day= 5 ;  method= RPCA 
+
+ iter= 28 ;  day= 4 ;  method= RPCA 
+
+ iter= 30 ;  day= 5 ;  method= PCA 
+
+ iter= 33 ;  day= 6 ;  method= PCA 
+
+ iter= 35 ;  day= 6 ;  method= PCA 
+
+ iter= 29 ;  day= 6 ;  method= PCA 
+
+ iter= 28 ;  day= 5 ;  method= PCA 
+
+ iter= 36 ;  day= 5 ;  method= PCA 
+
+ iter= 31 ;  day= 5 ;  method= PCA 
+
+ iter= 34 ;  day= 5 ;  method= PCA 
+
+ iter= 32 ;  day= 6 ;  method= RPCA 
+
+ iter= 30 ;  day= 5 ;  method= RPCA 
+
+ iter= 33 ;  day= 6 ;  method= RPCA 
+
+ iter= 35 ;  day= 6 ;  method= RPCA 
+
+ iter= 36 ;  day= 5 ;  method= RPCA 
+
+ iter= 34 ;  day= 5 ;  method= RPCA 
+
+ iter= 32 ;  day= 7 ;  method= PCA 
+
+ iter= 31 ;  day= 5 ;  method= RPCA 
+
+ iter= 28 ;  day= 5 ;  method= RPCA 
+
+ iter= 29 ;  day= 6 ;  method= RPCA 
+
+ iter= 30 ;  day= 6 ;  method= PCA 
+
+ iter= 33 ;  day= 7 ;  method= PCA 
+
+ iter= 35 ;  day= 7 ;  method= PCA 
+
+ iter= 34 ;  day= 6 ;  method= PCA 
+
+ iter= 28 ;  day= 6 ;  method= PCA 
+
+ iter= 31 ;  day= 6 ;  method= PCA 
+
+ iter= 36 ;  day= 6 ;  method= PCA 
+
+ iter= 32 ;  day= 7 ;  method= RPCA 
+
+ iter= 29 ;  day= 7 ;  method= PCA 
+
+ iter= 30 ;  day= 6 ;  method= RPCA 
+
+ iter= 28 ;  day= 6 ;  method= RPCA 
+
+ iter= 34 ;  day= 6 ;  method= RPCA 
+
+ iter= 33 ;  day= 7 ;  method= RPCA 
+
+ iter= 32 ;  day= 8 ;  method= PCA 
+
+ iter= 35 ;  day= 7 ;  method= RPCA 
+
+ iter= 36 ;  day= 6 ;  method= RPCA 
+
+ iter= 29 ;  day= 7 ;  method= RPCA 
+
+ iter= 31 ;  day= 6 ;  method= RPCA 
+
+ iter= 36 ;  day= 7 ;  method= PCA 
+
+ iter= 31 ;  day= 7 ;  method= PCA 
+
+ iter= 29 ;  day= 8 ;  method= PCA 
+
+ iter= 30 ;  day= 7 ;  method= PCA 
+
+ iter= 28 ;  day= 7 ;  method= PCA 
+
+ iter= 35 ;  day= 8 ;  method= PCA 
+
+ iter= 32 ;  day= 8 ;  method= RPCA 
+
+ iter= 33 ;  day= 8 ;  method= PCA 
+
+ iter= 34 ;  day= 7 ;  method= PCA 
+
+ iter= 36 ;  day= 7 ;  method= RPCA 
+
+ iter= 33 ;  day= 8 ;  method= RPCA 
+
+ iter= 34 ;  day= 7 ;  method= RPCA 
+
+ iter= 29 ;  day= 8 ;  method= RPCA 
+
+ iter= 32 ;  day= 9 ;  method= PCA 
+
+ iter= 35 ;  day= 8 ;  method= RPCA 
+
+ iter= 30 ;  day= 7 ;  method= RPCA 
+
+ iter= 31 ;  day= 7 ;  method= RPCA 
+
+ iter= 28 ;  day= 7 ;  method= RPCA 
+
+ iter= 36 ;  day= 8 ;  method= PCA 
+
+ iter= 28 ;  day= 8 ;  method= PCA 
+
+ iter= 33 ;  day= 9 ;  method= PCA 
+
+ iter= 30 ;  day= 8 ;  method= PCA 
+
+ iter= 31 ;  day= 8 ;  method= PCA 
+
+ iter= 35 ;  day= 9 ;  method= PCA 
+
+ iter= 29 ;  day= 9 ;  method= PCA 
+
+ iter= 34 ;  day= 8 ;  method= PCA 
+
+ iter= 32 ;  day= 9 ;  method= RPCA 
+
+ iter= 32 ;  day= 10 ;  method= PCA 
+
+ iter= 31 ;  day= 8 ;  method= RPCA 
+
+ iter= 35 ;  day= 9 ;  method= RPCA 
+
+ iter= 34 ;  day= 8 ;  method= RPCA 
+
+ iter= 33 ;  day= 9 ;  method= RPCA 
+
+ iter= 30 ;  day= 8 ;  method= RPCA 
+
+ iter= 28 ;  day= 8 ;  method= RPCA 
+
+ iter= 29 ;  day= 9 ;  method= RPCA 
+
+ iter= 36 ;  day= 8 ;  method= RPCA 
+
+ iter= 31 ;  day= 9 ;  method= PCA 
+
+ iter= 35 ;  day= 10 ;  method= PCA 
+
+ iter= 33 ;  day= 10 ;  method= PCA 
+
+ iter= 32 ;  day= 10 ;  method= RPCA 
+
+ iter= 30 ;  day= 9 ;  method= PCA 
+
+ iter= 28 ;  day= 9 ;  method= PCA 
+
+ iter= 34 ;  day= 9 ;  method= PCA 
+
+ iter= 36 ;  day= 9 ;  method= PCA 
+
+ iter= 29 ;  day= 10 ;  method= PCA 
+
+ iter= 35 ;  day= 10 ;  method= RPCA 
+
+ iter= 31 ;  day= 9 ;  method= RPCA 
+
+ iter= 41 ;  day= 2 ;  method= PCA 
+
+ iter= 33 ;  day= 10 ;  method= RPCA 
+
+ iter= 28 ;  day= 9 ;  method= RPCA 
+
+ iter= 30 ;  day= 9 ;  method= RPCA 
+
+ iter= 36 ;  day= 9 ;  method= RPCA 
+
+ iter= 29 ;  day= 10 ;  method= RPCA 
+
+ iter= 34 ;  day= 9 ;  method= RPCA 
+
+ iter= 44 ;  day= 2 ;  method= PCA 
+
+ iter= 31 ;  day= 10 ;  method= PCA 
+
+ iter= 28 ;  day= 10 ;  method= PCA 
+
+ iter= 30 ;  day= 10 ;  method= PCA 
+
+ iter= 42 ;  day= 2 ;  method= PCA 
+
+ iter= 41 ;  day= 2 ;  method= RPCA 
+
+ iter= 36 ;  day= 10 ;  method= PCA 
+
+ iter= 38 ;  day= 2 ;  method= PCA 
+
+ iter= 34 ;  day= 10 ;  method= PCA 
+
+ iter= 44 ;  day= 2 ;  method= RPCA 
+
+ iter= 42 ;  day= 2 ;  method= RPCA 
+
+ iter= 41 ;  day= 3 ;  method= PCA 
+
+ iter= 31 ;  day= 10 ;  method= RPCA 
+
+ iter= 38 ;  day= 2 ;  method= RPCA 
+
+ iter= 30 ;  day= 10 ;  method= RPCA 
+
+ iter= 34 ;  day= 10 ;  method= RPCA 
+
+ iter= 28 ;  day= 10 ;  method= RPCA 
+
+ iter= 36 ;  day= 10 ;  method= RPCA 
+
+ iter= 44 ;  day= 3 ;  method= PCA 
+
+ iter= 38 ;  day= 3 ;  method= PCA 
+
+ iter= 45 ;  day= 2 ;  method= PCA 
+
+ iter= 39 ;  day= 2 ;  method= PCA 
+
+ iter= 42 ;  day= 3 ;  method= PCA 
+
+ iter= 37 ;  day= 2 ;  method= PCA 
+
+ iter= 40 ;  day= 2 ;  method= PCA 
+
+ iter= 43 ;  day= 2 ;  method= PCA 
+
+ iter= 41 ;  day= 3 ;  method= RPCA 
+
+ iter= 44 ;  day= 3 ;  method= RPCA 
+
+ iter= 41 ;  day= 4 ;  method= PCA 
+
+ iter= 38 ;  day= 3 ;  method= RPCA 
+
+ iter= 45 ;  day= 2 ;  method= RPCA 
+
+ iter= 43 ;  day= 2 ;  method= RPCA 
+
+ iter= 37 ;  day= 2 ;  method= RPCA 
+
+ iter= 40 ;  day= 2 ;  method= RPCA 
+
+ iter= 39 ;  day= 2 ;  method= RPCA 
+
+ iter= 42 ;  day= 3 ;  method= RPCA 
+
+ iter= 44 ;  day= 4 ;  method= PCA 
+
+ iter= 37 ;  day= 3 ;  method= PCA 
+
+ iter= 42 ;  day= 4 ;  method= PCA 
+
+ iter= 38 ;  day= 4 ;  method= PCA 
+
+ iter= 39 ;  day= 3 ;  method= PCA 
+
+ iter= 43 ;  day= 3 ;  method= PCA 
+
+ iter= 40 ;  day= 3 ;  method= PCA 
+
+ iter= 45 ;  day= 3 ;  method= PCA 
+
+ iter= 41 ;  day= 4 ;  method= RPCA 
+
+ iter= 44 ;  day= 4 ;  method= RPCA 
+
+ iter= 44 ;  day= 5 ;  method= PCA 
+
+ iter= 37 ;  day= 3 ;  method= RPCA 
+
+ iter= 41 ;  day= 5 ;  method= PCA 
+
+ iter= 38 ;  day= 4 ;  method= RPCA 
+
+ iter= 39 ;  day= 3 ;  method= RPCA 
+
+ iter= 43 ;  day= 3 ;  method= RPCA 
+
+ iter= 42 ;  day= 4 ;  method= RPCA 
+
+ iter= 40 ;  day= 3 ;  method= RPCA 
+
+ iter= 45 ;  day= 3 ;  method= RPCA 
+
+ iter= 38 ;  day= 5 ;  method= PCA 
+
+ iter= 37 ;  day= 4 ;  method= PCA 
+
+ iter= 43 ;  day= 4 ;  method= PCA 
+
+ iter= 42 ;  day= 5 ;  method= PCA 
+
+ iter= 45 ;  day= 4 ;  method= PCA 
+
+ iter= 39 ;  day= 4 ;  method= PCA 
+
+ iter= 40 ;  day= 4 ;  method= PCA 
+
+ iter= 41 ;  day= 5 ;  method= RPCA 
+
+ iter= 44 ;  day= 5 ;  method= RPCA 
+
+ iter= 41 ;  day= 6 ;  method= PCA 
+
+ iter= 44 ;  day= 6 ;  method= PCA 
+
+ iter= 38 ;  day= 5 ;  method= RPCA 
+
+ iter= 40 ;  day= 4 ;  method= RPCA 
+
+ iter= 43 ;  day= 4 ;  method= RPCA 
+
+ iter= 42 ;  day= 5 ;  method= RPCA 
+
+ iter= 39 ;  day= 4 ;  method= RPCA 
+
+ iter= 45 ;  day= 4 ;  method= RPCA 
+
+ iter= 37 ;  day= 4 ;  method= RPCA 
+
+ iter= 41 ;  day= 6 ;  method= RPCA 
+
+ iter= 44 ;  day= 6 ;  method= RPCA 
+
+ iter= 38 ;  day= 6 ;  method= PCA 
+
+ iter= 43 ;  day= 5 ;  method= PCA 
+
+ iter= 39 ;  day= 5 ;  method= PCA 
+
+ iter= 40 ;  day= 5 ;  method= PCA 
+
+ iter= 42 ;  day= 6 ;  method= PCA 
+
+ iter= 45 ;  day= 5 ;  method= PCA 
+
+ iter= 37 ;  day= 5 ;  method= PCA 
+
+ iter= 41 ;  day= 7 ;  method= PCA 
+
+ iter= 44 ;  day= 7 ;  method= PCA 
+
+ iter= 40 ;  day= 5 ;  method= RPCA 
+
+ iter= 38 ;  day= 6 ;  method= RPCA 
+
+ iter= 37 ;  day= 5 ;  method= RPCA 
+
+ iter= 43 ;  day= 5 ;  method= RPCA 
+
+ iter= 42 ;  day= 6 ;  method= RPCA 
+
+ iter= 39 ;  day= 5 ;  method= RPCA 
+
+ iter= 45 ;  day= 5 ;  method= RPCA 
+
+ iter= 41 ;  day= 7 ;  method= RPCA 
+
+ iter= 43 ;  day= 6 ;  method= PCA 
+
+ iter= 38 ;  day= 7 ;  method= PCA 
+
+ iter= 42 ;  day= 7 ;  method= PCA 
+
+ iter= 37 ;  day= 6 ;  method= PCA 
+
+ iter= 39 ;  day= 6 ;  method= PCA 
+
+ iter= 40 ;  day= 6 ;  method= PCA 
+
+ iter= 44 ;  day= 7 ;  method= RPCA 
+
+ iter= 45 ;  day= 6 ;  method= PCA 
+
+ iter= 41 ;  day= 8 ;  method= PCA 
+
+ iter= 44 ;  day= 8 ;  method= PCA 
+
+ iter= 45 ;  day= 6 ;  method= RPCA 
+
+ iter= 37 ;  day= 6 ;  method= RPCA 
+
+ iter= 39 ;  day= 6 ;  method= RPCA 
+
+ iter= 40 ;  day= 6 ;  method= RPCA 
+
+ iter= 38 ;  day= 7 ;  method= RPCA 
+
+ iter= 43 ;  day= 6 ;  method= RPCA 
+
+ iter= 42 ;  day= 7 ;  method= RPCA 
+
+ iter= 41 ;  day= 8 ;  method= RPCA 
+
+ iter= 43 ;  day= 7 ;  method= PCA 
+
+ iter= 42 ;  day= 8 ;  method= PCA 
+
+ iter= 37 ;  day= 7 ;  method= PCA 
+
+ iter= 45 ;  day= 7 ;  method= PCA 
+
+ iter= 38 ;  day= 8 ;  method= PCA 
+
+ iter= 39 ;  day= 7 ;  method= PCA 
+
+ iter= 40 ;  day= 7 ;  method= PCA 
+
+ iter= 41 ;  day= 9 ;  method= PCA 
+
+ iter= 44 ;  day= 8 ;  method= RPCA 
+
+ iter= 43 ;  day= 7 ;  method= RPCA 
+
+ iter= 42 ;  day= 8 ;  method= RPCA 
+
+ iter= 44 ;  day= 9 ;  method= PCA 
+
+ iter= 45 ;  day= 7 ;  method= RPCA 
+
+ iter= 41 ;  day= 9 ;  method= RPCA 
+
+ iter= 40 ;  day= 7 ;  method= RPCA 
+
+ iter= 38 ;  day= 8 ;  method= RPCA 
+
+ iter= 39 ;  day= 7 ;  method= RPCA 
+
+ iter= 37 ;  day= 7 ;  method= RPCA 
+
+ iter= 43 ;  day= 8 ;  method= PCA 
+
+ iter= 42 ;  day= 9 ;  method= PCA 
+
+ iter= 40 ;  day= 8 ;  method= PCA 
+
+ iter= 45 ;  day= 8 ;  method= PCA 
+
+ iter= 37 ;  day= 8 ;  method= PCA 
+
+ iter= 39 ;  day= 8 ;  method= PCA 
+
+ iter= 44 ;  day= 9 ;  method= RPCA 
+
+ iter= 41 ;  day= 10 ;  method= PCA 
+
+ iter= 38 ;  day= 9 ;  method= PCA 
+
+ iter= 43 ;  day= 8 ;  method= RPCA 
+
+ iter= 42 ;  day= 9 ;  method= RPCA 
+
+ iter= 40 ;  day= 8 ;  method= RPCA 
+
+ iter= 37 ;  day= 8 ;  method= RPCA 
+
+ iter= 43 ;  day= 9 ;  method= PCA 
+
+ iter= 38 ;  day= 9 ;  method= RPCA 
+
+ iter= 44 ;  day= 10 ;  method= PCA 
+
+ iter= 39 ;  day= 8 ;  method= RPCA 
+
+ iter= 45 ;  day= 8 ;  method= RPCA 
+
+ iter= 41 ;  day= 10 ;  method= RPCA 
+
+ iter= 42 ;  day= 10 ;  method= PCA 
+
+ iter= 37 ;  day= 9 ;  method= PCA 
+
+ iter= 40 ;  day= 9 ;  method= PCA 
+
+ iter= 38 ;  day= 10 ;  method= PCA 
+
+ iter= 39 ;  day= 9 ;  method= PCA 
+
+ iter= 45 ;  day= 9 ;  method= PCA 
+
+ iter= 50 ;  day= 2 ;  method= PCA 
+
+ iter= 43 ;  day= 9 ;  method= RPCA 
+
+ iter= 44 ;  day= 10 ;  method= RPCA 
+
+ iter= 42 ;  day= 10 ;  method= RPCA 
+
+ iter= 37 ;  day= 9 ;  method= RPCA 
+
+ iter= 40 ;  day= 9 ;  method= RPCA 
+
+ iter= 45 ;  day= 9 ;  method= RPCA 
+
+ iter= 43 ;  day= 10 ;  method= PCA 
+
+ iter= 39 ;  day= 9 ;  method= RPCA 
+
+ iter= 50 ;  day= 2 ;  method= RPCA 
+
+ iter= 38 ;  day= 10 ;  method= RPCA 
+
+ iter= 45 ;  day= 10 ;  method= PCA 
+
+ iter= 40 ;  day= 10 ;  method= PCA 
+
+ iter= 37 ;  day= 10 ;  method= PCA 
+
+ iter= 39 ;  day= 10 ;  method= PCA 
+
+ iter= 50 ;  day= 3 ;  method= PCA 
+
+ iter= 43 ;  day= 10 ;  method= RPCA 
+
+ iter= 47 ;  day= 2 ;  method= PCA 
+
+ iter= 50 ;  day= 3 ;  method= RPCA 
+
+ iter= 45 ;  day= 10 ;  method= RPCA 
+
+ iter= 37 ;  day= 10 ;  method= RPCA 
+
+ iter= 40 ;  day= 10 ;  method= RPCA 
+
+ iter= 39 ;  day= 10 ;  method= RPCA 
+
+ iter= 47 ;  day= 2 ;  method= RPCA 
+
+ iter= 50 ;  day= 4 ;  method= PCA 
+
+ iter= 46 ;  day= 2 ;  method= PCA 
+
+ iter= 49 ;  day= 2 ;  method= PCA 
+
+ iter= 48 ;  day= 2 ;  method= PCA 
+
+ iter= 47 ;  day= 3 ;  method= PCA 
+
+ iter= 50 ;  day= 4 ;  method= RPCA 
+
+ iter= 46 ;  day= 2 ;  method= RPCA 
+
+ iter= 49 ;  day= 2 ;  method= RPCA 
+
+ iter= 48 ;  day= 2 ;  method= RPCA 
+
+ iter= 47 ;  day= 3 ;  method= RPCA 
+
+ iter= 50 ;  day= 5 ;  method= PCA 
+
+ iter= 46 ;  day= 3 ;  method= PCA 
+
+ iter= 49 ;  day= 3 ;  method= PCA 
+
+ iter= 48 ;  day= 3 ;  method= PCA 
+
+ iter= 47 ;  day= 4 ;  method= PCA 
+
+ iter= 50 ;  day= 5 ;  method= RPCA 
+
+ iter= 46 ;  day= 3 ;  method= RPCA 
+
+ iter= 49 ;  day= 3 ;  method= RPCA 
+
+ iter= 48 ;  day= 3 ;  method= RPCA 
+
+ iter= 47 ;  day= 4 ;  method= RPCA 
+
+ iter= 50 ;  day= 6 ;  method= PCA 
+
+ iter= 46 ;  day= 4 ;  method= PCA 
+
+ iter= 49 ;  day= 4 ;  method= PCA 
+
+ iter= 48 ;  day= 4 ;  method= PCA 
+
+ iter= 47 ;  day= 5 ;  method= PCA 
+
+ iter= 50 ;  day= 6 ;  method= RPCA 
+
+ iter= 46 ;  day= 4 ;  method= RPCA 
+
+ iter= 49 ;  day= 4 ;  method= RPCA 
+
+ iter= 48 ;  day= 4 ;  method= RPCA 
+
+ iter= 47 ;  day= 5 ;  method= RPCA 
+
+ iter= 50 ;  day= 7 ;  method= PCA 
+
+ iter= 46 ;  day= 5 ;  method= PCA 
+
+ iter= 49 ;  day= 5 ;  method= PCA 
+
+ iter= 48 ;  day= 5 ;  method= PCA 
+
+ iter= 47 ;  day= 6 ;  method= PCA 
+
+ iter= 50 ;  day= 7 ;  method= RPCA 
+
+ iter= 46 ;  day= 5 ;  method= RPCA 
+
+ iter= 49 ;  day= 5 ;  method= RPCA 
+
+ iter= 48 ;  day= 5 ;  method= RPCA 
+
+ iter= 47 ;  day= 6 ;  method= RPCA 
+
+ iter= 50 ;  day= 8 ;  method= PCA 
+
+ iter= 46 ;  day= 6 ;  method= PCA 
+
+ iter= 49 ;  day= 6 ;  method= PCA 
+
+ iter= 48 ;  day= 6 ;  method= PCA 
+
+ iter= 47 ;  day= 7 ;  method= PCA 
+
+ iter= 50 ;  day= 8 ;  method= RPCA 
+
+ iter= 46 ;  day= 6 ;  method= RPCA 
+
+ iter= 49 ;  day= 6 ;  method= RPCA 
+
+ iter= 48 ;  day= 6 ;  method= RPCA 
+
+ iter= 47 ;  day= 7 ;  method= RPCA 
+
+ iter= 50 ;  day= 9 ;  method= PCA 
+
+ iter= 46 ;  day= 7 ;  method= PCA 
+
+ iter= 49 ;  day= 7 ;  method= PCA 
+
+ iter= 48 ;  day= 7 ;  method= PCA 
+
+ iter= 47 ;  day= 8 ;  method= PCA 
+
+ iter= 50 ;  day= 9 ;  method= RPCA 
+
+ iter= 46 ;  day= 7 ;  method= RPCA 
+
+ iter= 49 ;  day= 7 ;  method= RPCA 
+
+ iter= 48 ;  day= 7 ;  method= RPCA 
+
+ iter= 47 ;  day= 8 ;  method= RPCA 
+
+ iter= 50 ;  day= 10 ;  method= PCA 
+
+ iter= 46 ;  day= 8 ;  method= PCA 
+
+ iter= 49 ;  day= 8 ;  method= PCA 
+
+ iter= 48 ;  day= 8 ;  method= PCA 
+
+ iter= 47 ;  day= 9 ;  method= PCA 
+
+ iter= 50 ;  day= 10 ;  method= RPCA 
+
+ iter= 46 ;  day= 8 ;  method= RPCA 
+
+ iter= 49 ;  day= 8 ;  method= RPCA 
+
+ iter= 48 ;  day= 8 ;  method= RPCA 
+
+ iter= 47 ;  day= 9 ;  method= RPCA 
+
+ iter= 46 ;  day= 9 ;  method= PCA 
+
+ iter= 49 ;  day= 9 ;  method= PCA 
+
+ iter= 48 ;  day= 9 ;  method= PCA 
+
+ iter= 47 ;  day= 10 ;  method= PCA 
+
+ iter= 46 ;  day= 9 ;  method= RPCA 
+
+ iter= 49 ;  day= 9 ;  method= RPCA 
+
+ iter= 48 ;  day= 9 ;  method= RPCA 
+
+ iter= 47 ;  day= 10 ;  method= RPCA 
+
+ iter= 46 ;  day= 10 ;  method= PCA 
+
+ iter= 49 ;  day= 10 ;  method= PCA 
+
+ iter= 48 ;  day= 10 ;  method= PCA 
+
+ iter= 46 ;  day= 10 ;  method= RPCA 
+
+ iter= 49 ;  day= 10 ;  method= RPCA 
+
+ iter= 48 ;  day= 10 ;  method= RPCA 
+
+ iter= 1 ;  day= 2 ;  method= PCA 
+
+ iter= 2 ;  day= 2 ;  method= PCA 
+
+ iter= 3 ;  day= 2 ;  method= PCA 
+
+ iter= 4 ;  day= 2 ;  method= PCA 
+
+ iter= 5 ;  day= 2 ;  method= PCA 
+
+ iter= 6 ;  day= 2 ;  method= PCA 
+
+ iter= 7 ;  day= 2 ;  method= PCA 
+
+ iter= 8 ;  day= 2 ;  method= PCA 
+
+ iter= 9 ;  day= 2 ;  method= PCA 
+
+ iter= 6 ;  day= 2 ;  method= RPCA 
+
+ iter= 2 ;  day= 2 ;  method= RPCA 
+
+ iter= 3 ;  day= 2 ;  method= RPCA 
+
+ iter= 9 ;  day= 2 ;  method= RPCA 
+
+ iter= 5 ;  day= 2 ;  method= RPCA 
+
+ iter= 7 ;  day= 2 ;  method= RPCA 
+
+ iter= 4 ;  day= 2 ;  method= RPCA 
+
+ iter= 8 ;  day= 2 ;  method= RPCA 
+
+ iter= 1 ;  day= 2 ;  method= RPCA 
+
+ iter= 2 ;  day= 2 ;  method= ICA 
+
+ iter= 6 ;  day= 2 ;  method= ICA 
+
+ iter= 3 ;  day= 2 ;  method= ICA 
+
+ iter= 9 ;  day= 2 ;  method= ICA 
+
+ iter= 8 ;  day= 2 ;  method= ICA 
+
+ iter= 1 ;  day= 2 ;  method= ICA 
+
+ iter= 4 ;  day= 2 ;  method= ICA 
+
+ iter= 7 ;  day= 2 ;  method= ICA 
+
+ iter= 5 ;  day= 2 ;  method= ICA 
+
+ iter= 2 ;  day= 3 ;  method= PCA 
+
+ iter= 7 ;  day= 3 ;  method= PCA 
+
+ iter= 6 ;  day= 3 ;  method= PCA 
+
+ iter= 1 ;  day= 3 ;  method= PCA 
+
+ iter= 3 ;  day= 3 ;  method= PCA 
+
+ iter= 4 ;  day= 3 ;  method= PCA 
+
+ iter= 8 ;  day= 3 ;  method= PCA 
+
+ iter= 5 ;  day= 3 ;  method= PCA 
+
+ iter= 9 ;  day= 3 ;  method= PCA 
+
+ iter= 2 ;  day= 3 ;  method= RPCA 
+
+ iter= 6 ;  day= 3 ;  method= RPCA 
+
+ iter= 2 ;  day= 3 ;  method= ICA 
+
+ iter= 9 ;  day= 3 ;  method= RPCA 
+
+ iter= 7 ;  day= 3 ;  method= RPCA 
+
+ iter= 3 ;  day= 3 ;  method= RPCA 
+
+ iter= 1 ;  day= 3 ;  method= RPCA 
+
+ iter= 8 ;  day= 3 ;  method= RPCA 
+
+ iter= 4 ;  day= 3 ;  method= RPCA 
+
+ iter= 5 ;  day= 3 ;  method= RPCA 
+
+ iter= 6 ;  day= 3 ;  method= ICA 
+
+ iter= 2 ;  day= 4 ;  method= PCA 
+
+ iter= 3 ;  day= 3 ;  method= ICA 
+
+ iter= 5 ;  day= 3 ;  method= ICA 
+
+ iter= 4 ;  day= 3 ;  method= ICA 
+
+ iter= 1 ;  day= 3 ;  method= ICA 
+
+ iter= 9 ;  day= 3 ;  method= ICA 
+
+ iter= 7 ;  day= 3 ;  method= ICA 
+
+ iter= 8 ;  day= 3 ;  method= ICA 
+
+ iter= 6 ;  day= 4 ;  method= PCA 
+
+ iter= 3 ;  day= 4 ;  method= PCA 
+
+ iter= 8 ;  day= 4 ;  method= PCA 
+
+ iter= 1 ;  day= 4 ;  method= PCA 
+
+ iter= 7 ;  day= 4 ;  method= PCA 
+
+ iter= 2 ;  day= 4 ;  method= RPCA 
+
+ iter= 5 ;  day= 4 ;  method= PCA 
+
+ iter= 4 ;  day= 4 ;  method= PCA 
+
+ iter= 9 ;  day= 4 ;  method= PCA 
+
+ iter= 6 ;  day= 4 ;  method= RPCA 
+
+ iter= 2 ;  day= 4 ;  method= ICA 
+
+ iter= 3 ;  day= 4 ;  method= RPCA 
+
+ iter= 8 ;  day= 4 ;  method= RPCA 
+
+ iter= 7 ;  day= 4 ;  method= RPCA 
+
+ iter= 5 ;  day= 4 ;  method= RPCA 
+
+ iter= 1 ;  day= 4 ;  method= RPCA 
+
+ iter= 4 ;  day= 4 ;  method= RPCA 
+
+ iter= 9 ;  day= 4 ;  method= RPCA 
+
+ iter= 3 ;  day= 4 ;  method= ICA 
+
+ iter= 2 ;  day= 5 ;  method= PCA 
+
+ iter= 8 ;  day= 4 ;  method= ICA 
+
+ iter= 6 ;  day= 4 ;  method= ICA 
+
+ iter= 5 ;  day= 4 ;  method= ICA 
+
+ iter= 1 ;  day= 4 ;  method= ICA 
+
+ iter= 7 ;  day= 4 ;  method= ICA 
+
+ iter= 4 ;  day= 4 ;  method= ICA 
+
+ iter= 9 ;  day= 4 ;  method= ICA 
+
+ iter= 3 ;  day= 5 ;  method= PCA 
+
+ iter= 7 ;  day= 5 ;  method= PCA 
+
+ iter= 6 ;  day= 5 ;  method= PCA 
+
+ iter= 5 ;  day= 5 ;  method= PCA 
+
+ iter= 8 ;  day= 5 ;  method= PCA 
+
+ iter= 4 ;  day= 5 ;  method= PCA 
+
+ iter= 2 ;  day= 5 ;  method= RPCA 
+
+ iter= 1 ;  day= 5 ;  method= PCA 
+
+ iter= 9 ;  day= 5 ;  method= PCA 
+
+ iter= 3 ;  day= 5 ;  method= RPCA 
+
+ iter= 5 ;  day= 5 ;  method= RPCA 
+
+ iter= 4 ;  day= 5 ;  method= RPCA 
+
+ iter= 8 ;  day= 5 ;  method= RPCA 
+
+ iter= 2 ;  day= 5 ;  method= ICA 
+
+ iter= 6 ;  day= 5 ;  method= RPCA 
+
+ iter= 9 ;  day= 5 ;  method= RPCA 
+
+ iter= 7 ;  day= 5 ;  method= RPCA 
+
+ iter= 1 ;  day= 5 ;  method= RPCA 
+
+ iter= 3 ;  day= 5 ;  method= ICA 
+
+ iter= 5 ;  day= 5 ;  method= ICA 
+
+ iter= 8 ;  day= 5 ;  method= ICA 
+
+ iter= 9 ;  day= 5 ;  method= ICA 
+
+ iter= 6 ;  day= 5 ;  method= ICA 
+
+ iter= 4 ;  day= 5 ;  method= ICA 
+
+ iter= 1 ;  day= 5 ;  method= ICA 
+
+ iter= 7 ;  day= 5 ;  method= ICA 
+
+ iter= 2 ;  day= 6 ;  method= PCA 
+
+ iter= 2 ;  day= 6 ;  method= RPCA 
+
+ iter= 3 ;  day= 6 ;  method= PCA 
+
+ iter= 5 ;  day= 6 ;  method= PCA 
+
+ iter= 1 ;  day= 6 ;  method= PCA 
+
+ iter= 6 ;  day= 6 ;  method= PCA 
+
+ iter= 4 ;  day= 6 ;  method= PCA 
+
+ iter= 7 ;  day= 6 ;  method= PCA 
+
+ iter= 8 ;  day= 6 ;  method= PCA 
+
+ iter= 9 ;  day= 6 ;  method= PCA 
+
+ iter= 2 ;  day= 6 ;  method= ICA 
+
+ iter= 3 ;  day= 6 ;  method= RPCA 
+
+ iter= 5 ;  day= 6 ;  method= RPCA 
+
+ iter= 1 ;  day= 6 ;  method= RPCA 
+
+ iter= 8 ;  day= 6 ;  method= RPCA 
+
+ iter= 6 ;  day= 6 ;  method= RPCA 
+
+ iter= 9 ;  day= 6 ;  method= RPCA 
+
+ iter= 4 ;  day= 6 ;  method= RPCA 
+
+ iter= 7 ;  day= 6 ;  method= RPCA 
+
+ iter= 2 ;  day= 7 ;  method= PCA 
+
+ iter= 9 ;  day= 6 ;  method= ICA 
+
+ iter= 3 ;  day= 6 ;  method= ICA 
+
+ iter= 7 ;  day= 6 ;  method= ICA 
+
+ iter= 6 ;  day= 6 ;  method= ICA 
+
+ iter= 1 ;  day= 6 ;  method= ICA 
+
+ iter= 5 ;  day= 6 ;  method= ICA 
+
+ iter= 8 ;  day= 6 ;  method= ICA 
+
+ iter= 4 ;  day= 6 ;  method= ICA 
+
+ iter= 2 ;  day= 7 ;  method= RPCA 
+
+ iter= 1 ;  day= 7 ;  method= PCA 
+
+ iter= 5 ;  day= 7 ;  method= PCA 
+
+ iter= 8 ;  day= 7 ;  method= PCA 
+
+ iter= 3 ;  day= 7 ;  method= PCA 
+
+ iter= 4 ;  day= 7 ;  method= PCA 
+
+ iter= 7 ;  day= 7 ;  method= PCA 
+
+ iter= 6 ;  day= 7 ;  method= PCA 
+
+ iter= 9 ;  day= 7 ;  method= PCA 
+
+ iter= 2 ;  day= 7 ;  method= ICA 
+
+ iter= 2 ;  day= 8 ;  method= PCA 
+
+ iter= 1 ;  day= 7 ;  method= RPCA 
+
+ iter= 5 ;  day= 7 ;  method= RPCA 
+
+ iter= 7 ;  day= 7 ;  method= RPCA 
+
+ iter= 6 ;  day= 7 ;  method= RPCA 
+
+ iter= 4 ;  day= 7 ;  method= RPCA 
+
+ iter= 3 ;  day= 7 ;  method= RPCA 
+
+ iter= 9 ;  day= 7 ;  method= RPCA 
+
+ iter= 8 ;  day= 7 ;  method= RPCA 
+
+ iter= 1 ;  day= 7 ;  method= ICA 
+
+ iter= 7 ;  day= 7 ;  method= ICA 
+
+ iter= 5 ;  day= 7 ;  method= ICA 
+
+ iter= 9 ;  day= 7 ;  method= ICA 
+
+ iter= 6 ;  day= 7 ;  method= ICA 
+
+ iter= 3 ;  day= 7 ;  method= ICA 
+
+ iter= 2 ;  day= 8 ;  method= RPCA 
+
+ iter= 8 ;  day= 7 ;  method= ICA 
+
+ iter= 4 ;  day= 7 ;  method= ICA 
+
+ iter= 7 ;  day= 8 ;  method= PCA 
+
+ iter= 5 ;  day= 8 ;  method= PCA 
+
+ iter= 3 ;  day= 8 ;  method= PCA 
+
+ iter= 1 ;  day= 8 ;  method= PCA 
+
+ iter= 4 ;  day= 8 ;  method= PCA 
+
+ iter= 6 ;  day= 8 ;  method= PCA 
+
+ iter= 8 ;  day= 8 ;  method= PCA 
+
+ iter= 9 ;  day= 8 ;  method= PCA 
+
+ iter= 2 ;  day= 8 ;  method= ICA 
+
+ iter= 3 ;  day= 8 ;  method= RPCA 
+
+ iter= 2 ;  day= 9 ;  method= PCA 
+
+ iter= 9 ;  day= 8 ;  method= RPCA 
+
+ iter= 6 ;  day= 8 ;  method= RPCA 
+
+ iter= 7 ;  day= 8 ;  method= RPCA 
+
+ iter= 5 ;  day= 8 ;  method= RPCA 
+
+ iter= 4 ;  day= 8 ;  method= RPCA 
+
+ iter= 1 ;  day= 8 ;  method= RPCA 
+
+ iter= 8 ;  day= 8 ;  method= RPCA 
+
+ iter= 3 ;  day= 8 ;  method= ICA 
+
+ iter= 9 ;  day= 8 ;  method= ICA 
+
+ iter= 7 ;  day= 8 ;  method= ICA 
+
+ iter= 1 ;  day= 8 ;  method= ICA 
+
+ iter= 5 ;  day= 8 ;  method= ICA 
+
+ iter= 4 ;  day= 8 ;  method= ICA 
+
+ iter= 6 ;  day= 8 ;  method= ICA 
+
+ iter= 2 ;  day= 9 ;  method= RPCA 
+
+ iter= 8 ;  day= 8 ;  method= ICA 
+
+ iter= 3 ;  day= 9 ;  method= PCA 
+
+ iter= 8 ;  day= 9 ;  method= PCA 
+
+ iter= 5 ;  day= 9 ;  method= PCA 
+
+ iter= 9 ;  day= 9 ;  method= PCA 
+
+ iter= 7 ;  day= 9 ;  method= PCA 
+
+ iter= 1 ;  day= 9 ;  method= PCA 
+
+ iter= 4 ;  day= 9 ;  method= PCA 
+
+ iter= 2 ;  day= 9 ;  method= ICA 
+
+ iter= 6 ;  day= 9 ;  method= PCA 
+
+ iter= 2 ;  day= 10 ;  method= PCA 
+
+ iter= 3 ;  day= 9 ;  method= RPCA 
+
+ iter= 7 ;  day= 9 ;  method= RPCA 
+
+ iter= 8 ;  day= 9 ;  method= RPCA 
+
+ iter= 6 ;  day= 9 ;  method= RPCA 
+
+ iter= 4 ;  day= 9 ;  method= RPCA 
+
+ iter= 5 ;  day= 9 ;  method= RPCA 
+
+ iter= 1 ;  day= 9 ;  method= RPCA 
+
+ iter= 9 ;  day= 9 ;  method= RPCA 
+
+ iter= 2 ;  day= 10 ;  method= RPCA 
+
+ iter= 3 ;  day= 9 ;  method= ICA 
+
+ iter= 6 ;  day= 9 ;  method= ICA 
+
+ iter= 1 ;  day= 9 ;  method= ICA 
+
+ iter= 7 ;  day= 9 ;  method= ICA 
+
+ iter= 5 ;  day= 9 ;  method= ICA 
+
+ iter= 4 ;  day= 9 ;  method= ICA 
+
+ iter= 8 ;  day= 9 ;  method= ICA 
+
+ iter= 9 ;  day= 9 ;  method= ICA 
+
+ iter= 2 ;  day= 10 ;  method= ICA 
+
+ iter= 3 ;  day= 10 ;  method= PCA 
+
+ iter= 6 ;  day= 10 ;  method= PCA 
+
+ iter= 7 ;  day= 10 ;  method= PCA 
+
+ iter= 8 ;  day= 10 ;  method= PCA 
+
+ iter= 5 ;  day= 10 ;  method= PCA 
+
+ iter= 1 ;  day= 10 ;  method= PCA 
+
+ iter= 9 ;  day= 10 ;  method= PCA 
+
+ iter= 4 ;  day= 10 ;  method= PCA 
+
+ iter= 11 ;  day= 2 ;  method= PCA 
+
+ iter= 5 ;  day= 10 ;  method= RPCA 
+
+ iter= 6 ;  day= 10 ;  method= RPCA 
+
+ iter= 4 ;  day= 10 ;  method= RPCA 
+
+ iter= 3 ;  day= 10 ;  method= RPCA 
+
+ iter= 1 ;  day= 10 ;  method= RPCA 
+
+ iter= 9 ;  day= 10 ;  method= RPCA 
+
+ iter= 7 ;  day= 10 ;  method= RPCA 
+
+ iter= 8 ;  day= 10 ;  method= RPCA 
+
+ iter= 11 ;  day= 2 ;  method= RPCA 
+
+ iter= 9 ;  day= 10 ;  method= ICA 
+
+ iter= 1 ;  day= 10 ;  method= ICA 
+
+ iter= 7 ;  day= 10 ;  method= ICA 
+
+ iter= 8 ;  day= 10 ;  method= ICA 
+
+ iter= 5 ;  day= 10 ;  method= ICA 
+
+ iter= 3 ;  day= 10 ;  method= ICA 
+
+ iter= 4 ;  day= 10 ;  method= ICA 
+
+ iter= 6 ;  day= 10 ;  method= ICA 
+
+ iter= 11 ;  day= 2 ;  method= ICA 
+
+ iter= 18 ;  day= 2 ;  method= PCA 
+
+ iter= 10 ;  day= 2 ;  method= PCA 
+
+ iter= 16 ;  day= 2 ;  method= PCA 
+
+ iter= 17 ;  day= 2 ;  method= PCA 
+
+ iter= 14 ;  day= 2 ;  method= PCA 
+
+ iter= 12 ;  day= 2 ;  method= PCA 
+
+ iter= 15 ;  day= 2 ;  method= PCA 
+
+ iter= 11 ;  day= 3 ;  method= PCA 
+
+ iter= 13 ;  day= 2 ;  method= PCA 
+
+ iter= 18 ;  day= 2 ;  method= RPCA 
+
+ iter= 17 ;  day= 2 ;  method= RPCA 
+
+ iter= 14 ;  day= 2 ;  method= RPCA 
+
+ iter= 10 ;  day= 2 ;  method= RPCA 
+
+ iter= 12 ;  day= 2 ;  method= RPCA 
+
+ iter= 15 ;  day= 2 ;  method= RPCA 
+
+ iter= 13 ;  day= 2 ;  method= RPCA 
+
+ iter= 11 ;  day= 3 ;  method= RPCA 
+
+ iter= 16 ;  day= 2 ;  method= RPCA 
+
+ iter= 18 ;  day= 2 ;  method= ICA 
+
+ iter= 11 ;  day= 3 ;  method= ICA 
+
+ iter= 17 ;  day= 2 ;  method= ICA 
+
+ iter= 14 ;  day= 2 ;  method= ICA 
+
+ iter= 15 ;  day= 2 ;  method= ICA 
+
+ iter= 12 ;  day= 2 ;  method= ICA 
+
+ iter= 13 ;  day= 2 ;  method= ICA 
+
+ iter= 10 ;  day= 2 ;  method= ICA 
+
+ iter= 16 ;  day= 2 ;  method= ICA 
+
+ iter= 18 ;  day= 3 ;  method= PCA 
+
+ iter= 11 ;  day= 4 ;  method= PCA 
+
+ iter= 15 ;  day= 3 ;  method= PCA 
+
+ iter= 13 ;  day= 3 ;  method= PCA 
+
+ iter= 12 ;  day= 3 ;  method= PCA 
+
+ iter= 14 ;  day= 3 ;  method= PCA 
+
+ iter= 10 ;  day= 3 ;  method= PCA 
+
+ iter= 16 ;  day= 3 ;  method= PCA 
+
+ iter= 18 ;  day= 3 ;  method= RPCA 
+
+ iter= 17 ;  day= 3 ;  method= PCA 
+
+ iter= 11 ;  day= 4 ;  method= RPCA 
+
+ iter= 15 ;  day= 3 ;  method= RPCA 
+
+ iter= 10 ;  day= 3 ;  method= RPCA 
+
+ iter= 18 ;  day= 3 ;  method= ICA 
+
+ iter= 14 ;  day= 3 ;  method= RPCA 
+
+ iter= 12 ;  day= 3 ;  method= RPCA 
+
+ iter= 16 ;  day= 3 ;  method= RPCA 
+
+ iter= 17 ;  day= 3 ;  method= RPCA 
+
+ iter= 13 ;  day= 3 ;  method= RPCA 
+
+ iter= 11 ;  day= 4 ;  method= ICA 
+
+ iter= 17 ;  day= 3 ;  method= ICA 
+
+ iter= 18 ;  day= 4 ;  method= PCA 
+
+ iter= 12 ;  day= 3 ;  method= ICA 
+
+ iter= 16 ;  day= 3 ;  method= ICA 
+
+ iter= 11 ;  day= 5 ;  method= PCA 
+
+ iter= 10 ;  day= 3 ;  method= ICA 
+
+ iter= 14 ;  day= 3 ;  method= ICA 
+
+ iter= 15 ;  day= 3 ;  method= ICA 
+
+ iter= 13 ;  day= 3 ;  method= ICA 
+
+ iter= 12 ;  day= 4 ;  method= PCA 
+
+ iter= 17 ;  day= 4 ;  method= PCA 
+
+ iter= 16 ;  day= 4 ;  method= PCA 
+
+ iter= 13 ;  day= 4 ;  method= PCA 
+
+ iter= 15 ;  day= 4 ;  method= PCA 
+
+ iter= 10 ;  day= 4 ;  method= PCA 
+
+ iter= 14 ;  day= 4 ;  method= PCA 
+
+ iter= 11 ;  day= 5 ;  method= RPCA 
+
+ iter= 18 ;  day= 4 ;  method= RPCA 
+
+ iter= 11 ;  day= 5 ;  method= ICA 
+
+ iter= 18 ;  day= 4 ;  method= ICA 
+
+ iter= 13 ;  day= 4 ;  method= RPCA 
+
+ iter= 16 ;  day= 4 ;  method= RPCA 
+
+ iter= 17 ;  day= 4 ;  method= RPCA 
+
+ iter= 10 ;  day= 4 ;  method= RPCA 
+
+ iter= 12 ;  day= 4 ;  method= RPCA 
+
+ iter= 15 ;  day= 4 ;  method= RPCA 
+
+ iter= 14 ;  day= 4 ;  method= RPCA 
+
+ iter= 11 ;  day= 6 ;  method= PCA 
+
+ iter= 16 ;  day= 4 ;  method= ICA 
+
+ iter= 10 ;  day= 4 ;  method= ICA 
+
+ iter= 13 ;  day= 4 ;  method= ICA 
+
+ iter= 18 ;  day= 5 ;  method= PCA 
+
+ iter= 17 ;  day= 4 ;  method= ICA 
+
+ iter= 15 ;  day= 4 ;  method= ICA 
+
+ iter= 14 ;  day= 4 ;  method= ICA 
+
+ iter= 12 ;  day= 4 ;  method= ICA 
+
+ iter= 16 ;  day= 5 ;  method= PCA 
+
+ iter= 17 ;  day= 5 ;  method= PCA 
+
+ iter= 10 ;  day= 5 ;  method= PCA 
+
+ iter= 14 ;  day= 5 ;  method= PCA 
+
+ iter= 12 ;  day= 5 ;  method= PCA 
+
+ iter= 11 ;  day= 6 ;  method= RPCA 
+
+ iter= 15 ;  day= 5 ;  method= PCA 
+
+ iter= 13 ;  day= 5 ;  method= PCA 
+
+ iter= 18 ;  day= 5 ;  method= RPCA 
+
+ iter= 16 ;  day= 5 ;  method= RPCA 
+
+ iter= 14 ;  day= 5 ;  method= RPCA 
+
+ iter= 11 ;  day= 6 ;  method= ICA 
+
+ iter= 10 ;  day= 5 ;  method= RPCA 
+
+ iter= 18 ;  day= 5 ;  method= ICA 
+
+ iter= 17 ;  day= 5 ;  method= RPCA 
+
+ iter= 15 ;  day= 5 ;  method= RPCA 
+
+ iter= 12 ;  day= 5 ;  method= RPCA 
+
+ iter= 13 ;  day= 5 ;  method= RPCA 
+
+ iter= 16 ;  day= 5 ;  method= ICA 
+
+ iter= 18 ;  day= 6 ;  method= PCA 
+
+ iter= 11 ;  day= 7 ;  method= PCA 
+
+ iter= 12 ;  day= 5 ;  method= ICA 
+
+ iter= 15 ;  day= 5 ;  method= ICA 
+
+ iter= 13 ;  day= 5 ;  method= ICA 
+
+ iter= 17 ;  day= 5 ;  method= ICA 
+
+ iter= 14 ;  day= 5 ;  method= ICA 
+
+ iter= 10 ;  day= 5 ;  method= ICA 
+
+ iter= 16 ;  day= 6 ;  method= PCA 
+
+ iter= 17 ;  day= 6 ;  method= PCA 
+
+ iter= 14 ;  day= 6 ;  method= PCA 
+
+ iter= 13 ;  day= 6 ;  method= PCA 
+
+ iter= 15 ;  day= 6 ;  method= PCA 
+
+ iter= 12 ;  day= 6 ;  method= PCA 
+
+ iter= 10 ;  day= 6 ;  method= PCA 
+
+ iter= 18 ;  day= 6 ;  method= RPCA 
+
+ iter= 11 ;  day= 7 ;  method= RPCA 
+
+ iter= 18 ;  day= 6 ;  method= ICA 
+
+ iter= 11 ;  day= 7 ;  method= ICA 
+
+ iter= 16 ;  day= 6 ;  method= RPCA 
+
+ iter= 15 ;  day= 6 ;  method= RPCA 
+
+ iter= 17 ;  day= 6 ;  method= RPCA 
+
+ iter= 10 ;  day= 6 ;  method= RPCA 
+
+ iter= 13 ;  day= 6 ;  method= RPCA 
+
+ iter= 14 ;  day= 6 ;  method= RPCA 
+
+ iter= 12 ;  day= 6 ;  method= RPCA 
+
+ iter= 18 ;  day= 7 ;  method= PCA 
+
+ iter= 11 ;  day= 8 ;  method= PCA 
+
+ iter= 10 ;  day= 6 ;  method= ICA 
+
+ iter= 17 ;  day= 6 ;  method= ICA 
+
+ iter= 16 ;  day= 6 ;  method= ICA 
+
+ iter= 13 ;  day= 6 ;  method= ICA 
+
+ iter= 12 ;  day= 6 ;  method= ICA 
+
+ iter= 14 ;  day= 6 ;  method= ICA 
+
+ iter= 15 ;  day= 6 ;  method= ICA 
+
+ iter= 16 ;  day= 7 ;  method= PCA 
+
+ iter= 17 ;  day= 7 ;  method= PCA 
+
+ iter= 10 ;  day= 7 ;  method= PCA 
+
+ iter= 13 ;  day= 7 ;  method= PCA 
+
+ iter= 15 ;  day= 7 ;  method= PCA 
+
+ iter= 12 ;  day= 7 ;  method= PCA 
+
+ iter= 18 ;  day= 7 ;  method= RPCA 
+
+ iter= 14 ;  day= 7 ;  method= PCA 
+
+ iter= 11 ;  day= 8 ;  method= RPCA 
+
+ iter= 11 ;  day= 8 ;  method= ICA 
+
+ iter= 18 ;  day= 7 ;  method= ICA 
+
+ iter= 13 ;  day= 7 ;  method= RPCA 
+
+ iter= 15 ;  day= 7 ;  method= RPCA 
+
+ iter= 14 ;  day= 7 ;  method= RPCA 
+
+ iter= 16 ;  day= 7 ;  method= RPCA 
+
+ iter= 17 ;  day= 7 ;  method= RPCA 
+
+ iter= 10 ;  day= 7 ;  method= RPCA 
+
+ iter= 12 ;  day= 7 ;  method= RPCA 
+
+ iter= 11 ;  day= 9 ;  method= PCA 
+
+ iter= 13 ;  day= 7 ;  method= ICA 
+
+ iter= 18 ;  day= 8 ;  method= PCA 
+
+ iter= 14 ;  day= 7 ;  method= ICA 
+
+ iter= 16 ;  day= 7 ;  method= ICA 
+
+ iter= 15 ;  day= 7 ;  method= ICA 
+
+ iter= 12 ;  day= 7 ;  method= ICA 
+
+ iter= 17 ;  day= 7 ;  method= ICA 
+
+ iter= 10 ;  day= 7 ;  method= ICA 
+
+ iter= 11 ;  day= 9 ;  method= RPCA 
+
+ iter= 17 ;  day= 8 ;  method= PCA 
+
+ iter= 10 ;  day= 8 ;  method= PCA 
+
+ iter= 16 ;  day= 8 ;  method= PCA 
+
+ iter= 15 ;  day= 8 ;  method= PCA 
+
+ iter= 12 ;  day= 8 ;  method= PCA 
+
+ iter= 14 ;  day= 8 ;  method= PCA 
+
+ iter= 13 ;  day= 8 ;  method= PCA 
+
+ iter= 18 ;  day= 8 ;  method= RPCA 
+
+ iter= 11 ;  day= 9 ;  method= ICA 
+
+ iter= 18 ;  day= 8 ;  method= ICA 
+
+ iter= 15 ;  day= 8 ;  method= RPCA 
+
+ iter= 13 ;  day= 8 ;  method= RPCA 
+
+ iter= 14 ;  day= 8 ;  method= RPCA 
+
+ iter= 16 ;  day= 8 ;  method= RPCA 
+
+ iter= 17 ;  day= 8 ;  method= RPCA 
+
+ iter= 10 ;  day= 8 ;  method= RPCA 
+
+ iter= 12 ;  day= 8 ;  method= RPCA 
+
+ iter= 18 ;  day= 9 ;  method= PCA 
+
+ iter= 11 ;  day= 10 ;  method= PCA 
+
+ iter= 14 ;  day= 8 ;  method= ICA 
+
+ iter= 15 ;  day= 8 ;  method= ICA 
+
+ iter= 13 ;  day= 8 ;  method= ICA 
+
+ iter= 16 ;  day= 8 ;  method= ICA 
+
+ iter= 10 ;  day= 8 ;  method= ICA 
+
+ iter= 17 ;  day= 8 ;  method= ICA 
+
+ iter= 12 ;  day= 8 ;  method= ICA 
+
+ iter= 18 ;  day= 9 ;  method= RPCA 
+
+ iter= 11 ;  day= 10 ;  method= RPCA 
+
+ iter= 12 ;  day= 9 ;  method= PCA 
+
+ iter= 16 ;  day= 9 ;  method= PCA 
+
+ iter= 10 ;  day= 9 ;  method= PCA 
+
+ iter= 17 ;  day= 9 ;  method= PCA 
+
+ iter= 15 ;  day= 9 ;  method= PCA 
+
+ iter= 18 ;  day= 9 ;  method= ICA 
+
+ iter= 14 ;  day= 9 ;  method= PCA 
+
+ iter= 13 ;  day= 9 ;  method= PCA 
+
+ iter= 11 ;  day= 10 ;  method= ICA 
+
+ iter= 18 ;  day= 10 ;  method= PCA 
+
+ iter= 14 ;  day= 9 ;  method= RPCA 
+
+ iter= 16 ;  day= 9 ;  method= RPCA 
+
+ iter= 10 ;  day= 9 ;  method= RPCA 
+
+ iter= 12 ;  day= 9 ;  method= RPCA 
+
+ iter= 15 ;  day= 9 ;  method= RPCA 
+
+ iter= 13 ;  day= 9 ;  method= RPCA 
+
+ iter= 17 ;  day= 9 ;  method= RPCA 
+
+ iter= 20 ;  day= 2 ;  method= PCA 
+
+ iter= 18 ;  day= 10 ;  method= RPCA 
+
+ iter= 14 ;  day= 9 ;  method= ICA 
+
+ iter= 12 ;  day= 9 ;  method= ICA 
+
+ iter= 13 ;  day= 9 ;  method= ICA 
+
+ iter= 10 ;  day= 9 ;  method= ICA 
+
+ iter= 15 ;  day= 9 ;  method= ICA 
+
+ iter= 17 ;  day= 9 ;  method= ICA 
+
+ iter= 20 ;  day= 2 ;  method= RPCA 
+
+ iter= 16 ;  day= 9 ;  method= ICA 
+
+ iter= 18 ;  day= 10 ;  method= ICA 
+
+ iter= 14 ;  day= 10 ;  method= PCA 
+
+ iter= 15 ;  day= 10 ;  method= PCA 
+
+ iter= 16 ;  day= 10 ;  method= PCA 
+
+ iter= 13 ;  day= 10 ;  method= PCA 
+
+ iter= 10 ;  day= 10 ;  method= PCA 
+
+ iter= 17 ;  day= 10 ;  method= PCA 
+
+ iter= 20 ;  day= 2 ;  method= ICA 
+
+ iter= 12 ;  day= 10 ;  method= PCA 
+
+ iter= 27 ;  day= 2 ;  method= PCA 
+
+ iter= 14 ;  day= 10 ;  method= RPCA 
+
+ iter= 20 ;  day= 3 ;  method= PCA 
+
+ iter= 15 ;  day= 10 ;  method= RPCA 
+
+ iter= 13 ;  day= 10 ;  method= RPCA 
+
+ iter= 17 ;  day= 10 ;  method= RPCA 
+
+ iter= 16 ;  day= 10 ;  method= RPCA 
+
+ iter= 10 ;  day= 10 ;  method= RPCA 
+
+ iter= 12 ;  day= 10 ;  method= RPCA 
+
+ iter= 27 ;  day= 2 ;  method= RPCA 
+
+ iter= 15 ;  day= 10 ;  method= ICA 
+
+ iter= 14 ;  day= 10 ;  method= ICA 
+
+ iter= 20 ;  day= 3 ;  method= RPCA 
+
+ iter= 13 ;  day= 10 ;  method= ICA 
+
+ iter= 16 ;  day= 10 ;  method= ICA 
+
+ iter= 27 ;  day= 2 ;  method= ICA 
+
+ iter= 17 ;  day= 10 ;  method= ICA 
+
+ iter= 10 ;  day= 10 ;  method= ICA 
+
+ iter= 12 ;  day= 10 ;  method= ICA 
+
+ iter= 24 ;  day= 2 ;  method= PCA 
+
+ iter= 20 ;  day= 3 ;  method= ICA 
+
+ iter= 23 ;  day= 2 ;  method= PCA 
+
+ iter= 27 ;  day= 3 ;  method= PCA 
+
+ iter= 19 ;  day= 2 ;  method= PCA 
+
+ iter= 21 ;  day= 2 ;  method= PCA 
+
+ iter= 22 ;  day= 2 ;  method= PCA 
+
+ iter= 26 ;  day= 2 ;  method= PCA 
+
+ iter= 25 ;  day= 2 ;  method= PCA 
+
+ iter= 24 ;  day= 2 ;  method= RPCA 
+
+ iter= 20 ;  day= 4 ;  method= PCA 
+
+ iter= 23 ;  day= 2 ;  method= RPCA 
+
+ iter= 27 ;  day= 3 ;  method= RPCA 
+
+ iter= 19 ;  day= 2 ;  method= RPCA 
+
+ iter= 21 ;  day= 2 ;  method= RPCA 
+
+ iter= 24 ;  day= 2 ;  method= ICA 
+
+ iter= 22 ;  day= 2 ;  method= RPCA 
+
+ iter= 26 ;  day= 2 ;  method= RPCA 
+
+ iter= 25 ;  day= 2 ;  method= RPCA 
+
+ iter= 23 ;  day= 2 ;  method= ICA 
+
+ iter= 20 ;  day= 4 ;  method= RPCA 
+
+ iter= 27 ;  day= 3 ;  method= ICA 
+
+ iter= 19 ;  day= 2 ;  method= ICA 
+
+ iter= 22 ;  day= 2 ;  method= ICA 
+
+ iter= 21 ;  day= 2 ;  method= ICA 
+
+ iter= 24 ;  day= 3 ;  method= PCA 
+
+ iter= 23 ;  day= 3 ;  method= PCA 
+
+ iter= 26 ;  day= 2 ;  method= ICA 
+
+ iter= 25 ;  day= 2 ;  method= ICA 
+
+ iter= 20 ;  day= 4 ;  method= ICA 
+
+ iter= 27 ;  day= 4 ;  method= PCA 
+
+ iter= 22 ;  day= 3 ;  method= PCA 
+
+ iter= 19 ;  day= 3 ;  method= PCA 
+
+ iter= 21 ;  day= 3 ;  method= PCA 
+
+ iter= 25 ;  day= 3 ;  method= PCA 
+
+ iter= 20 ;  day= 5 ;  method= PCA 
+
+ iter= 26 ;  day= 3 ;  method= PCA 
+
+ iter= 23 ;  day= 3 ;  method= RPCA 
+
+ iter= 24 ;  day= 3 ;  method= RPCA 
+
+ iter= 27 ;  day= 4 ;  method= RPCA 
+
+ iter= 22 ;  day= 3 ;  method= RPCA 
+
+ iter= 19 ;  day= 3 ;  method= RPCA 
+
+ iter= 23 ;  day= 3 ;  method= ICA 
+
+ iter= 24 ;  day= 3 ;  method= ICA 
+
+ iter= 21 ;  day= 3 ;  method= RPCA 
+
+ iter= 25 ;  day= 3 ;  method= RPCA 
+
+ iter= 26 ;  day= 3 ;  method= RPCA 
+
+ iter= 20 ;  day= 5 ;  method= RPCA 
+
+ iter= 27 ;  day= 4 ;  method= ICA 
+
+ iter= 19 ;  day= 3 ;  method= ICA 
+
+ iter= 24 ;  day= 4 ;  method= PCA 
+
+ iter= 22 ;  day= 3 ;  method= ICA 
+
+ iter= 23 ;  day= 4 ;  method= PCA 
+
+ iter= 25 ;  day= 3 ;  method= ICA 
+
+ iter= 26 ;  day= 3 ;  method= ICA 
+
+ iter= 20 ;  day= 5 ;  method= ICA 
+
+ iter= 21 ;  day= 3 ;  method= ICA 
+
+ iter= 27 ;  day= 5 ;  method= PCA 
+
+ iter= 19 ;  day= 4 ;  method= PCA 
+
+ iter= 22 ;  day= 4 ;  method= PCA 
+
+ iter= 25 ;  day= 4 ;  method= PCA 
+
+ iter= 26 ;  day= 4 ;  method= PCA 
+
+ iter= 21 ;  day= 4 ;  method= PCA 
+
+ iter= 20 ;  day= 6 ;  method= PCA 
+
+ iter= 27 ;  day= 5 ;  method= RPCA 
+
+ iter= 24 ;  day= 4 ;  method= RPCA 
+
+ iter= 23 ;  day= 4 ;  method= RPCA 
+
+ iter= 21 ;  day= 4 ;  method= RPCA 
+
+ iter= 27 ;  day= 5 ;  method= ICA 
+
+ iter= 24 ;  day= 4 ;  method= ICA 
+
+ iter= 23 ;  day= 4 ;  method= ICA 
+
+ iter= 22 ;  day= 4 ;  method= RPCA 
+
+ iter= 26 ;  day= 4 ;  method= RPCA 
+
+ iter= 20 ;  day= 6 ;  method= RPCA 
+
+ iter= 25 ;  day= 4 ;  method= RPCA 
+
+ iter= 19 ;  day= 4 ;  method= RPCA 
+
+ iter= 21 ;  day= 4 ;  method= ICA 
+
+ iter= 25 ;  day= 4 ;  method= ICA 
+
+ iter= 26 ;  day= 4 ;  method= ICA 
+
+ iter= 27 ;  day= 6 ;  method= PCA 
+
+ iter= 23 ;  day= 5 ;  method= PCA 
+
+ iter= 20 ;  day= 6 ;  method= ICA 
+
+ iter= 19 ;  day= 4 ;  method= ICA 
+
+ iter= 24 ;  day= 5 ;  method= PCA 
+
+ iter= 22 ;  day= 4 ;  method= ICA 
+
+ iter= 21 ;  day= 5 ;  method= PCA 
+
+ iter= 25 ;  day= 5 ;  method= PCA 
+
+ iter= 27 ;  day= 6 ;  method= RPCA 
+
+ iter= 22 ;  day= 5 ;  method= PCA 
+
+ iter= 19 ;  day= 5 ;  method= PCA 
+
+ iter= 24 ;  day= 5 ;  method= RPCA 
+
+ iter= 20 ;  day= 7 ;  method= PCA 
+
+ iter= 26 ;  day= 5 ;  method= PCA 
+
+ iter= 23 ;  day= 5 ;  method= RPCA 
+
+ iter= 25 ;  day= 5 ;  method= RPCA 
+
+ iter= 21 ;  day= 5 ;  method= RPCA 
+
+ iter= 27 ;  day= 6 ;  method= ICA 
+
+ iter= 24 ;  day= 5 ;  method= ICA 
+
+ iter= 22 ;  day= 5 ;  method= RPCA 
+
+ iter= 20 ;  day= 7 ;  method= RPCA 
+
+ iter= 23 ;  day= 5 ;  method= ICA 
+
+ iter= 19 ;  day= 5 ;  method= RPCA 
+
+ iter= 26 ;  day= 5 ;  method= RPCA 
+
+ iter= 25 ;  day= 5 ;  method= ICA 
+
+ iter= 21 ;  day= 5 ;  method= ICA 
+
+ iter= 27 ;  day= 7 ;  method= PCA 
+
+ iter= 24 ;  day= 6 ;  method= PCA 
+
+ iter= 22 ;  day= 5 ;  method= ICA 
+
+ iter= 23 ;  day= 6 ;  method= PCA 
+
+ iter= 20 ;  day= 7 ;  method= ICA 
+
+ iter= 26 ;  day= 5 ;  method= ICA 
+
+ iter= 19 ;  day= 5 ;  method= ICA 
+
+ iter= 25 ;  day= 6 ;  method= PCA 
+
+ iter= 21 ;  day= 6 ;  method= PCA 
+
+ iter= 19 ;  day= 6 ;  method= PCA 
+
+ iter= 27 ;  day= 7 ;  method= RPCA 
+
+ iter= 20 ;  day= 8 ;  method= PCA 
+
+ iter= 22 ;  day= 6 ;  method= PCA 
+
+ iter= 26 ;  day= 6 ;  method= PCA 
+
+ iter= 24 ;  day= 6 ;  method= RPCA 
+
+ iter= 23 ;  day= 6 ;  method= RPCA 
+
+ iter= 25 ;  day= 6 ;  method= RPCA 
+
+ iter= 21 ;  day= 6 ;  method= RPCA 
+
+ iter= 27 ;  day= 7 ;  method= ICA 
+
+ iter= 19 ;  day= 6 ;  method= RPCA 
+
+ iter= 24 ;  day= 6 ;  method= ICA 
+
+ iter= 23 ;  day= 6 ;  method= ICA 
+
+ iter= 20 ;  day= 8 ;  method= RPCA 
+
+ iter= 22 ;  day= 6 ;  method= RPCA 
+
+ iter= 26 ;  day= 6 ;  method= RPCA 
+
+ iter= 25 ;  day= 6 ;  method= ICA 
+
+ iter= 21 ;  day= 6 ;  method= ICA 
+
+ iter= 23 ;  day= 7 ;  method= PCA 
+
+ iter= 24 ;  day= 7 ;  method= PCA 
+
+ iter= 20 ;  day= 8 ;  method= ICA 
+
+ iter= 27 ;  day= 8 ;  method= PCA 
+
+ iter= 19 ;  day= 6 ;  method= ICA 
+
+ iter= 22 ;  day= 6 ;  method= ICA 
+
+ iter= 26 ;  day= 6 ;  method= ICA 
+
+ iter= 25 ;  day= 7 ;  method= PCA 
+
+ iter= 21 ;  day= 7 ;  method= PCA 
+
+ iter= 23 ;  day= 7 ;  method= RPCA 
+
+ iter= 20 ;  day= 9 ;  method= PCA 
+
+ iter= 19 ;  day= 7 ;  method= PCA 
+
+ iter= 22 ;  day= 7 ;  method= PCA 
+
+ iter= 24 ;  day= 7 ;  method= RPCA 
+
+ iter= 26 ;  day= 7 ;  method= PCA 
+
+ iter= 27 ;  day= 8 ;  method= RPCA 
+
+ iter= 25 ;  day= 7 ;  method= RPCA 
+
+ iter= 21 ;  day= 7 ;  method= RPCA 
+
+ iter= 23 ;  day= 7 ;  method= ICA 
+
+ iter= 24 ;  day= 7 ;  method= ICA 
+
+ iter= 19 ;  day= 7 ;  method= RPCA 
+
+ iter= 20 ;  day= 9 ;  method= RPCA 
+
+ iter= 22 ;  day= 7 ;  method= RPCA 
+
+ iter= 26 ;  day= 7 ;  method= RPCA 
+
+ iter= 27 ;  day= 8 ;  method= ICA 
+
+ iter= 25 ;  day= 7 ;  method= ICA 
+
+ iter= 21 ;  day= 7 ;  method= ICA 
+
+ iter= 23 ;  day= 8 ;  method= PCA 
+
+ iter= 24 ;  day= 8 ;  method= PCA 
+
+ iter= 22 ;  day= 7 ;  method= ICA 
+
+ iter= 27 ;  day= 9 ;  method= PCA 
+
+ iter= 19 ;  day= 7 ;  method= ICA 
+
+ iter= 20 ;  day= 9 ;  method= ICA 
+
+ iter= 21 ;  day= 8 ;  method= PCA 
+
+ iter= 25 ;  day= 8 ;  method= PCA 
+
+ iter= 26 ;  day= 7 ;  method= ICA 
+
+ iter= 23 ;  day= 8 ;  method= RPCA 
+
+ iter= 22 ;  day= 8 ;  method= PCA 
+
+ iter= 24 ;  day= 8 ;  method= RPCA 
+
+ iter= 19 ;  day= 8 ;  method= PCA 
+
+ iter= 27 ;  day= 9 ;  method= RPCA 
+
+ iter= 20 ;  day= 10 ;  method= PCA 
+
+ iter= 26 ;  day= 8 ;  method= PCA 
+
+ iter= 25 ;  day= 8 ;  method= RPCA 
+
+ iter= 21 ;  day= 8 ;  method= RPCA 
+
+ iter= 23 ;  day= 8 ;  method= ICA 
+
+ iter= 24 ;  day= 8 ;  method= ICA 
+
+ iter= 22 ;  day= 8 ;  method= RPCA 
+
+ iter= 26 ;  day= 8 ;  method= RPCA 
+
+ iter= 25 ;  day= 8 ;  method= ICA 
+
+ iter= 23 ;  day= 9 ;  method= PCA 
+
+ iter= 20 ;  day= 10 ;  method= RPCA 
+
+ iter= 27 ;  day= 9 ;  method= ICA 
+
+ iter= 19 ;  day= 8 ;  method= RPCA 
+
+ iter= 21 ;  day= 8 ;  method= ICA 
+
+ iter= 24 ;  day= 9 ;  method= PCA 
+
+ iter= 19 ;  day= 8 ;  method= ICA 
+
+ iter= 27 ;  day= 10 ;  method= PCA 
+
+ iter= 21 ;  day= 9 ;  method= PCA 
+
+ iter= 25 ;  day= 9 ;  method= PCA 
+
+ iter= 22 ;  day= 8 ;  method= ICA 
+
+ iter= 26 ;  day= 8 ;  method= ICA 
+
+ iter= 20 ;  day= 10 ;  method= ICA 
+
+ iter= 23 ;  day= 9 ;  method= RPCA 
+
+ iter= 27 ;  day= 10 ;  method= RPCA 
+
+ iter= 29 ;  day= 2 ;  method= PCA 
+
+ iter= 26 ;  day= 9 ;  method= PCA 
+
+ iter= 22 ;  day= 9 ;  method= PCA 
+
+ iter= 19 ;  day= 9 ;  method= PCA 
+
+ iter= 24 ;  day= 9 ;  method= RPCA 
+
+ iter= 23 ;  day= 9 ;  method= ICA 
+
+ iter= 21 ;  day= 9 ;  method= RPCA 
+
+ iter= 25 ;  day= 9 ;  method= RPCA 
+
+ iter= 25 ;  day= 9 ;  method= ICA 
+
+ iter= 23 ;  day= 10 ;  method= PCA 
+
+ iter= 24 ;  day= 9 ;  method= ICA 
+
+ iter= 21 ;  day= 9 ;  method= ICA 
+
+ iter= 29 ;  day= 2 ;  method= RPCA 
+
+ iter= 26 ;  day= 9 ;  method= RPCA 
+
+ iter= 22 ;  day= 9 ;  method= RPCA 
+
+ iter= 19 ;  day= 9 ;  method= RPCA 
+
+ iter= 27 ;  day= 10 ;  method= ICA 
+
+ iter= 21 ;  day= 10 ;  method= PCA 
+
+ iter= 25 ;  day= 10 ;  method= PCA 
+
+ iter= 24 ;  day= 10 ;  method= PCA 
+
+ iter= 26 ;  day= 9 ;  method= ICA 
+
+ iter= 36 ;  day= 2 ;  method= PCA 
+
+ iter= 22 ;  day= 9 ;  method= ICA 
+
+ iter= 19 ;  day= 9 ;  method= ICA 
+
+ iter= 29 ;  day= 2 ;  method= ICA 
+
+ iter= 23 ;  day= 10 ;  method= RPCA 
+
+ iter= 22 ;  day= 10 ;  method= PCA 
+
+ iter= 21 ;  day= 10 ;  method= RPCA 
+
+ iter= 19 ;  day= 10 ;  method= PCA 
+
+ iter= 25 ;  day= 10 ;  method= RPCA 
+
+ iter= 29 ;  day= 3 ;  method= PCA 
+
+ iter= 26 ;  day= 10 ;  method= PCA 
+
+ iter= 36 ;  day= 2 ;  method= RPCA 
+
+ iter= 23 ;  day= 10 ;  method= ICA 
+
+ iter= 24 ;  day= 10 ;  method= RPCA 
+
+ iter= 36 ;  day= 2 ;  method= ICA 
+
+ iter= 22 ;  day= 10 ;  method= RPCA 
+
+ iter= 32 ;  day= 2 ;  method= PCA 
+
+ iter= 25 ;  day= 10 ;  method= ICA 
+
+ iter= 21 ;  day= 10 ;  method= ICA 
+
+ iter= 24 ;  day= 10 ;  method= ICA 
+
+ iter= 29 ;  day= 3 ;  method= RPCA 
+
+ iter= 19 ;  day= 10 ;  method= RPCA 
+
+ iter= 26 ;  day= 10 ;  method= RPCA 
+
+ iter= 36 ;  day= 3 ;  method= PCA 
+
+ iter= 33 ;  day= 2 ;  method= PCA 
+
+ iter= 30 ;  day= 2 ;  method= PCA 
+
+ iter= 22 ;  day= 10 ;  method= ICA 
+
+ iter= 34 ;  day= 2 ;  method= PCA 
+
+ iter= 19 ;  day= 10 ;  method= ICA 
+
+ iter= 26 ;  day= 10 ;  method= ICA 
+
+ iter= 29 ;  day= 3 ;  method= ICA 
+
+ iter= 32 ;  day= 2 ;  method= RPCA 
+
+ iter= 36 ;  day= 3 ;  method= RPCA 
+
+ iter= 35 ;  day= 2 ;  method= PCA 
+
+ iter= 28 ;  day= 2 ;  method= PCA 
+
+ iter= 33 ;  day= 2 ;  method= RPCA 
+
+ iter= 31 ;  day= 2 ;  method= PCA 
+
+ iter= 29 ;  day= 4 ;  method= PCA 
+
+ iter= 32 ;  day= 2 ;  method= ICA 
+
+ iter= 30 ;  day= 2 ;  method= RPCA 
+
+ iter= 34 ;  day= 2 ;  method= RPCA 
+
+ iter= 36 ;  day= 3 ;  method= ICA 
+
+ iter= 32 ;  day= 3 ;  method= PCA 
+
+ iter= 33 ;  day= 2 ;  method= ICA 
+
+ iter= 34 ;  day= 2 ;  method= ICA 
+
+ iter= 30 ;  day= 2 ;  method= ICA 
+
+ iter= 29 ;  day= 4 ;  method= RPCA 
+
+ iter= 35 ;  day= 2 ;  method= RPCA 
+
+ iter= 31 ;  day= 2 ;  method= RPCA 
+
+ iter= 36 ;  day= 4 ;  method= PCA 
+
+ iter= 28 ;  day= 2 ;  method= RPCA 
+
+ iter= 33 ;  day= 3 ;  method= PCA 
+
+ iter= 30 ;  day= 3 ;  method= PCA 
+
+ iter= 34 ;  day= 3 ;  method= PCA 
+
+ iter= 32 ;  day= 3 ;  method= RPCA 
+
+ iter= 35 ;  day= 2 ;  method= ICA 
+
+ iter= 28 ;  day= 2 ;  method= ICA 
+
+ iter= 31 ;  day= 2 ;  method= ICA 
+
+ iter= 29 ;  day= 4 ;  method= ICA 
+
+ iter= 36 ;  day= 4 ;  method= RPCA 
+
+ iter= 33 ;  day= 3 ;  method= RPCA 
+
+ iter= 31 ;  day= 3 ;  method= PCA 
+
+ iter= 28 ;  day= 3 ;  method= PCA 
+
+ iter= 35 ;  day= 3 ;  method= PCA 
+
+ iter= 32 ;  day= 3 ;  method= ICA 
+
+ iter= 29 ;  day= 5 ;  method= PCA 
+
+ iter= 34 ;  day= 3 ;  method= RPCA 
+
+ iter= 30 ;  day= 3 ;  method= RPCA 
+
+ iter= 36 ;  day= 4 ;  method= ICA 
+
+ iter= 33 ;  day= 3 ;  method= ICA 
+
+ iter= 36 ;  day= 5 ;  method= PCA 
+
+ iter= 32 ;  day= 4 ;  method= PCA 
+
+ iter= 34 ;  day= 3 ;  method= ICA 
+
+ iter= 30 ;  day= 3 ;  method= ICA 
+
+ iter= 29 ;  day= 5 ;  method= RPCA 
+
+ iter= 31 ;  day= 3 ;  method= RPCA 
+
+ iter= 35 ;  day= 3 ;  method= RPCA 
+
+ iter= 28 ;  day= 3 ;  method= RPCA 
+
+ iter= 33 ;  day= 4 ;  method= PCA 
+
+ iter= 28 ;  day= 3 ;  method= ICA 
+
+ iter= 34 ;  day= 4 ;  method= PCA 
+
+ iter= 30 ;  day= 4 ;  method= PCA 
+
+ iter= 36 ;  day= 5 ;  method= RPCA 
+
+ iter= 31 ;  day= 3 ;  method= ICA 
+
+ iter= 29 ;  day= 5 ;  method= ICA 
+
+ iter= 32 ;  day= 4 ;  method= RPCA 
+
+ iter= 35 ;  day= 3 ;  method= ICA 
+
+ iter= 33 ;  day= 4 ;  method= RPCA 
+
+ iter= 28 ;  day= 4 ;  method= PCA 
+
+ iter= 31 ;  day= 4 ;  method= PCA 
+
+ iter= 36 ;  day= 5 ;  method= ICA 
+
+ iter= 29 ;  day= 6 ;  method= PCA 
+
+ iter= 35 ;  day= 4 ;  method= PCA 
+
+ iter= 34 ;  day= 4 ;  method= RPCA 
+
+ iter= 33 ;  day= 4 ;  method= ICA 
+
+ iter= 32 ;  day= 4 ;  method= ICA 
+
+ iter= 30 ;  day= 4 ;  method= RPCA 
+
+ iter= 28 ;  day= 4 ;  method= RPCA 
+
+ iter= 32 ;  day= 5 ;  method= PCA 
+
+ iter= 36 ;  day= 6 ;  method= PCA 
+
+ iter= 35 ;  day= 4 ;  method= RPCA 
+
+ iter= 29 ;  day= 6 ;  method= RPCA 
+
+ iter= 33 ;  day= 5 ;  method= PCA 
+
+ iter= 34 ;  day= 4 ;  method= ICA 
+
+ iter= 31 ;  day= 4 ;  method= RPCA 
+
+ iter= 30 ;  day= 4 ;  method= ICA 
+
+ iter= 28 ;  day= 4 ;  method= ICA 
+
+ iter= 30 ;  day= 5 ;  method= PCA 
+
+ iter= 34 ;  day= 5 ;  method= PCA 
+
+ iter= 31 ;  day= 4 ;  method= ICA 
+
+ iter= 35 ;  day= 4 ;  method= ICA 
+
+ iter= 28 ;  day= 5 ;  method= PCA 
+
+ iter= 29 ;  day= 6 ;  method= ICA 
+
+ iter= 36 ;  day= 6 ;  method= RPCA 
+
+ iter= 32 ;  day= 5 ;  method= RPCA 
+
+ iter= 33 ;  day= 5 ;  method= RPCA 
+
+ iter= 31 ;  day= 5 ;  method= PCA 
+
+ iter= 34 ;  day= 5 ;  method= RPCA 
+
+ iter= 33 ;  day= 5 ;  method= ICA 
+
+ iter= 30 ;  day= 5 ;  method= RPCA 
+
+ iter= 32 ;  day= 5 ;  method= ICA 
+
+ iter= 35 ;  day= 5 ;  method= PCA 
+
+ iter= 36 ;  day= 6 ;  method= ICA 
+
+ iter= 28 ;  day= 5 ;  method= RPCA 
+
+ iter= 29 ;  day= 7 ;  method= PCA 
+
+ iter= 32 ;  day= 6 ;  method= PCA 
+
+ iter= 33 ;  day= 6 ;  method= PCA 
+
+ iter= 28 ;  day= 5 ;  method= ICA 
+
+ iter= 31 ;  day= 5 ;  method= RPCA 
+
+ iter= 29 ;  day= 7 ;  method= RPCA 
+
+ iter= 30 ;  day= 5 ;  method= ICA 
+
+ iter= 34 ;  day= 5 ;  method= ICA 
+
+ iter= 36 ;  day= 7 ;  method= PCA 
+
+ iter= 35 ;  day= 5 ;  method= RPCA 
+
+ iter= 28 ;  day= 6 ;  method= PCA 
+
+ iter= 33 ;  day= 6 ;  method= RPCA 
+
+ iter= 32 ;  day= 6 ;  method= RPCA 
+
+ iter= 34 ;  day= 6 ;  method= PCA 
+
+ iter= 30 ;  day= 6 ;  method= PCA 
+
+ iter= 31 ;  day= 5 ;  method= ICA 
+
+ iter= 29 ;  day= 7 ;  method= ICA 
+
+ iter= 36 ;  day= 7 ;  method= RPCA 
+
+ iter= 35 ;  day= 5 ;  method= ICA 
+
+ iter= 28 ;  day= 6 ;  method= RPCA 
+
+ iter= 33 ;  day= 6 ;  method= ICA 
+
+ iter= 35 ;  day= 6 ;  method= PCA 
+
+ iter= 29 ;  day= 8 ;  method= PCA 
+
+ iter= 30 ;  day= 6 ;  method= RPCA 
+
+ iter= 31 ;  day= 6 ;  method= PCA 
+
+ iter= 32 ;  day= 6 ;  method= ICA 
+
+ iter= 36 ;  day= 7 ;  method= ICA 
+
+ iter= 34 ;  day= 6 ;  method= RPCA 
+
+ iter= 36 ;  day= 8 ;  method= PCA 
+
+ iter= 28 ;  day= 6 ;  method= ICA 
+
+ iter= 34 ;  day= 6 ;  method= ICA 
+
+ iter= 29 ;  day= 8 ;  method= RPCA 
+
+ iter= 30 ;  day= 6 ;  method= ICA 
+
+ iter= 35 ;  day= 6 ;  method= RPCA 
+
+ iter= 31 ;  day= 6 ;  method= RPCA 
+
+ iter= 32 ;  day= 7 ;  method= PCA 
+
+ iter= 33 ;  day= 7 ;  method= PCA 
+
+ iter= 36 ;  day= 8 ;  method= RPCA 
+
+ iter= 31 ;  day= 6 ;  method= ICA 
+
+ iter= 35 ;  day= 6 ;  method= ICA 
+
+ iter= 32 ;  day= 7 ;  method= RPCA 
+
+ iter= 33 ;  day= 7 ;  method= RPCA 
+
+ iter= 29 ;  day= 8 ;  method= ICA 
+
+ iter= 30 ;  day= 7 ;  method= PCA 
+
+ iter= 34 ;  day= 7 ;  method= PCA 
+
+ iter= 28 ;  day= 7 ;  method= PCA 
+
+ iter= 36 ;  day= 8 ;  method= ICA 
+
+ iter= 29 ;  day= 9 ;  method= PCA 
+
+ iter= 34 ;  day= 7 ;  method= RPCA 
+
+ iter= 32 ;  day= 7 ;  method= ICA 
+
+ iter= 30 ;  day= 7 ;  method= RPCA 
+
+ iter= 28 ;  day= 7 ;  method= RPCA 
+
+ iter= 33 ;  day= 7 ;  method= ICA 
+
+ iter= 35 ;  day= 7 ;  method= PCA 
+
+ iter= 31 ;  day= 7 ;  method= PCA 
+
+ iter= 36 ;  day= 9 ;  method= PCA 
+
+ iter= 32 ;  day= 8 ;  method= PCA 
+
+ iter= 34 ;  day= 7 ;  method= ICA 
+
+ iter= 33 ;  day= 8 ;  method= PCA 
+
+ iter= 29 ;  day= 9 ;  method= RPCA 
+
+ iter= 35 ;  day= 7 ;  method= RPCA 
+
+ iter= 28 ;  day= 7 ;  method= ICA 
+
+ iter= 30 ;  day= 7 ;  method= ICA 
+
+ iter= 31 ;  day= 7 ;  method= RPCA 
+
+ iter= 34 ;  day= 8 ;  method= PCA 
+
+ iter= 32 ;  day= 8 ;  method= RPCA 
+
+ iter= 36 ;  day= 9 ;  method= RPCA 
+
+ iter= 28 ;  day= 8 ;  method= PCA 
+
+ iter= 31 ;  day= 7 ;  method= ICA 
+
+ iter= 30 ;  day= 8 ;  method= PCA 
+
+ iter= 29 ;  day= 9 ;  method= ICA 
+
+ iter= 35 ;  day= 7 ;  method= ICA 
+
+ iter= 33 ;  day= 8 ;  method= RPCA 
+
+ iter= 34 ;  day= 8 ;  method= RPCA 
+
+ iter= 36 ;  day= 9 ;  method= ICA 
+
+ iter= 29 ;  day= 10 ;  method= PCA 
+
+ iter= 35 ;  day= 8 ;  method= PCA 
+
+ iter= 31 ;  day= 8 ;  method= PCA 
+
+ iter= 28 ;  day= 8 ;  method= RPCA 
+
+ iter= 30 ;  day= 8 ;  method= RPCA 
+
+ iter= 33 ;  day= 8 ;  method= ICA 
+
+ iter= 32 ;  day= 8 ;  method= ICA 
+
+ iter= 34 ;  day= 8 ;  method= ICA 
+
+ iter= 36 ;  day= 10 ;  method= PCA 
+
+ iter= 29 ;  day= 10 ;  method= RPCA 
+
+ iter= 28 ;  day= 8 ;  method= ICA 
+
+ iter= 32 ;  day= 9 ;  method= PCA 
+
+ iter= 30 ;  day= 8 ;  method= ICA 
+
+ iter= 33 ;  day= 9 ;  method= PCA 
+
+ iter= 31 ;  day= 8 ;  method= RPCA 
+
+ iter= 35 ;  day= 8 ;  method= RPCA 
+
+ iter= 34 ;  day= 9 ;  method= PCA 
+
+ iter= 36 ;  day= 10 ;  method= RPCA 
+
+ iter= 29 ;  day= 10 ;  method= ICA 
+
+ iter= 31 ;  day= 8 ;  method= ICA 
+
+ iter= 35 ;  day= 8 ;  method= ICA 
+
+ iter= 28 ;  day= 9 ;  method= PCA 
+
+ iter= 30 ;  day= 9 ;  method= PCA 
+
+ iter= 33 ;  day= 9 ;  method= RPCA 
+
+ iter= 32 ;  day= 9 ;  method= RPCA 
+
+ iter= 34 ;  day= 9 ;  method= RPCA 
+
+ iter= 36 ;  day= 10 ;  method= ICA 
+
+ iter= 38 ;  day= 2 ;  method= PCA 
+
+ iter= 31 ;  day= 9 ;  method= PCA 
+
+ iter= 35 ;  day= 9 ;  method= PCA 
+
+ iter= 34 ;  day= 9 ;  method= ICA 
+
+ iter= 28 ;  day= 9 ;  method= RPCA 
+
+ iter= 32 ;  day= 9 ;  method= ICA 
+
+ iter= 33 ;  day= 9 ;  method= ICA 
+
+ iter= 30 ;  day= 9 ;  method= RPCA 
+
+ iter= 45 ;  day= 2 ;  method= PCA 
+
+ iter= 38 ;  day= 2 ;  method= RPCA 
+
+ iter= 31 ;  day= 9 ;  method= RPCA 
+
+ iter= 34 ;  day= 10 ;  method= PCA 
+
+ iter= 35 ;  day= 9 ;  method= RPCA 
+
+ iter= 32 ;  day= 10 ;  method= PCA 
+
+ iter= 45 ;  day= 2 ;  method= RPCA 
+
+ iter= 28 ;  day= 9 ;  method= ICA 
+
+ iter= 33 ;  day= 10 ;  method= PCA 
+
+ iter= 30 ;  day= 9 ;  method= ICA 
+
+ iter= 38 ;  day= 2 ;  method= ICA 
+
+ iter= 31 ;  day= 9 ;  method= ICA 
+
+ iter= 28 ;  day= 10 ;  method= PCA 
+
+ iter= 34 ;  day= 10 ;  method= RPCA 
+
+ iter= 35 ;  day= 9 ;  method= ICA 
+
+ iter= 30 ;  day= 10 ;  method= PCA 
+
+ iter= 45 ;  day= 2 ;  method= ICA 
+
+ iter= 32 ;  day= 10 ;  method= RPCA 
+
+ iter= 33 ;  day= 10 ;  method= RPCA 
+
+ iter= 38 ;  day= 3 ;  method= PCA 
+
+ iter= 31 ;  day= 10 ;  method= PCA 
+
+ iter= 35 ;  day= 10 ;  method= PCA 
+
+ iter= 45 ;  day= 3 ;  method= PCA 
+
+ iter= 33 ;  day= 10 ;  method= ICA 
+
+ iter= 34 ;  day= 10 ;  method= ICA 
+
+ iter= 32 ;  day= 10 ;  method= ICA 
+
+ iter= 28 ;  day= 10 ;  method= RPCA 
+
+ iter= 30 ;  day= 10 ;  method= RPCA 
+
+ iter= 38 ;  day= 3 ;  method= RPCA 
+
+ iter= 28 ;  day= 10 ;  method= ICA 
+
+ iter= 30 ;  day= 10 ;  method= ICA 
+
+ iter= 38 ;  day= 3 ;  method= ICA 
+
+ iter= 41 ;  day= 2 ;  method= PCA 
+
+ iter= 42 ;  day= 2 ;  method= PCA 
+
+ iter= 31 ;  day= 10 ;  method= RPCA 
+
+ iter= 43 ;  day= 2 ;  method= PCA 
+
+ iter= 35 ;  day= 10 ;  method= RPCA 
+
+ iter= 45 ;  day= 3 ;  method= RPCA 
+
+ iter= 37 ;  day= 2 ;  method= PCA 
+
+ iter= 39 ;  day= 2 ;  method= PCA 
+
+ iter= 38 ;  day= 4 ;  method= PCA 
+
+ iter= 42 ;  day= 2 ;  method= RPCA 
+
+ iter= 31 ;  day= 10 ;  method= ICA 
+
+ iter= 41 ;  day= 2 ;  method= RPCA 
+
+ iter= 43 ;  day= 2 ;  method= RPCA 
+
+ iter= 45 ;  day= 3 ;  method= ICA 
+
+ iter= 35 ;  day= 10 ;  method= ICA 
+
+ iter= 44 ;  day= 2 ;  method= PCA 
+
+ iter= 42 ;  day= 2 ;  method= ICA 
+
+ iter= 45 ;  day= 4 ;  method= PCA 
+
+ iter= 39 ;  day= 2 ;  method= RPCA 
+
+ iter= 37 ;  day= 2 ;  method= RPCA 
+
+ iter= 40 ;  day= 2 ;  method= PCA 
+
+ iter= 38 ;  day= 4 ;  method= RPCA 
+
+ iter= 41 ;  day= 2 ;  method= ICA 
+
+ iter= 43 ;  day= 2 ;  method= ICA 
+
+ iter= 42 ;  day= 3 ;  method= PCA 
+
+ iter= 43 ;  day= 3 ;  method= PCA 
+
+ iter= 44 ;  day= 2 ;  method= RPCA 
+
+ iter= 45 ;  day= 4 ;  method= RPCA 
+
+ iter= 37 ;  day= 2 ;  method= ICA 
+
+ iter= 41 ;  day= 3 ;  method= PCA 
+
+ iter= 39 ;  day= 2 ;  method= ICA 
+
+ iter= 38 ;  day= 4 ;  method= ICA 
+
+ iter= 40 ;  day= 2 ;  method= RPCA 
+
+ iter= 42 ;  day= 3 ;  method= RPCA 
+
+ iter= 37 ;  day= 3 ;  method= PCA 
+
+ iter= 38 ;  day= 5 ;  method= PCA 
+
+ iter= 44 ;  day= 2 ;  method= ICA 
+
+ iter= 39 ;  day= 3 ;  method= PCA 
+
+ iter= 40 ;  day= 2 ;  method= ICA 
+
+ iter= 41 ;  day= 3 ;  method= RPCA 
+
+ iter= 45 ;  day= 4 ;  method= ICA 
+
+ iter= 43 ;  day= 3 ;  method= RPCA 
+
+ iter= 40 ;  day= 3 ;  method= PCA 
+
+ iter= 37 ;  day= 3 ;  method= RPCA 
+
+ iter= 42 ;  day= 3 ;  method= ICA 
+
+ iter= 44 ;  day= 3 ;  method= PCA 
+
+ iter= 41 ;  day= 3 ;  method= ICA 
+
+ iter= 38 ;  day= 5 ;  method= RPCA 
+
+ iter= 39 ;  day= 3 ;  method= RPCA 
+
+ iter= 45 ;  day= 5 ;  method= PCA 
+
+ iter= 43 ;  day= 3 ;  method= ICA 
+
+ iter= 40 ;  day= 3 ;  method= RPCA 
+
+ iter= 42 ;  day= 4 ;  method= PCA 
+
+ iter= 41 ;  day= 4 ;  method= PCA 
+
+ iter= 37 ;  day= 3 ;  method= ICA 
+
+ iter= 38 ;  day= 5 ;  method= ICA 
+
+ iter= 43 ;  day= 4 ;  method= PCA 
+
+ iter= 44 ;  day= 3 ;  method= RPCA 
+
+ iter= 39 ;  day= 3 ;  method= ICA 
+
+ iter= 45 ;  day= 5 ;  method= RPCA 
+
+ iter= 40 ;  day= 3 ;  method= ICA 
+
+ iter= 45 ;  day= 5 ;  method= ICA 
+
+ iter= 37 ;  day= 4 ;  method= PCA 
+
+ iter= 38 ;  day= 6 ;  method= PCA 
+
+ iter= 42 ;  day= 4 ;  method= RPCA 
+
+ iter= 39 ;  day= 4 ;  method= PCA 
+
+ iter= 41 ;  day= 4 ;  method= RPCA 
+
+ iter= 44 ;  day= 3 ;  method= ICA 
+
+ iter= 43 ;  day= 4 ;  method= RPCA 
+
+ iter= 40 ;  day= 4 ;  method= PCA 
+
+ iter= 45 ;  day= 6 ;  method= PCA 
+
+ iter= 37 ;  day= 4 ;  method= RPCA 
+
+ iter= 41 ;  day= 4 ;  method= ICA 
+
+ iter= 44 ;  day= 4 ;  method= PCA 
+
+ iter= 43 ;  day= 4 ;  method= ICA 
+
+ iter= 42 ;  day= 4 ;  method= ICA 
+
+ iter= 38 ;  day= 6 ;  method= RPCA 
+
+ iter= 39 ;  day= 4 ;  method= RPCA 
+
+ iter= 40 ;  day= 4 ;  method= RPCA 
+
+ iter= 45 ;  day= 6 ;  method= RPCA 
+
+ iter= 41 ;  day= 5 ;  method= PCA 
+
+ iter= 37 ;  day= 4 ;  method= ICA 
+
+ iter= 44 ;  day= 4 ;  method= RPCA 
+
+ iter= 43 ;  day= 5 ;  method= PCA 
+
+ iter= 39 ;  day= 4 ;  method= ICA 
+
+ iter= 40 ;  day= 4 ;  method= ICA 
+
+ iter= 45 ;  day= 6 ;  method= ICA 
+
+ iter= 42 ;  day= 5 ;  method= PCA 
+
+ iter= 38 ;  day= 6 ;  method= ICA 
+
+ iter= 37 ;  day= 5 ;  method= PCA 
+
+ iter= 41 ;  day= 5 ;  method= RPCA 
+
+ iter= 44 ;  day= 4 ;  method= ICA 
+
+ iter= 43 ;  day= 5 ;  method= RPCA 
+
+ iter= 45 ;  day= 7 ;  method= PCA 
+
+ iter= 38 ;  day= 7 ;  method= PCA 
+
+ iter= 39 ;  day= 5 ;  method= PCA 
+
+ iter= 40 ;  day= 5 ;  method= PCA 
+
+ iter= 42 ;  day= 5 ;  method= RPCA 
+
+ iter= 37 ;  day= 5 ;  method= RPCA 
+
+ iter= 41 ;  day= 5 ;  method= ICA 
+
+ iter= 39 ;  day= 5 ;  method= RPCA 
+
+ iter= 43 ;  day= 5 ;  method= ICA 
+
+ iter= 42 ;  day= 5 ;  method= ICA 
+
+ iter= 37 ;  day= 5 ;  method= ICA 
+
+ iter= 40 ;  day= 5 ;  method= RPCA 
+
+ iter= 44 ;  day= 5 ;  method= PCA 
+
+ iter= 41 ;  day= 6 ;  method= PCA 
+
+ iter= 45 ;  day= 7 ;  method= RPCA 
+
+ iter= 38 ;  day= 7 ;  method= RPCA 
+
+ iter= 37 ;  day= 6 ;  method= PCA 
+
+ iter= 40 ;  day= 5 ;  method= ICA 
+
+ iter= 44 ;  day= 5 ;  method= RPCA 
+
+ iter= 43 ;  day= 6 ;  method= PCA 
+
+ iter= 38 ;  day= 7 ;  method= ICA 
+
+ iter= 45 ;  day= 7 ;  method= ICA 
+
+ iter= 42 ;  day= 6 ;  method= PCA 
+
+ iter= 41 ;  day= 6 ;  method= RPCA 
+
+ iter= 39 ;  day= 5 ;  method= ICA 
+
+ iter= 37 ;  day= 6 ;  method= RPCA 
+
+ iter= 40 ;  day= 6 ;  method= PCA 
+
+ iter= 38 ;  day= 8 ;  method= PCA 
+
+ iter= 45 ;  day= 8 ;  method= PCA 
+
+ iter= 39 ;  day= 6 ;  method= PCA 
+
+ iter= 44 ;  day= 5 ;  method= ICA 
+
+ iter= 42 ;  day= 6 ;  method= RPCA 
+
+ iter= 41 ;  day= 6 ;  method= ICA 
+
+ iter= 43 ;  day= 6 ;  method= RPCA 
+
+ iter= 40 ;  day= 6 ;  method= RPCA 
+
+ iter= 44 ;  day= 6 ;  method= PCA 
+
+ iter= 41 ;  day= 7 ;  method= PCA 
+
+ iter= 37 ;  day= 6 ;  method= ICA 
+
+ iter= 38 ;  day= 8 ;  method= RPCA 
+
+ iter= 42 ;  day= 6 ;  method= ICA 
+
+ iter= 45 ;  day= 8 ;  method= RPCA 
+
+ iter= 39 ;  day= 6 ;  method= RPCA 
+
+ iter= 43 ;  day= 6 ;  method= ICA 
+
+ iter= 40 ;  day= 6 ;  method= ICA 
+
+ iter= 37 ;  day= 7 ;  method= PCA 
+
+ iter= 43 ;  day= 7 ;  method= PCA 
+
+ iter= 42 ;  day= 7 ;  method= PCA 
+
+ iter= 44 ;  day= 6 ;  method= RPCA 
+
+ iter= 39 ;  day= 6 ;  method= ICA 
+
+ iter= 45 ;  day= 8 ;  method= ICA 
+
+ iter= 38 ;  day= 8 ;  method= ICA 
+
+ iter= 41 ;  day= 7 ;  method= RPCA 
+
+ iter= 40 ;  day= 7 ;  method= PCA 
+
+ iter= 45 ;  day= 9 ;  method= PCA 
+
+ iter= 38 ;  day= 9 ;  method= PCA 
+
+ iter= 44 ;  day= 6 ;  method= ICA 
+
+ iter= 39 ;  day= 7 ;  method= PCA 
+
+ iter= 37 ;  day= 7 ;  method= RPCA 
+
+ iter= 41 ;  day= 7 ;  method= ICA 
+
+ iter= 42 ;  day= 7 ;  method= RPCA 
+
+ iter= 43 ;  day= 7 ;  method= RPCA 
+
+ iter= 41 ;  day= 8 ;  method= PCA 
+
+ iter= 37 ;  day= 7 ;  method= ICA 
+
+ iter= 44 ;  day= 7 ;  method= PCA 
+
+ iter= 42 ;  day= 7 ;  method= ICA 
+
+ iter= 40 ;  day= 7 ;  method= RPCA 
+
+ iter= 45 ;  day= 9 ;  method= RPCA 
+
+ iter= 38 ;  day= 9 ;  method= RPCA 
+
+ iter= 43 ;  day= 7 ;  method= ICA 
+
+ iter= 39 ;  day= 7 ;  method= RPCA 
+
+ iter= 43 ;  day= 8 ;  method= PCA 
+
+ iter= 42 ;  day= 8 ;  method= PCA 
+
+ iter= 37 ;  day= 8 ;  method= PCA 
+
+ iter= 38 ;  day= 9 ;  method= ICA 
+
+ iter= 45 ;  day= 9 ;  method= ICA 
+
+ iter= 41 ;  day= 8 ;  method= RPCA 
+
+ iter= 40 ;  day= 7 ;  method= ICA 
+
+ iter= 44 ;  day= 7 ;  method= RPCA 
+
+ iter= 39 ;  day= 7 ;  method= ICA 
+
+ iter= 40 ;  day= 8 ;  method= PCA 
+
+ iter= 45 ;  day= 10 ;  method= PCA 
+
+ iter= 39 ;  day= 8 ;  method= PCA 
+
+ iter= 38 ;  day= 10 ;  method= PCA 
+
+ iter= 41 ;  day= 8 ;  method= ICA 
+
+ iter= 43 ;  day= 8 ;  method= RPCA 
+
+ iter= 44 ;  day= 7 ;  method= ICA 
+
+ iter= 37 ;  day= 8 ;  method= RPCA 
+
+ iter= 42 ;  day= 8 ;  method= RPCA 
+
+ iter= 41 ;  day= 9 ;  method= PCA 
+
+ iter= 42 ;  day= 8 ;  method= ICA 
+
+ iter= 45 ;  day= 10 ;  method= RPCA 
+
+ iter= 44 ;  day= 8 ;  method= PCA 
+
+ iter= 40 ;  day= 8 ;  method= RPCA 
+
+ iter= 37 ;  day= 8 ;  method= ICA 
+
+ iter= 38 ;  day= 10 ;  method= RPCA 
+
+ iter= 43 ;  day= 8 ;  method= ICA 
+
+ iter= 39 ;  day= 8 ;  method= RPCA 
+
+ iter= 43 ;  day= 9 ;  method= PCA 
+
+ iter= 42 ;  day= 9 ;  method= PCA 
+
+ iter= 37 ;  day= 9 ;  method= PCA 
+
+ iter= 38 ;  day= 10 ;  method= ICA 
+
+ iter= 41 ;  day= 9 ;  method= RPCA 
+
+ iter= 39 ;  day= 8 ;  method= ICA 
+
+ iter= 45 ;  day= 10 ;  method= ICA 
+
+ iter= 40 ;  day= 8 ;  method= ICA 
+
+ iter= 44 ;  day= 8 ;  method= RPCA 
+
+ iter= 47 ;  day= 2 ;  method= PCA 
+
+ iter= 39 ;  day= 9 ;  method= PCA 
+
+ iter= 40 ;  day= 9 ;  method= PCA 
+
+ iter= 44 ;  day= 8 ;  method= ICA 
+
+ iter= 41 ;  day= 9 ;  method= ICA 
+
+ iter= 43 ;  day= 9 ;  method= RPCA 
+
+ iter= 37 ;  day= 9 ;  method= RPCA 
+
+ iter= 42 ;  day= 9 ;  method= RPCA 
+
+ iter= 44 ;  day= 9 ;  method= PCA 
+
+ iter= 47 ;  day= 2 ;  method= RPCA 
+
+ iter= 39 ;  day= 9 ;  method= RPCA 
+
+ iter= 41 ;  day= 10 ;  method= PCA 
+
+ iter= 40 ;  day= 9 ;  method= RPCA 
+
+ iter= 43 ;  day= 9 ;  method= ICA 
+
+ iter= 42 ;  day= 9 ;  method= ICA 
+
+ iter= 37 ;  day= 9 ;  method= ICA 
+
+ iter= 44 ;  day= 9 ;  method= RPCA 
+
+ iter= 37 ;  day= 10 ;  method= PCA 
+
+ iter= 47 ;  day= 2 ;  method= ICA 
+
+ iter= 42 ;  day= 10 ;  method= PCA 
+
+ iter= 41 ;  day= 10 ;  method= RPCA 
+
+ iter= 40 ;  day= 9 ;  method= ICA 
+
+ iter= 39 ;  day= 9 ;  method= ICA 
+
+ iter= 43 ;  day= 10 ;  method= PCA 
+
+ iter= 44 ;  day= 9 ;  method= ICA 
+
+ iter= 39 ;  day= 10 ;  method= PCA 
+
+ iter= 37 ;  day= 10 ;  method= RPCA 
+
+ iter= 40 ;  day= 10 ;  method= PCA 
+
+ iter= 41 ;  day= 10 ;  method= ICA 
+
+ iter= 42 ;  day= 10 ;  method= RPCA 
+
+ iter= 43 ;  day= 10 ;  method= RPCA 
+
+ iter= 47 ;  day= 3 ;  method= PCA 
+
+ iter= 44 ;  day= 10 ;  method= PCA 
+
+ iter= 50 ;  day= 2 ;  method= PCA 
+
+ iter= 37 ;  day= 10 ;  method= ICA 
+
+ iter= 42 ;  day= 10 ;  method= ICA 
+
+ iter= 43 ;  day= 10 ;  method= ICA 
+
+ iter= 39 ;  day= 10 ;  method= RPCA 
+
+ iter= 40 ;  day= 10 ;  method= RPCA 
+
+ iter= 47 ;  day= 3 ;  method= RPCA 
+
+ iter= 44 ;  day= 10 ;  method= RPCA 
+
+ iter= 46 ;  day= 2 ;  method= PCA 
+
+ iter= 50 ;  day= 2 ;  method= RPCA 
+
+ iter= 39 ;  day= 10 ;  method= ICA 
+
+ iter= 40 ;  day= 10 ;  method= ICA 
+
+ iter= 47 ;  day= 3 ;  method= ICA 
+
+ iter= 44 ;  day= 10 ;  method= ICA 
+
+ iter= 50 ;  day= 2 ;  method= ICA 
+
+ iter= 46 ;  day= 2 ;  method= RPCA 
+
+ iter= 48 ;  day= 2 ;  method= PCA 
+
+ iter= 49 ;  day= 2 ;  method= PCA 
+
+ iter= 47 ;  day= 4 ;  method= PCA 
+
+ iter= 46 ;  day= 2 ;  method= ICA 
+
+ iter= 50 ;  day= 3 ;  method= PCA 
+
+ iter= 48 ;  day= 2 ;  method= RPCA 
+
+ iter= 49 ;  day= 2 ;  method= RPCA 
+
+ iter= 47 ;  day= 4 ;  method= RPCA 
+
+ iter= 48 ;  day= 2 ;  method= ICA 
+
+ iter= 49 ;  day= 2 ;  method= ICA 
+
+ iter= 46 ;  day= 3 ;  method= PCA 
+
+ iter= 50 ;  day= 3 ;  method= RPCA 
+
+ iter= 47 ;  day= 4 ;  method= ICA 
+
+ iter= 50 ;  day= 3 ;  method= ICA 
+
+ iter= 47 ;  day= 5 ;  method= PCA 
+
+ iter= 46 ;  day= 3 ;  method= RPCA 
+
+ iter= 48 ;  day= 3 ;  method= PCA 
+
+ iter= 49 ;  day= 3 ;  method= PCA 
+
+ iter= 50 ;  day= 4 ;  method= PCA 
+
+ iter= 46 ;  day= 3 ;  method= ICA 
+
+ iter= 47 ;  day= 5 ;  method= RPCA 
+
+ iter= 48 ;  day= 3 ;  method= RPCA 
+
+ iter= 49 ;  day= 3 ;  method= RPCA 
+
+ iter= 50 ;  day= 4 ;  method= RPCA 
+
+ iter= 46 ;  day= 4 ;  method= PCA 
+
+ iter= 47 ;  day= 5 ;  method= ICA 
+
+ iter= 48 ;  day= 3 ;  method= ICA 
+
+ iter= 49 ;  day= 3 ;  method= ICA 
+
+ iter= 50 ;  day= 4 ;  method= ICA 
+
+ iter= 47 ;  day= 6 ;  method= PCA 
+
+ iter= 46 ;  day= 4 ;  method= RPCA 
+
+ iter= 48 ;  day= 4 ;  method= PCA 
+
+ iter= 49 ;  day= 4 ;  method= PCA 
+
+ iter= 50 ;  day= 5 ;  method= PCA 
+
+ iter= 46 ;  day= 4 ;  method= ICA 
+
+ iter= 47 ;  day= 6 ;  method= RPCA 
+
+ iter= 48 ;  day= 4 ;  method= RPCA 
+
+ iter= 49 ;  day= 4 ;  method= RPCA 
+
+ iter= 50 ;  day= 5 ;  method= RPCA 
+
+ iter= 46 ;  day= 5 ;  method= PCA 
+
+ iter= 47 ;  day= 6 ;  method= ICA 
+
+ iter= 48 ;  day= 4 ;  method= ICA 
+
+ iter= 49 ;  day= 4 ;  method= ICA 
+
+ iter= 50 ;  day= 5 ;  method= ICA 
+
+ iter= 46 ;  day= 5 ;  method= RPCA 
+
+ iter= 47 ;  day= 7 ;  method= PCA 
+
+ iter= 48 ;  day= 5 ;  method= PCA 
+
+ iter= 49 ;  day= 5 ;  method= PCA 
+
+ iter= 50 ;  day= 6 ;  method= PCA 
+
+ iter= 46 ;  day= 5 ;  method= ICA 
+
+ iter= 47 ;  day= 7 ;  method= RPCA 
+
+ iter= 48 ;  day= 5 ;  method= RPCA 
+
+ iter= 49 ;  day= 5 ;  method= RPCA 
+
+ iter= 50 ;  day= 6 ;  method= RPCA 
+
+ iter= 46 ;  day= 6 ;  method= PCA 
+
+ iter= 47 ;  day= 7 ;  method= ICA 
+
+ iter= 48 ;  day= 5 ;  method= ICA 
+
+ iter= 49 ;  day= 5 ;  method= ICA 
+
+ iter= 50 ;  day= 6 ;  method= ICA 
+
+ iter= 46 ;  day= 6 ;  method= RPCA 
+
+ iter= 47 ;  day= 8 ;  method= PCA 
+
+ iter= 48 ;  day= 6 ;  method= PCA 
+
+ iter= 49 ;  day= 6 ;  method= PCA 
+
+ iter= 50 ;  day= 7 ;  method= PCA 
+
+ iter= 46 ;  day= 6 ;  method= ICA 
+
+ iter= 47 ;  day= 8 ;  method= RPCA 
+
+ iter= 48 ;  day= 6 ;  method= RPCA 
+
+ iter= 49 ;  day= 6 ;  method= RPCA 
+
+ iter= 50 ;  day= 7 ;  method= RPCA 
+
+ iter= 46 ;  day= 7 ;  method= PCA 
+
+ iter= 47 ;  day= 8 ;  method= ICA 
+
+ iter= 48 ;  day= 6 ;  method= ICA 
+
+ iter= 49 ;  day= 6 ;  method= ICA 
+
+ iter= 50 ;  day= 7 ;  method= ICA 
+
+ iter= 46 ;  day= 7 ;  method= RPCA 
+
+ iter= 47 ;  day= 9 ;  method= PCA 
+
+ iter= 48 ;  day= 7 ;  method= PCA 
+
+ iter= 49 ;  day= 7 ;  method= PCA 
+
+ iter= 50 ;  day= 8 ;  method= PCA 
+
+ iter= 46 ;  day= 7 ;  method= ICA 
+
+ iter= 47 ;  day= 9 ;  method= RPCA 
+
+ iter= 48 ;  day= 7 ;  method= RPCA 
+
+ iter= 49 ;  day= 7 ;  method= RPCA 
+
+ iter= 50 ;  day= 8 ;  method= RPCA 
+
+ iter= 46 ;  day= 8 ;  method= PCA 
+
+ iter= 47 ;  day= 9 ;  method= ICA 
+
+ iter= 48 ;  day= 7 ;  method= ICA 
+
+ iter= 49 ;  day= 7 ;  method= ICA 
+
+ iter= 50 ;  day= 8 ;  method= ICA 
+
+ iter= 46 ;  day= 8 ;  method= RPCA 
+
+ iter= 47 ;  day= 10 ;  method= PCA 
+
+ iter= 48 ;  day= 8 ;  method= PCA 
+
+ iter= 49 ;  day= 8 ;  method= PCA 
+
+ iter= 50 ;  day= 9 ;  method= PCA 
+
+ iter= 46 ;  day= 8 ;  method= ICA 
+
+ iter= 47 ;  day= 10 ;  method= RPCA 
+
+ iter= 48 ;  day= 8 ;  method= RPCA 
+
+ iter= 49 ;  day= 8 ;  method= RPCA 
+
+ iter= 50 ;  day= 9 ;  method= RPCA 
+
+ iter= 46 ;  day= 9 ;  method= PCA 
+
+ iter= 47 ;  day= 10 ;  method= ICA 
+
+ iter= 48 ;  day= 8 ;  method= ICA 
+
+ iter= 49 ;  day= 8 ;  method= ICA 
+
+ iter= 50 ;  day= 9 ;  method= ICA 
+
+ iter= 46 ;  day= 9 ;  method= RPCA 
+
+ iter= 48 ;  day= 9 ;  method= PCA 
+
+ iter= 49 ;  day= 9 ;  method= PCA 
+
+ iter= 50 ;  day= 10 ;  method= PCA 
+
+ iter= 46 ;  day= 9 ;  method= ICA 
+
+ iter= 48 ;  day= 9 ;  method= RPCA 
+
+ iter= 49 ;  day= 9 ;  method= RPCA 
+
+ iter= 50 ;  day= 10 ;  method= RPCA 
+
+ iter= 46 ;  day= 10 ;  method= PCA 
+
+ iter= 48 ;  day= 9 ;  method= ICA 
+
+ iter= 49 ;  day= 9 ;  method= ICA 
+
+ iter= 50 ;  day= 10 ;  method= ICA 
+
+ iter= 46 ;  day= 10 ;  method= RPCA 
+
+ iter= 48 ;  day= 10 ;  method= PCA 
+
+ iter= 49 ;  day= 10 ;  method= PCA 
+
+ iter= 46 ;  day= 10 ;  method= ICA 
+
+ iter= 48 ;  day= 10 ;  method= RPCA 
+
+ iter= 49 ;  day= 10 ;  method= RPCA 
+
+ iter= 48 ;  day= 10 ;  method= ICA 
+
+ iter= 49 ;  day= 10 ;  method= ICA 

@@ -1,0 +1,7690 @@
+
+ iter= 1 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 2 ;  method= PCA 
+
+ iter= 2 ;  day= 2 ;  method= PCA 
+
+ iter= 3 ;  day= 2 ;  method= PCA 
+
+ iter= 4 ;  day= 2 ;  method= PCA 
+
+ iter= 5 ;  day= 2 ;  method= PCA 
+
+ iter= 6 ;  day= 2 ;  method= PCA 
+
+ iter= 7 ;  day= 2 ;  method= PCA 
+
+ iter= 8 ;  day= 2 ;  method= PCA 
+
+ iter= 9 ;  day= 2 ;  method= PCA 
+
+ iter= 1 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 2 ;  method= bPLS 
+
+ iter= 3 ;  day= 2 ;  method= bPLS 
+
+ iter= 8 ;  day= 2 ;  method= bPLS 
+
+ iter= 2 ;  day= 2 ;  method= bPLS 
+
+ iter= 4 ;  day= 2 ;  method= bPLS 
+
+ iter= 9 ;  day= 2 ;  method= bPLS 
+
+ iter= 7 ;  day= 2 ;  method= bPLS 
+
+ iter= 6 ;  day= 2 ;  method= bPLS 
+
+ iter= 5 ;  day= 2 ;  method= bPLS 
+
+ iter= 1 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 3 ;  method= PCA 
+
+ iter= 8 ;  day= 3 ;  method= PCA 
+
+ iter= 3 ;  day= 3 ;  method= PCA 
+
+ iter= 4 ;  day= 3 ;  method= PCA 
+
+ iter= 9 ;  day= 3 ;  method= PCA 
+
+ iter= 2 ;  day= 3 ;  method= PCA 
+
+ iter= 5 ;  day= 3 ;  method= PCA 
+
+ iter= 7 ;  day= 3 ;  method= PCA 
+
+ iter= 6 ;  day= 3 ;  method= PCA 
+
+ iter= 8 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 3 ;  method= bPLS 
+
+ iter= 1 ;  day= 3 ;  method= bPLS 
+
+ iter= 4 ;  day= 3 ;  method= bPLS 
+
+ iter= 3 ;  day= 3 ;  method= bPLS 
+
+ iter= 2 ;  day= 3 ;  method= bPLS 
+
+ iter= 9 ;  day= 3 ;  method= bPLS 
+
+ iter= 6 ;  day= 3 ;  method= bPLS 
+
+ iter= 5 ;  day= 3 ;  method= bPLS 
+
+ iter= 7 ;  day= 3 ;  method= bPLS 
+
+ iter= 8 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 4 ;  method= PCA 
+
+ iter= 4 ;  day= 4 ;  method= PCA 
+
+ iter= 1 ;  day= 4 ;  method= PCA 
+
+ iter= 2 ;  day= 4 ;  method= PCA 
+
+ iter= 3 ;  day= 4 ;  method= PCA 
+
+ iter= 9 ;  day= 4 ;  method= PCA 
+
+ iter= 6 ;  day= 4 ;  method= PCA 
+
+ iter= 7 ;  day= 4 ;  method= PCA 
+
+ iter= 5 ;  day= 4 ;  method= PCA 
+
+ iter= 8 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 4 ;  method= bPLS 
+
+ iter= 4 ;  day= 4 ;  method= bPLS 
+
+ iter= 1 ;  day= 4 ;  method= bPLS 
+
+ iter= 2 ;  day= 4 ;  method= bPLS 
+
+ iter= 3 ;  day= 4 ;  method= bPLS 
+
+ iter= 6 ;  day= 4 ;  method= bPLS 
+
+ iter= 7 ;  day= 4 ;  method= bPLS 
+
+ iter= 9 ;  day= 4 ;  method= bPLS 
+
+ iter= 5 ;  day= 4 ;  method= bPLS 
+
+ iter= 8 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 5 ;  method= PCA 
+
+ iter= 4 ;  day= 5 ;  method= PCA 
+
+ iter= 1 ;  day= 5 ;  method= PCA 
+
+ iter= 7 ;  day= 5 ;  method= PCA 
+
+ iter= 2 ;  day= 5 ;  method= PCA 
+
+ iter= 6 ;  day= 5 ;  method= PCA 
+
+ iter= 9 ;  day= 5 ;  method= PCA 
+
+ iter= 3 ;  day= 5 ;  method= PCA 
+
+ iter= 5 ;  day= 5 ;  method= PCA 
+
+ iter= 8 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 5 ;  method= bPLS 
+
+ iter= 4 ;  day= 5 ;  method= bPLS 
+
+ iter= 9 ;  day= 5 ;  method= bPLS 
+
+ iter= 1 ;  day= 5 ;  method= bPLS 
+
+ iter= 7 ;  day= 5 ;  method= bPLS 
+
+ iter= 2 ;  day= 5 ;  method= bPLS 
+
+ iter= 6 ;  day= 5 ;  method= bPLS 
+
+ iter= 5 ;  day= 5 ;  method= bPLS 
+
+ iter= 3 ;  day= 5 ;  method= bPLS 
+
+ iter= 8 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 6 ;  method= PCA 
+
+ iter= 4 ;  day= 6 ;  method= PCA 
+
+ iter= 9 ;  day= 6 ;  method= PCA 
+
+ iter= 7 ;  day= 6 ;  method= PCA 
+
+ iter= 6 ;  day= 6 ;  method= PCA 
+
+ iter= 2 ;  day= 6 ;  method= PCA 
+
+ iter= 1 ;  day= 6 ;  method= PCA 
+
+ iter= 3 ;  day= 6 ;  method= PCA 
+
+ iter= 5 ;  day= 6 ;  method= PCA 
+
+ iter= 8 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 6 ;  method= bPLS 
+
+ iter= 4 ;  day= 6 ;  method= bPLS 
+
+ iter= 9 ;  day= 6 ;  method= bPLS 
+
+ iter= 7 ;  day= 6 ;  method= bPLS 
+
+ iter= 6 ;  day= 6 ;  method= bPLS 
+
+ iter= 2 ;  day= 6 ;  method= bPLS 
+
+ iter= 1 ;  day= 6 ;  method= bPLS 
+
+ iter= 3 ;  day= 6 ;  method= bPLS 
+
+ iter= 5 ;  day= 6 ;  method= bPLS 
+
+ iter= 8 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 7 ;  method= PCA 
+
+ iter= 4 ;  day= 7 ;  method= PCA 
+
+ iter= 9 ;  day= 7 ;  method= PCA 
+
+ iter= 7 ;  day= 7 ;  method= PCA 
+
+ iter= 6 ;  day= 7 ;  method= PCA 
+
+ iter= 2 ;  day= 7 ;  method= PCA 
+
+ iter= 1 ;  day= 7 ;  method= PCA 
+
+ iter= 3 ;  day= 7 ;  method= PCA 
+
+ iter= 5 ;  day= 7 ;  method= PCA 
+
+ iter= 8 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 7 ;  method= bPLS 
+
+ iter= 2 ;  day= 7 ;  method= bPLS 
+
+ iter= 4 ;  day= 7 ;  method= bPLS 
+
+ iter= 9 ;  day= 7 ;  method= bPLS 
+
+ iter= 6 ;  day= 7 ;  method= bPLS 
+
+ iter= 7 ;  day= 7 ;  method= bPLS 
+
+ iter= 3 ;  day= 7 ;  method= bPLS 
+
+ iter= 5 ;  day= 7 ;  method= bPLS 
+
+ iter= 1 ;  day= 7 ;  method= bPLS 
+
+ iter= 8 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 8 ;  method= PCA 
+
+ iter= 2 ;  day= 8 ;  method= PCA 
+
+ iter= 8 ;  day= 8 ;  method= PCA 
+
+ iter= 4 ;  day= 8 ;  method= PCA 
+
+ iter= 6 ;  day= 8 ;  method= PCA 
+
+ iter= 3 ;  day= 8 ;  method= PCA 
+
+ iter= 5 ;  day= 8 ;  method= PCA 
+
+ iter= 7 ;  day= 8 ;  method= PCA 
+
+ iter= 1 ;  day= 8 ;  method= PCA 
+
+ iter= 9 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 8 ;  method= bPLS 
+
+ iter= 9 ;  day= 8 ;  method= bPLS 
+
+ iter= 8 ;  day= 8 ;  method= bPLS 
+
+ iter= 4 ;  day= 8 ;  method= bPLS 
+
+ iter= 3 ;  day= 8 ;  method= bPLS 
+
+ iter= 6 ;  day= 8 ;  method= bPLS 
+
+ iter= 5 ;  day= 8 ;  method= bPLS 
+
+ iter= 7 ;  day= 8 ;  method= bPLS 
+
+ iter= 1 ;  day= 8 ;  method= bPLS 
+
+ iter= 2 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 9 ;  method= PCA 
+
+ iter= 8 ;  day= 9 ;  method= PCA 
+
+ iter= 9 ;  day= 9 ;  method= PCA 
+
+ iter= 3 ;  day= 9 ;  method= PCA 
+
+ iter= 4 ;  day= 9 ;  method= PCA 
+
+ iter= 6 ;  day= 9 ;  method= PCA 
+
+ iter= 5 ;  day= 9 ;  method= PCA 
+
+ iter= 7 ;  day= 9 ;  method= PCA 
+
+ iter= 1 ;  day= 9 ;  method= PCA 
+
+ iter= 2 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 9 ;  method= bPLS 
+
+ iter= 2 ;  day= 9 ;  method= bPLS 
+
+ iter= 9 ;  day= 9 ;  method= bPLS 
+
+ iter= 3 ;  day= 9 ;  method= bPLS 
+
+ iter= 4 ;  day= 9 ;  method= bPLS 
+
+ iter= 6 ;  day= 9 ;  method= bPLS 
+
+ iter= 5 ;  day= 9 ;  method= bPLS 
+
+ iter= 7 ;  day= 9 ;  method= bPLS 
+
+ iter= 1 ;  day= 9 ;  method= bPLS 
+
+ iter= 8 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 10 ;  method= PCA 
+
+ iter= 9 ;  day= 10 ;  method= PCA 
+
+ iter= 2 ;  day= 10 ;  method= PCA 
+
+ iter= 3 ;  day= 10 ;  method= PCA 
+
+ iter= 4 ;  day= 10 ;  method= PCA 
+
+ iter= 6 ;  day= 10 ;  method= PCA 
+
+ iter= 7 ;  day= 10 ;  method= PCA 
+
+ iter= 5 ;  day= 10 ;  method= PCA 
+
+ iter= 1 ;  day= 10 ;  method= PCA 
+
+ iter= 8 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 10 ;  method= bPLS 
+
+ iter= 8 ;  day= 10 ;  method= bPLS 
+
+ iter= 9 ;  day= 10 ;  method= bPLS 
+
+ iter= 3 ;  day= 10 ;  method= bPLS 
+
+ iter= 5 ;  day= 10 ;  method= bPLS 
+
+ iter= 6 ;  day= 10 ;  method= bPLS 
+
+ iter= 7 ;  day= 10 ;  method= bPLS 
+
+ iter= 4 ;  day= 10 ;  method= bPLS 
+
+ iter= 1 ;  day= 10 ;  method= bPLS 
+
+ iter= 2 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 6 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 2 ;  method= PCA 
+
+ iter= 11 ;  day= 2 ;  method= PCA 
+
+ iter= 18 ;  day= 2 ;  method= PCA 
+
+ iter= 13 ;  day= 2 ;  method= PCA 
+
+ iter= 12 ;  day= 2 ;  method= PCA 
+
+ iter= 16 ;  day= 2 ;  method= PCA 
+
+ iter= 15 ;  day= 2 ;  method= PCA 
+
+ iter= 14 ;  day= 2 ;  method= PCA 
+
+ iter= 10 ;  day= 2 ;  method= PCA 
+
+ iter= 17 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 2 ;  method= bPLS 
+
+ iter= 11 ;  day= 2 ;  method= bPLS 
+
+ iter= 16 ;  day= 2 ;  method= bPLS 
+
+ iter= 13 ;  day= 2 ;  method= bPLS 
+
+ iter= 15 ;  day= 2 ;  method= bPLS 
+
+ iter= 18 ;  day= 2 ;  method= bPLS 
+
+ iter= 10 ;  day= 2 ;  method= bPLS 
+
+ iter= 12 ;  day= 2 ;  method= bPLS 
+
+ iter= 14 ;  day= 2 ;  method= bPLS 
+
+ iter= 17 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 3 ;  method= PCA 
+
+ iter= 11 ;  day= 3 ;  method= PCA 
+
+ iter= 16 ;  day= 3 ;  method= PCA 
+
+ iter= 14 ;  day= 3 ;  method= PCA 
+
+ iter= 10 ;  day= 3 ;  method= PCA 
+
+ iter= 13 ;  day= 3 ;  method= PCA 
+
+ iter= 15 ;  day= 3 ;  method= PCA 
+
+ iter= 18 ;  day= 3 ;  method= PCA 
+
+ iter= 12 ;  day= 3 ;  method= PCA 
+
+ iter= 11 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 3 ;  method= bPLS 
+
+ iter= 11 ;  day= 3 ;  method= bPLS 
+
+ iter= 10 ;  day= 3 ;  method= bPLS 
+
+ iter= 16 ;  day= 3 ;  method= bPLS 
+
+ iter= 18 ;  day= 3 ;  method= bPLS 
+
+ iter= 15 ;  day= 3 ;  method= bPLS 
+
+ iter= 12 ;  day= 3 ;  method= bPLS 
+
+ iter= 14 ;  day= 3 ;  method= bPLS 
+
+ iter= 13 ;  day= 3 ;  method= bPLS 
+
+ iter= 11 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 4 ;  method= PCA 
+
+ iter= 17 ;  day= 4 ;  method= PCA 
+
+ iter= 10 ;  day= 4 ;  method= PCA 
+
+ iter= 16 ;  day= 4 ;  method= PCA 
+
+ iter= 14 ;  day= 4 ;  method= PCA 
+
+ iter= 12 ;  day= 4 ;  method= PCA 
+
+ iter= 15 ;  day= 4 ;  method= PCA 
+
+ iter= 13 ;  day= 4 ;  method= PCA 
+
+ iter= 18 ;  day= 4 ;  method= PCA 
+
+ iter= 11 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 4 ;  method= bPLS 
+
+ iter= 17 ;  day= 4 ;  method= bPLS 
+
+ iter= 10 ;  day= 4 ;  method= bPLS 
+
+ iter= 14 ;  day= 4 ;  method= bPLS 
+
+ iter= 12 ;  day= 4 ;  method= bPLS 
+
+ iter= 15 ;  day= 4 ;  method= bPLS 
+
+ iter= 16 ;  day= 4 ;  method= bPLS 
+
+ iter= 13 ;  day= 4 ;  method= bPLS 
+
+ iter= 18 ;  day= 4 ;  method= bPLS 
+
+ iter= 11 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 5 ;  method= PCA 
+
+ iter= 17 ;  day= 5 ;  method= PCA 
+
+ iter= 10 ;  day= 5 ;  method= PCA 
+
+ iter= 14 ;  day= 5 ;  method= PCA 
+
+ iter= 12 ;  day= 5 ;  method= PCA 
+
+ iter= 15 ;  day= 5 ;  method= PCA 
+
+ iter= 16 ;  day= 5 ;  method= PCA 
+
+ iter= 18 ;  day= 5 ;  method= PCA 
+
+ iter= 13 ;  day= 5 ;  method= PCA 
+
+ iter= 11 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 5 ;  method= bPLS 
+
+ iter= 14 ;  day= 5 ;  method= bPLS 
+
+ iter= 10 ;  day= 5 ;  method= bPLS 
+
+ iter= 17 ;  day= 5 ;  method= bPLS 
+
+ iter= 12 ;  day= 5 ;  method= bPLS 
+
+ iter= 15 ;  day= 5 ;  method= bPLS 
+
+ iter= 16 ;  day= 5 ;  method= bPLS 
+
+ iter= 13 ;  day= 5 ;  method= bPLS 
+
+ iter= 18 ;  day= 5 ;  method= bPLS 
+
+ iter= 11 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 6 ;  method= PCA 
+
+ iter= 17 ;  day= 6 ;  method= PCA 
+
+ iter= 14 ;  day= 6 ;  method= PCA 
+
+ iter= 10 ;  day= 6 ;  method= PCA 
+
+ iter= 12 ;  day= 6 ;  method= PCA 
+
+ iter= 15 ;  day= 6 ;  method= PCA 
+
+ iter= 13 ;  day= 6 ;  method= PCA 
+
+ iter= 16 ;  day= 6 ;  method= PCA 
+
+ iter= 18 ;  day= 6 ;  method= PCA 
+
+ iter= 11 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 6 ;  method= bPLS 
+
+ iter= 17 ;  day= 6 ;  method= bPLS 
+
+ iter= 10 ;  day= 6 ;  method= bPLS 
+
+ iter= 12 ;  day= 6 ;  method= bPLS 
+
+ iter= 14 ;  day= 6 ;  method= bPLS 
+
+ iter= 13 ;  day= 6 ;  method= bPLS 
+
+ iter= 16 ;  day= 6 ;  method= bPLS 
+
+ iter= 15 ;  day= 6 ;  method= bPLS 
+
+ iter= 18 ;  day= 6 ;  method= bPLS 
+
+ iter= 11 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 7 ;  method= PCA 
+
+ iter= 10 ;  day= 7 ;  method= PCA 
+
+ iter= 17 ;  day= 7 ;  method= PCA 
+
+ iter= 12 ;  day= 7 ;  method= PCA 
+
+ iter= 14 ;  day= 7 ;  method= PCA 
+
+ iter= 13 ;  day= 7 ;  method= PCA 
+
+ iter= 15 ;  day= 7 ;  method= PCA 
+
+ iter= 16 ;  day= 7 ;  method= PCA 
+
+ iter= 18 ;  day= 7 ;  method= PCA 
+
+ iter= 10 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 7 ;  method= bPLS 
+
+ iter= 10 ;  day= 7 ;  method= bPLS 
+
+ iter= 12 ;  day= 7 ;  method= bPLS 
+
+ iter= 14 ;  day= 7 ;  method= bPLS 
+
+ iter= 17 ;  day= 7 ;  method= bPLS 
+
+ iter= 13 ;  day= 7 ;  method= bPLS 
+
+ iter= 15 ;  day= 7 ;  method= bPLS 
+
+ iter= 16 ;  day= 7 ;  method= bPLS 
+
+ iter= 18 ;  day= 7 ;  method= bPLS 
+
+ iter= 11 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 8 ;  method= PCA 
+
+ iter= 10 ;  day= 8 ;  method= PCA 
+
+ iter= 12 ;  day= 8 ;  method= PCA 
+
+ iter= 14 ;  day= 8 ;  method= PCA 
+
+ iter= 17 ;  day= 8 ;  method= PCA 
+
+ iter= 15 ;  day= 8 ;  method= PCA 
+
+ iter= 13 ;  day= 8 ;  method= PCA 
+
+ iter= 16 ;  day= 8 ;  method= PCA 
+
+ iter= 18 ;  day= 8 ;  method= PCA 
+
+ iter= 11 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 8 ;  method= bPLS 
+
+ iter= 12 ;  day= 8 ;  method= bPLS 
+
+ iter= 10 ;  day= 8 ;  method= bPLS 
+
+ iter= 17 ;  day= 8 ;  method= bPLS 
+
+ iter= 14 ;  day= 8 ;  method= bPLS 
+
+ iter= 15 ;  day= 8 ;  method= bPLS 
+
+ iter= 13 ;  day= 8 ;  method= bPLS 
+
+ iter= 16 ;  day= 8 ;  method= bPLS 
+
+ iter= 18 ;  day= 8 ;  method= bPLS 
+
+ iter= 11 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 9 ;  method= PCA 
+
+ iter= 10 ;  day= 9 ;  method= PCA 
+
+ iter= 12 ;  day= 9 ;  method= PCA 
+
+ iter= 17 ;  day= 9 ;  method= PCA 
+
+ iter= 14 ;  day= 9 ;  method= PCA 
+
+ iter= 15 ;  day= 9 ;  method= PCA 
+
+ iter= 13 ;  day= 9 ;  method= PCA 
+
+ iter= 16 ;  day= 9 ;  method= PCA 
+
+ iter= 18 ;  day= 9 ;  method= PCA 
+
+ iter= 11 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 9 ;  method= bPLS 
+
+ iter= 10 ;  day= 9 ;  method= bPLS 
+
+ iter= 12 ;  day= 9 ;  method= bPLS 
+
+ iter= 17 ;  day= 9 ;  method= bPLS 
+
+ iter= 15 ;  day= 9 ;  method= bPLS 
+
+ iter= 14 ;  day= 9 ;  method= bPLS 
+
+ iter= 13 ;  day= 9 ;  method= bPLS 
+
+ iter= 16 ;  day= 9 ;  method= bPLS 
+
+ iter= 18 ;  day= 9 ;  method= bPLS 
+
+ iter= 11 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 11 ;  day= 10 ;  method= PCA 
+
+ iter= 10 ;  day= 10 ;  method= PCA 
+
+ iter= 12 ;  day= 10 ;  method= PCA 
+
+ iter= 15 ;  day= 10 ;  method= PCA 
+
+ iter= 17 ;  day= 10 ;  method= PCA 
+
+ iter= 14 ;  day= 10 ;  method= PCA 
+
+ iter= 16 ;  day= 10 ;  method= PCA 
+
+ iter= 13 ;  day= 10 ;  method= PCA 
+
+ iter= 18 ;  day= 10 ;  method= PCA 
+
+ iter= 11 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 10 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 12 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 15 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 17 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 14 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 16 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 13 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 18 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 11 ;  day= 10 ;  method= bPLS 
+
+ iter= 10 ;  day= 10 ;  method= bPLS 
+
+ iter= 12 ;  day= 10 ;  method= bPLS 
+
+ iter= 17 ;  day= 10 ;  method= bPLS 
+
+ iter= 15 ;  day= 10 ;  method= bPLS 
+
+ iter= 14 ;  day= 10 ;  method= bPLS 
+
+ iter= 13 ;  day= 10 ;  method= bPLS 
+
+ iter= 16 ;  day= 10 ;  method= bPLS 
+
+ iter= 18 ;  day= 10 ;  method= bPLS 
+
+ iter= 11 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 10 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 12 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 17 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 15 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 14 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 13 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 16 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 18 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 2 ;  method= PCA 
+
+ iter= 20 ;  day= 2 ;  method= PCA 
+
+ iter= 21 ;  day= 2 ;  method= PCA 
+
+ iter= 26 ;  day= 2 ;  method= PCA 
+
+ iter= 24 ;  day= 2 ;  method= PCA 
+
+ iter= 23 ;  day= 2 ;  method= PCA 
+
+ iter= 22 ;  day= 2 ;  method= PCA 
+
+ iter= 25 ;  day= 2 ;  method= PCA 
+
+ iter= 27 ;  day= 2 ;  method= PCA 
+
+ iter= 19 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 2 ;  method= bPLS 
+
+ iter= 20 ;  day= 2 ;  method= bPLS 
+
+ iter= 21 ;  day= 2 ;  method= bPLS 
+
+ iter= 26 ;  day= 2 ;  method= bPLS 
+
+ iter= 24 ;  day= 2 ;  method= bPLS 
+
+ iter= 23 ;  day= 2 ;  method= bPLS 
+
+ iter= 22 ;  day= 2 ;  method= bPLS 
+
+ iter= 25 ;  day= 2 ;  method= bPLS 
+
+ iter= 27 ;  day= 2 ;  method= bPLS 
+
+ iter= 19 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 3 ;  method= PCA 
+
+ iter= 21 ;  day= 3 ;  method= PCA 
+
+ iter= 20 ;  day= 3 ;  method= PCA 
+
+ iter= 24 ;  day= 3 ;  method= PCA 
+
+ iter= 26 ;  day= 3 ;  method= PCA 
+
+ iter= 23 ;  day= 3 ;  method= PCA 
+
+ iter= 25 ;  day= 3 ;  method= PCA 
+
+ iter= 22 ;  day= 3 ;  method= PCA 
+
+ iter= 27 ;  day= 3 ;  method= PCA 
+
+ iter= 19 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 3 ;  method= bPLS 
+
+ iter= 20 ;  day= 3 ;  method= bPLS 
+
+ iter= 21 ;  day= 3 ;  method= bPLS 
+
+ iter= 26 ;  day= 3 ;  method= bPLS 
+
+ iter= 25 ;  day= 3 ;  method= bPLS 
+
+ iter= 23 ;  day= 3 ;  method= bPLS 
+
+ iter= 24 ;  day= 3 ;  method= bPLS 
+
+ iter= 27 ;  day= 3 ;  method= bPLS 
+
+ iter= 22 ;  day= 3 ;  method= bPLS 
+
+ iter= 19 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 4 ;  method= PCA 
+
+ iter= 21 ;  day= 4 ;  method= PCA 
+
+ iter= 20 ;  day= 4 ;  method= PCA 
+
+ iter= 26 ;  day= 4 ;  method= PCA 
+
+ iter= 23 ;  day= 4 ;  method= PCA 
+
+ iter= 25 ;  day= 4 ;  method= PCA 
+
+ iter= 24 ;  day= 4 ;  method= PCA 
+
+ iter= 27 ;  day= 4 ;  method= PCA 
+
+ iter= 22 ;  day= 4 ;  method= PCA 
+
+ iter= 19 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 4 ;  method= bPLS 
+
+ iter= 26 ;  day= 4 ;  method= bPLS 
+
+ iter= 20 ;  day= 4 ;  method= bPLS 
+
+ iter= 23 ;  day= 4 ;  method= bPLS 
+
+ iter= 21 ;  day= 4 ;  method= bPLS 
+
+ iter= 25 ;  day= 4 ;  method= bPLS 
+
+ iter= 24 ;  day= 4 ;  method= bPLS 
+
+ iter= 22 ;  day= 4 ;  method= bPLS 
+
+ iter= 27 ;  day= 4 ;  method= bPLS 
+
+ iter= 19 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 5 ;  method= PCA 
+
+ iter= 26 ;  day= 5 ;  method= PCA 
+
+ iter= 23 ;  day= 5 ;  method= PCA 
+
+ iter= 20 ;  day= 5 ;  method= PCA 
+
+ iter= 25 ;  day= 5 ;  method= PCA 
+
+ iter= 21 ;  day= 5 ;  method= PCA 
+
+ iter= 24 ;  day= 5 ;  method= PCA 
+
+ iter= 22 ;  day= 5 ;  method= PCA 
+
+ iter= 27 ;  day= 5 ;  method= PCA 
+
+ iter= 19 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 5 ;  method= bPLS 
+
+ iter= 26 ;  day= 5 ;  method= bPLS 
+
+ iter= 23 ;  day= 5 ;  method= bPLS 
+
+ iter= 20 ;  day= 5 ;  method= bPLS 
+
+ iter= 25 ;  day= 5 ;  method= bPLS 
+
+ iter= 21 ;  day= 5 ;  method= bPLS 
+
+ iter= 24 ;  day= 5 ;  method= bPLS 
+
+ iter= 22 ;  day= 5 ;  method= bPLS 
+
+ iter= 27 ;  day= 5 ;  method= bPLS 
+
+ iter= 19 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 6 ;  method= PCA 
+
+ iter= 23 ;  day= 6 ;  method= PCA 
+
+ iter= 26 ;  day= 6 ;  method= PCA 
+
+ iter= 20 ;  day= 6 ;  method= PCA 
+
+ iter= 21 ;  day= 6 ;  method= PCA 
+
+ iter= 25 ;  day= 6 ;  method= PCA 
+
+ iter= 24 ;  day= 6 ;  method= PCA 
+
+ iter= 22 ;  day= 6 ;  method= PCA 
+
+ iter= 27 ;  day= 6 ;  method= PCA 
+
+ iter= 19 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 6 ;  method= bPLS 
+
+ iter= 26 ;  day= 6 ;  method= bPLS 
+
+ iter= 21 ;  day= 6 ;  method= bPLS 
+
+ iter= 20 ;  day= 6 ;  method= bPLS 
+
+ iter= 23 ;  day= 6 ;  method= bPLS 
+
+ iter= 25 ;  day= 6 ;  method= bPLS 
+
+ iter= 22 ;  day= 6 ;  method= bPLS 
+
+ iter= 24 ;  day= 6 ;  method= bPLS 
+
+ iter= 27 ;  day= 6 ;  method= bPLS 
+
+ iter= 19 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 7 ;  method= PCA 
+
+ iter= 26 ;  day= 7 ;  method= PCA 
+
+ iter= 23 ;  day= 7 ;  method= PCA 
+
+ iter= 21 ;  day= 7 ;  method= PCA 
+
+ iter= 20 ;  day= 7 ;  method= PCA 
+
+ iter= 25 ;  day= 7 ;  method= PCA 
+
+ iter= 22 ;  day= 7 ;  method= PCA 
+
+ iter= 24 ;  day= 7 ;  method= PCA 
+
+ iter= 27 ;  day= 7 ;  method= PCA 
+
+ iter= 19 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 7 ;  method= bPLS 
+
+ iter= 26 ;  day= 7 ;  method= bPLS 
+
+ iter= 21 ;  day= 7 ;  method= bPLS 
+
+ iter= 23 ;  day= 7 ;  method= bPLS 
+
+ iter= 20 ;  day= 7 ;  method= bPLS 
+
+ iter= 22 ;  day= 7 ;  method= bPLS 
+
+ iter= 25 ;  day= 7 ;  method= bPLS 
+
+ iter= 24 ;  day= 7 ;  method= bPLS 
+
+ iter= 27 ;  day= 7 ;  method= bPLS 
+
+ iter= 19 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 8 ;  method= PCA 
+
+ iter= 26 ;  day= 8 ;  method= PCA 
+
+ iter= 21 ;  day= 8 ;  method= PCA 
+
+ iter= 23 ;  day= 8 ;  method= PCA 
+
+ iter= 22 ;  day= 8 ;  method= PCA 
+
+ iter= 25 ;  day= 8 ;  method= PCA 
+
+ iter= 20 ;  day= 8 ;  method= PCA 
+
+ iter= 24 ;  day= 8 ;  method= PCA 
+
+ iter= 27 ;  day= 8 ;  method= PCA 
+
+ iter= 19 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 8 ;  method= bPLS 
+
+ iter= 26 ;  day= 8 ;  method= bPLS 
+
+ iter= 21 ;  day= 8 ;  method= bPLS 
+
+ iter= 23 ;  day= 8 ;  method= bPLS 
+
+ iter= 22 ;  day= 8 ;  method= bPLS 
+
+ iter= 25 ;  day= 8 ;  method= bPLS 
+
+ iter= 20 ;  day= 8 ;  method= bPLS 
+
+ iter= 24 ;  day= 8 ;  method= bPLS 
+
+ iter= 27 ;  day= 8 ;  method= bPLS 
+
+ iter= 19 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 9 ;  method= PCA 
+
+ iter= 19 ;  day= 9 ;  method= PCA 
+
+ iter= 21 ;  day= 9 ;  method= PCA 
+
+ iter= 23 ;  day= 9 ;  method= PCA 
+
+ iter= 22 ;  day= 9 ;  method= PCA 
+
+ iter= 25 ;  day= 9 ;  method= PCA 
+
+ iter= 24 ;  day= 9 ;  method= PCA 
+
+ iter= 20 ;  day= 9 ;  method= PCA 
+
+ iter= 27 ;  day= 9 ;  method= PCA 
+
+ iter= 26 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 9 ;  method= bPLS 
+
+ iter= 26 ;  day= 9 ;  method= bPLS 
+
+ iter= 23 ;  day= 9 ;  method= bPLS 
+
+ iter= 21 ;  day= 9 ;  method= bPLS 
+
+ iter= 22 ;  day= 9 ;  method= bPLS 
+
+ iter= 25 ;  day= 9 ;  method= bPLS 
+
+ iter= 24 ;  day= 9 ;  method= bPLS 
+
+ iter= 20 ;  day= 9 ;  method= bPLS 
+
+ iter= 27 ;  day= 9 ;  method= bPLS 
+
+ iter= 19 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 19 ;  day= 10 ;  method= PCA 
+
+ iter= 26 ;  day= 10 ;  method= PCA 
+
+ iter= 23 ;  day= 10 ;  method= PCA 
+
+ iter= 21 ;  day= 10 ;  method= PCA 
+
+ iter= 22 ;  day= 10 ;  method= PCA 
+
+ iter= 25 ;  day= 10 ;  method= PCA 
+
+ iter= 24 ;  day= 10 ;  method= PCA 
+
+ iter= 20 ;  day= 10 ;  method= PCA 
+
+ iter= 27 ;  day= 10 ;  method= PCA 
+
+ iter= 19 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 26 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 23 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 21 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 22 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 25 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 24 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 20 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 27 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 19 ;  day= 10 ;  method= bPLS 
+
+ iter= 23 ;  day= 10 ;  method= bPLS 
+
+ iter= 26 ;  day= 10 ;  method= bPLS 
+
+ iter= 21 ;  day= 10 ;  method= bPLS 
+
+ iter= 22 ;  day= 10 ;  method= bPLS 
+
+ iter= 25 ;  day= 10 ;  method= bPLS 
+
+ iter= 24 ;  day= 10 ;  method= bPLS 
+
+ iter= 20 ;  day= 10 ;  method= bPLS 
+
+ iter= 27 ;  day= 10 ;  method= bPLS 
+
+ iter= 19 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 26 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 21 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 23 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 22 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 25 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 24 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 20 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 27 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 2 ;  method= PCA 
+
+ iter= 35 ;  day= 2 ;  method= PCA 
+
+ iter= 30 ;  day= 2 ;  method= PCA 
+
+ iter= 32 ;  day= 2 ;  method= PCA 
+
+ iter= 31 ;  day= 2 ;  method= PCA 
+
+ iter= 34 ;  day= 2 ;  method= PCA 
+
+ iter= 33 ;  day= 2 ;  method= PCA 
+
+ iter= 29 ;  day= 2 ;  method= PCA 
+
+ iter= 36 ;  day= 2 ;  method= PCA 
+
+ iter= 28 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 2 ;  method= bPLS 
+
+ iter= 32 ;  day= 2 ;  method= bPLS 
+
+ iter= 35 ;  day= 2 ;  method= bPLS 
+
+ iter= 31 ;  day= 2 ;  method= bPLS 
+
+ iter= 30 ;  day= 2 ;  method= bPLS 
+
+ iter= 33 ;  day= 2 ;  method= bPLS 
+
+ iter= 34 ;  day= 2 ;  method= bPLS 
+
+ iter= 36 ;  day= 2 ;  method= bPLS 
+
+ iter= 29 ;  day= 2 ;  method= bPLS 
+
+ iter= 32 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 3 ;  method= PCA 
+
+ iter= 32 ;  day= 3 ;  method= PCA 
+
+ iter= 35 ;  day= 3 ;  method= PCA 
+
+ iter= 31 ;  day= 3 ;  method= PCA 
+
+ iter= 30 ;  day= 3 ;  method= PCA 
+
+ iter= 34 ;  day= 3 ;  method= PCA 
+
+ iter= 33 ;  day= 3 ;  method= PCA 
+
+ iter= 29 ;  day= 3 ;  method= PCA 
+
+ iter= 36 ;  day= 3 ;  method= PCA 
+
+ iter= 28 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 3 ;  method= bPLS 
+
+ iter= 32 ;  day= 3 ;  method= bPLS 
+
+ iter= 35 ;  day= 3 ;  method= bPLS 
+
+ iter= 31 ;  day= 3 ;  method= bPLS 
+
+ iter= 30 ;  day= 3 ;  method= bPLS 
+
+ iter= 34 ;  day= 3 ;  method= bPLS 
+
+ iter= 33 ;  day= 3 ;  method= bPLS 
+
+ iter= 29 ;  day= 3 ;  method= bPLS 
+
+ iter= 36 ;  day= 3 ;  method= bPLS 
+
+ iter= 28 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 4 ;  method= PCA 
+
+ iter= 32 ;  day= 4 ;  method= PCA 
+
+ iter= 35 ;  day= 4 ;  method= PCA 
+
+ iter= 30 ;  day= 4 ;  method= PCA 
+
+ iter= 31 ;  day= 4 ;  method= PCA 
+
+ iter= 34 ;  day= 4 ;  method= PCA 
+
+ iter= 33 ;  day= 4 ;  method= PCA 
+
+ iter= 29 ;  day= 4 ;  method= PCA 
+
+ iter= 36 ;  day= 4 ;  method= PCA 
+
+ iter= 28 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 4 ;  method= bPLS 
+
+ iter= 32 ;  day= 4 ;  method= bPLS 
+
+ iter= 35 ;  day= 4 ;  method= bPLS 
+
+ iter= 30 ;  day= 4 ;  method= bPLS 
+
+ iter= 31 ;  day= 4 ;  method= bPLS 
+
+ iter= 34 ;  day= 4 ;  method= bPLS 
+
+ iter= 33 ;  day= 4 ;  method= bPLS 
+
+ iter= 29 ;  day= 4 ;  method= bPLS 
+
+ iter= 36 ;  day= 4 ;  method= bPLS 
+
+ iter= 28 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 5 ;  method= PCA 
+
+ iter= 32 ;  day= 5 ;  method= PCA 
+
+ iter= 35 ;  day= 5 ;  method= PCA 
+
+ iter= 30 ;  day= 5 ;  method= PCA 
+
+ iter= 31 ;  day= 5 ;  method= PCA 
+
+ iter= 34 ;  day= 5 ;  method= PCA 
+
+ iter= 33 ;  day= 5 ;  method= PCA 
+
+ iter= 36 ;  day= 5 ;  method= PCA 
+
+ iter= 29 ;  day= 5 ;  method= PCA 
+
+ iter= 28 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 5 ;  method= bPLS 
+
+ iter= 28 ;  day= 5 ;  method= bPLS 
+
+ iter= 30 ;  day= 5 ;  method= bPLS 
+
+ iter= 35 ;  day= 5 ;  method= bPLS 
+
+ iter= 31 ;  day= 5 ;  method= bPLS 
+
+ iter= 34 ;  day= 5 ;  method= bPLS 
+
+ iter= 33 ;  day= 5 ;  method= bPLS 
+
+ iter= 36 ;  day= 5 ;  method= bPLS 
+
+ iter= 29 ;  day= 5 ;  method= bPLS 
+
+ iter= 32 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 6 ;  method= PCA 
+
+ iter= 28 ;  day= 6 ;  method= PCA 
+
+ iter= 30 ;  day= 6 ;  method= PCA 
+
+ iter= 31 ;  day= 6 ;  method= PCA 
+
+ iter= 35 ;  day= 6 ;  method= PCA 
+
+ iter= 34 ;  day= 6 ;  method= PCA 
+
+ iter= 33 ;  day= 6 ;  method= PCA 
+
+ iter= 36 ;  day= 6 ;  method= PCA 
+
+ iter= 29 ;  day= 6 ;  method= PCA 
+
+ iter= 32 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 6 ;  method= bPLS 
+
+ iter= 28 ;  day= 6 ;  method= bPLS 
+
+ iter= 30 ;  day= 6 ;  method= bPLS 
+
+ iter= 31 ;  day= 6 ;  method= bPLS 
+
+ iter= 34 ;  day= 6 ;  method= bPLS 
+
+ iter= 35 ;  day= 6 ;  method= bPLS 
+
+ iter= 33 ;  day= 6 ;  method= bPLS 
+
+ iter= 36 ;  day= 6 ;  method= bPLS 
+
+ iter= 29 ;  day= 6 ;  method= bPLS 
+
+ iter= 32 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 7 ;  method= PCA 
+
+ iter= 28 ;  day= 7 ;  method= PCA 
+
+ iter= 30 ;  day= 7 ;  method= PCA 
+
+ iter= 31 ;  day= 7 ;  method= PCA 
+
+ iter= 34 ;  day= 7 ;  method= PCA 
+
+ iter= 35 ;  day= 7 ;  method= PCA 
+
+ iter= 33 ;  day= 7 ;  method= PCA 
+
+ iter= 36 ;  day= 7 ;  method= PCA 
+
+ iter= 29 ;  day= 7 ;  method= PCA 
+
+ iter= 32 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 7 ;  method= bPLS 
+
+ iter= 28 ;  day= 7 ;  method= bPLS 
+
+ iter= 30 ;  day= 7 ;  method= bPLS 
+
+ iter= 31 ;  day= 7 ;  method= bPLS 
+
+ iter= 34 ;  day= 7 ;  method= bPLS 
+
+ iter= 35 ;  day= 7 ;  method= bPLS 
+
+ iter= 33 ;  day= 7 ;  method= bPLS 
+
+ iter= 36 ;  day= 7 ;  method= bPLS 
+
+ iter= 29 ;  day= 7 ;  method= bPLS 
+
+ iter= 32 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 8 ;  method= PCA 
+
+ iter= 28 ;  day= 8 ;  method= PCA 
+
+ iter= 30 ;  day= 8 ;  method= PCA 
+
+ iter= 31 ;  day= 8 ;  method= PCA 
+
+ iter= 35 ;  day= 8 ;  method= PCA 
+
+ iter= 34 ;  day= 8 ;  method= PCA 
+
+ iter= 33 ;  day= 8 ;  method= PCA 
+
+ iter= 36 ;  day= 8 ;  method= PCA 
+
+ iter= 29 ;  day= 8 ;  method= PCA 
+
+ iter= 32 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 8 ;  method= bPLS 
+
+ iter= 28 ;  day= 8 ;  method= bPLS 
+
+ iter= 30 ;  day= 8 ;  method= bPLS 
+
+ iter= 31 ;  day= 8 ;  method= bPLS 
+
+ iter= 35 ;  day= 8 ;  method= bPLS 
+
+ iter= 33 ;  day= 8 ;  method= bPLS 
+
+ iter= 34 ;  day= 8 ;  method= bPLS 
+
+ iter= 36 ;  day= 8 ;  method= bPLS 
+
+ iter= 29 ;  day= 8 ;  method= bPLS 
+
+ iter= 32 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 28 ;  day= 9 ;  method= PCA 
+
+ iter= 32 ;  day= 9 ;  method= PCA 
+
+ iter= 30 ;  day= 9 ;  method= PCA 
+
+ iter= 31 ;  day= 9 ;  method= PCA 
+
+ iter= 33 ;  day= 9 ;  method= PCA 
+
+ iter= 34 ;  day= 9 ;  method= PCA 
+
+ iter= 35 ;  day= 9 ;  method= PCA 
+
+ iter= 36 ;  day= 9 ;  method= PCA 
+
+ iter= 29 ;  day= 9 ;  method= PCA 
+
+ iter= 30 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 9 ;  method= bPLS 
+
+ iter= 28 ;  day= 9 ;  method= bPLS 
+
+ iter= 32 ;  day= 9 ;  method= bPLS 
+
+ iter= 31 ;  day= 9 ;  method= bPLS 
+
+ iter= 33 ;  day= 9 ;  method= bPLS 
+
+ iter= 35 ;  day= 9 ;  method= bPLS 
+
+ iter= 34 ;  day= 9 ;  method= bPLS 
+
+ iter= 36 ;  day= 9 ;  method= bPLS 
+
+ iter= 29 ;  day= 9 ;  method= bPLS 
+
+ iter= 28 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 10 ;  method= PCA 
+
+ iter= 28 ;  day= 10 ;  method= PCA 
+
+ iter= 32 ;  day= 10 ;  method= PCA 
+
+ iter= 30 ;  day= 10 ;  method= PCA 
+
+ iter= 33 ;  day= 10 ;  method= PCA 
+
+ iter= 34 ;  day= 10 ;  method= PCA 
+
+ iter= 35 ;  day= 10 ;  method= PCA 
+
+ iter= 36 ;  day= 10 ;  method= PCA 
+
+ iter= 29 ;  day= 10 ;  method= PCA 
+
+ iter= 28 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 31 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 32 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 30 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 35 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 33 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 34 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 36 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 29 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 28 ;  day= 10 ;  method= bPLS 
+
+ iter= 31 ;  day= 10 ;  method= bPLS 
+
+ iter= 30 ;  day= 10 ;  method= bPLS 
+
+ iter= 32 ;  day= 10 ;  method= bPLS 
+
+ iter= 33 ;  day= 10 ;  method= bPLS 
+
+ iter= 35 ;  day= 10 ;  method= bPLS 
+
+ iter= 34 ;  day= 10 ;  method= bPLS 
+
+ iter= 36 ;  day= 10 ;  method= bPLS 
+
+ iter= 29 ;  day= 10 ;  method= bPLS 
+
+ iter= 28 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 31 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 30 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 32 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 33 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 35 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 34 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 36 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 29 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 2 ;  method= PCA 
+
+ iter= 40 ;  day= 2 ;  method= PCA 
+
+ iter= 39 ;  day= 2 ;  method= PCA 
+
+ iter= 41 ;  day= 2 ;  method= PCA 
+
+ iter= 42 ;  day= 2 ;  method= PCA 
+
+ iter= 44 ;  day= 2 ;  method= PCA 
+
+ iter= 45 ;  day= 2 ;  method= PCA 
+
+ iter= 43 ;  day= 2 ;  method= PCA 
+
+ iter= 38 ;  day= 2 ;  method= PCA 
+
+ iter= 40 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 2 ;  method= bPLS 
+
+ iter= 40 ;  day= 2 ;  method= bPLS 
+
+ iter= 39 ;  day= 2 ;  method= bPLS 
+
+ iter= 41 ;  day= 2 ;  method= bPLS 
+
+ iter= 42 ;  day= 2 ;  method= bPLS 
+
+ iter= 44 ;  day= 2 ;  method= bPLS 
+
+ iter= 45 ;  day= 2 ;  method= bPLS 
+
+ iter= 43 ;  day= 2 ;  method= bPLS 
+
+ iter= 38 ;  day= 2 ;  method= bPLS 
+
+ iter= 37 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 3 ;  method= PCA 
+
+ iter= 40 ;  day= 3 ;  method= PCA 
+
+ iter= 39 ;  day= 3 ;  method= PCA 
+
+ iter= 41 ;  day= 3 ;  method= PCA 
+
+ iter= 42 ;  day= 3 ;  method= PCA 
+
+ iter= 44 ;  day= 3 ;  method= PCA 
+
+ iter= 43 ;  day= 3 ;  method= PCA 
+
+ iter= 45 ;  day= 3 ;  method= PCA 
+
+ iter= 38 ;  day= 3 ;  method= PCA 
+
+ iter= 37 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 3 ;  method= bPLS 
+
+ iter= 39 ;  day= 3 ;  method= bPLS 
+
+ iter= 37 ;  day= 3 ;  method= bPLS 
+
+ iter= 41 ;  day= 3 ;  method= bPLS 
+
+ iter= 42 ;  day= 3 ;  method= bPLS 
+
+ iter= 44 ;  day= 3 ;  method= bPLS 
+
+ iter= 45 ;  day= 3 ;  method= bPLS 
+
+ iter= 43 ;  day= 3 ;  method= bPLS 
+
+ iter= 38 ;  day= 3 ;  method= bPLS 
+
+ iter= 39 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 4 ;  method= PCA 
+
+ iter= 39 ;  day= 4 ;  method= PCA 
+
+ iter= 37 ;  day= 4 ;  method= PCA 
+
+ iter= 41 ;  day= 4 ;  method= PCA 
+
+ iter= 42 ;  day= 4 ;  method= PCA 
+
+ iter= 44 ;  day= 4 ;  method= PCA 
+
+ iter= 43 ;  day= 4 ;  method= PCA 
+
+ iter= 45 ;  day= 4 ;  method= PCA 
+
+ iter= 38 ;  day= 4 ;  method= PCA 
+
+ iter= 39 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 4 ;  method= bPLS 
+
+ iter= 37 ;  day= 4 ;  method= bPLS 
+
+ iter= 39 ;  day= 4 ;  method= bPLS 
+
+ iter= 41 ;  day= 4 ;  method= bPLS 
+
+ iter= 42 ;  day= 4 ;  method= bPLS 
+
+ iter= 44 ;  day= 4 ;  method= bPLS 
+
+ iter= 45 ;  day= 4 ;  method= bPLS 
+
+ iter= 43 ;  day= 4 ;  method= bPLS 
+
+ iter= 38 ;  day= 4 ;  method= bPLS 
+
+ iter= 40 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 5 ;  method= PCA 
+
+ iter= 39 ;  day= 5 ;  method= PCA 
+
+ iter= 37 ;  day= 5 ;  method= PCA 
+
+ iter= 41 ;  day= 5 ;  method= PCA 
+
+ iter= 42 ;  day= 5 ;  method= PCA 
+
+ iter= 44 ;  day= 5 ;  method= PCA 
+
+ iter= 45 ;  day= 5 ;  method= PCA 
+
+ iter= 43 ;  day= 5 ;  method= PCA 
+
+ iter= 38 ;  day= 5 ;  method= PCA 
+
+ iter= 40 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 5 ;  method= bPLS 
+
+ iter= 39 ;  day= 5 ;  method= bPLS 
+
+ iter= 41 ;  day= 5 ;  method= bPLS 
+
+ iter= 37 ;  day= 5 ;  method= bPLS 
+
+ iter= 42 ;  day= 5 ;  method= bPLS 
+
+ iter= 44 ;  day= 5 ;  method= bPLS 
+
+ iter= 43 ;  day= 5 ;  method= bPLS 
+
+ iter= 45 ;  day= 5 ;  method= bPLS 
+
+ iter= 38 ;  day= 5 ;  method= bPLS 
+
+ iter= 40 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 6 ;  method= PCA 
+
+ iter= 40 ;  day= 6 ;  method= PCA 
+
+ iter= 41 ;  day= 6 ;  method= PCA 
+
+ iter= 37 ;  day= 6 ;  method= PCA 
+
+ iter= 42 ;  day= 6 ;  method= PCA 
+
+ iter= 44 ;  day= 6 ;  method= PCA 
+
+ iter= 43 ;  day= 6 ;  method= PCA 
+
+ iter= 45 ;  day= 6 ;  method= PCA 
+
+ iter= 38 ;  day= 6 ;  method= PCA 
+
+ iter= 39 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 6 ;  method= bPLS 
+
+ iter= 40 ;  day= 6 ;  method= bPLS 
+
+ iter= 41 ;  day= 6 ;  method= bPLS 
+
+ iter= 37 ;  day= 6 ;  method= bPLS 
+
+ iter= 42 ;  day= 6 ;  method= bPLS 
+
+ iter= 44 ;  day= 6 ;  method= bPLS 
+
+ iter= 43 ;  day= 6 ;  method= bPLS 
+
+ iter= 45 ;  day= 6 ;  method= bPLS 
+
+ iter= 38 ;  day= 6 ;  method= bPLS 
+
+ iter= 40 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 7 ;  method= PCA 
+
+ iter= 41 ;  day= 7 ;  method= PCA 
+
+ iter= 39 ;  day= 7 ;  method= PCA 
+
+ iter= 37 ;  day= 7 ;  method= PCA 
+
+ iter= 42 ;  day= 7 ;  method= PCA 
+
+ iter= 44 ;  day= 7 ;  method= PCA 
+
+ iter= 43 ;  day= 7 ;  method= PCA 
+
+ iter= 45 ;  day= 7 ;  method= PCA 
+
+ iter= 38 ;  day= 7 ;  method= PCA 
+
+ iter= 40 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 7 ;  method= bPLS 
+
+ iter= 41 ;  day= 7 ;  method= bPLS 
+
+ iter= 39 ;  day= 7 ;  method= bPLS 
+
+ iter= 37 ;  day= 7 ;  method= bPLS 
+
+ iter= 42 ;  day= 7 ;  method= bPLS 
+
+ iter= 44 ;  day= 7 ;  method= bPLS 
+
+ iter= 43 ;  day= 7 ;  method= bPLS 
+
+ iter= 45 ;  day= 7 ;  method= bPLS 
+
+ iter= 38 ;  day= 7 ;  method= bPLS 
+
+ iter= 40 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 8 ;  method= PCA 
+
+ iter= 41 ;  day= 8 ;  method= PCA 
+
+ iter= 39 ;  day= 8 ;  method= PCA 
+
+ iter= 37 ;  day= 8 ;  method= PCA 
+
+ iter= 42 ;  day= 8 ;  method= PCA 
+
+ iter= 44 ;  day= 8 ;  method= PCA 
+
+ iter= 43 ;  day= 8 ;  method= PCA 
+
+ iter= 45 ;  day= 8 ;  method= PCA 
+
+ iter= 38 ;  day= 8 ;  method= PCA 
+
+ iter= 41 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 8 ;  method= bPLS 
+
+ iter= 40 ;  day= 8 ;  method= bPLS 
+
+ iter= 39 ;  day= 8 ;  method= bPLS 
+
+ iter= 37 ;  day= 8 ;  method= bPLS 
+
+ iter= 42 ;  day= 8 ;  method= bPLS 
+
+ iter= 44 ;  day= 8 ;  method= bPLS 
+
+ iter= 43 ;  day= 8 ;  method= bPLS 
+
+ iter= 45 ;  day= 8 ;  method= bPLS 
+
+ iter= 38 ;  day= 8 ;  method= bPLS 
+
+ iter= 41 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 9 ;  method= PCA 
+
+ iter= 40 ;  day= 9 ;  method= PCA 
+
+ iter= 39 ;  day= 9 ;  method= PCA 
+
+ iter= 37 ;  day= 9 ;  method= PCA 
+
+ iter= 42 ;  day= 9 ;  method= PCA 
+
+ iter= 44 ;  day= 9 ;  method= PCA 
+
+ iter= 43 ;  day= 9 ;  method= PCA 
+
+ iter= 45 ;  day= 9 ;  method= PCA 
+
+ iter= 38 ;  day= 9 ;  method= PCA 
+
+ iter= 41 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 41 ;  day= 9 ;  method= bPLS 
+
+ iter= 40 ;  day= 9 ;  method= bPLS 
+
+ iter= 39 ;  day= 9 ;  method= bPLS 
+
+ iter= 37 ;  day= 9 ;  method= bPLS 
+
+ iter= 42 ;  day= 9 ;  method= bPLS 
+
+ iter= 44 ;  day= 9 ;  method= bPLS 
+
+ iter= 43 ;  day= 9 ;  method= bPLS 
+
+ iter= 45 ;  day= 9 ;  method= bPLS 
+
+ iter= 38 ;  day= 9 ;  method= bPLS 
+
+ iter= 41 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 40 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 10 ;  method= PCA 
+
+ iter= 40 ;  day= 10 ;  method= PCA 
+
+ iter= 39 ;  day= 10 ;  method= PCA 
+
+ iter= 37 ;  day= 10 ;  method= PCA 
+
+ iter= 42 ;  day= 10 ;  method= PCA 
+
+ iter= 44 ;  day= 10 ;  method= PCA 
+
+ iter= 43 ;  day= 10 ;  method= PCA 
+
+ iter= 45 ;  day= 10 ;  method= PCA 
+
+ iter= 38 ;  day= 10 ;  method= PCA 
+
+ iter= 41 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 39 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 37 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 42 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 44 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 43 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 45 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 38 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 40 ;  day= 10 ;  method= bPLS 
+
+ iter= 41 ;  day= 10 ;  method= bPLS 
+
+ iter= 39 ;  day= 10 ;  method= bPLS 
+
+ iter= 37 ;  day= 10 ;  method= bPLS 
+
+ iter= 42 ;  day= 10 ;  method= bPLS 
+
+ iter= 44 ;  day= 10 ;  method= bPLS 
+
+ iter= 43 ;  day= 10 ;  method= bPLS 
+
+ iter= 45 ;  day= 10 ;  method= bPLS 
+
+ iter= 38 ;  day= 10 ;  method= bPLS 
+
+ iter= 40 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 41 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 37 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 39 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 42 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 44 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 43 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 45 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 38 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 2 ;  method= PCA 
+
+ iter= 49 ;  day= 2 ;  method= PCA 
+
+ iter= 46 ;  day= 2 ;  method= PCA 
+
+ iter= 48 ;  day= 2 ;  method= PCA 
+
+ iter= 47 ;  day= 2 ;  method= PCA 
+
+ iter= 50 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 2 ;  method= bPLS 
+
+ iter= 49 ;  day= 2 ;  method= bPLS 
+
+ iter= 46 ;  day= 2 ;  method= bPLS 
+
+ iter= 48 ;  day= 2 ;  method= bPLS 
+
+ iter= 47 ;  day= 2 ;  method= bPLS 
+
+ iter= 50 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 3 ;  method= PCA 
+
+ iter= 49 ;  day= 3 ;  method= PCA 
+
+ iter= 46 ;  day= 3 ;  method= PCA 
+
+ iter= 48 ;  day= 3 ;  method= PCA 
+
+ iter= 47 ;  day= 3 ;  method= PCA 
+
+ iter= 50 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 3 ;  method= bPLS 
+
+ iter= 49 ;  day= 3 ;  method= bPLS 
+
+ iter= 46 ;  day= 3 ;  method= bPLS 
+
+ iter= 48 ;  day= 3 ;  method= bPLS 
+
+ iter= 50 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 3 ;  method= bPLS 
+
+ iter= 49 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 4 ;  method= PCA 
+
+ iter= 49 ;  day= 4 ;  method= PCA 
+
+ iter= 46 ;  day= 4 ;  method= PCA 
+
+ iter= 48 ;  day= 4 ;  method= PCA 
+
+ iter= 50 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 4 ;  method= PCA 
+
+ iter= 49 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 4 ;  method= bPLS 
+
+ iter= 49 ;  day= 4 ;  method= bPLS 
+
+ iter= 46 ;  day= 4 ;  method= bPLS 
+
+ iter= 48 ;  day= 4 ;  method= bPLS 
+
+ iter= 47 ;  day= 4 ;  method= bPLS 
+
+ iter= 50 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 5 ;  method= PCA 
+
+ iter= 49 ;  day= 5 ;  method= PCA 
+
+ iter= 46 ;  day= 5 ;  method= PCA 
+
+ iter= 48 ;  day= 5 ;  method= PCA 
+
+ iter= 50 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 5 ;  method= PCA 
+
+ iter= 49 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 5 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 5 ;  method= bPLS 
+
+ iter= 49 ;  day= 5 ;  method= bPLS 
+
+ iter= 48 ;  day= 5 ;  method= bPLS 
+
+ iter= 46 ;  day= 5 ;  method= bPLS 
+
+ iter= 47 ;  day= 5 ;  method= bPLS 
+
+ iter= 50 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 5 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 6 ;  method= PCA 
+
+ iter= 49 ;  day= 6 ;  method= PCA 
+
+ iter= 48 ;  day= 6 ;  method= PCA 
+
+ iter= 46 ;  day= 6 ;  method= PCA 
+
+ iter= 47 ;  day= 6 ;  method= PCA 
+
+ iter= 50 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 49 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 6 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 6 ;  method= bPLS 
+
+ iter= 49 ;  day= 6 ;  method= bPLS 
+
+ iter= 48 ;  day= 6 ;  method= bPLS 
+
+ iter= 46 ;  day= 6 ;  method= bPLS 
+
+ iter= 47 ;  day= 6 ;  method= bPLS 
+
+ iter= 50 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 49 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 6 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 7 ;  method= PCA 
+
+ iter= 49 ;  day= 7 ;  method= PCA 
+
+ iter= 48 ;  day= 7 ;  method= PCA 
+
+ iter= 46 ;  day= 7 ;  method= PCA 
+
+ iter= 50 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 7 ;  method= PCA 
+
+ iter= 49 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 7 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 7 ;  method= bPLS 
+
+ iter= 49 ;  day= 7 ;  method= bPLS 
+
+ iter= 48 ;  day= 7 ;  method= bPLS 
+
+ iter= 46 ;  day= 7 ;  method= bPLS 
+
+ iter= 50 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 7 ;  method= bPLS 
+
+ iter= 49 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 7 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 8 ;  method= PCA 
+
+ iter= 49 ;  day= 8 ;  method= PCA 
+
+ iter= 48 ;  day= 8 ;  method= PCA 
+
+ iter= 46 ;  day= 8 ;  method= PCA 
+
+ iter= 50 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 8 ;  method= PCA 
+
+ iter= 49 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 8 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 8 ;  method= bPLS 
+
+ iter= 49 ;  day= 8 ;  method= bPLS 
+
+ iter= 48 ;  day= 8 ;  method= bPLS 
+
+ iter= 46 ;  day= 8 ;  method= bPLS 
+
+ iter= 50 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 8 ;  method= bPLS 
+
+ iter= 49 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 8 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 9 ;  method= PCA 
+
+ iter= 49 ;  day= 9 ;  method= PCA 
+
+ iter= 48 ;  day= 9 ;  method= PCA 
+
+ iter= 46 ;  day= 9 ;  method= PCA 
+
+ iter= 50 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 9 ;  method= PCA 
+
+ iter= 49 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 9 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 9 ;  method= bPLS 
+
+ iter= 49 ;  day= 9 ;  method= bPLS 
+
+ iter= 48 ;  day= 9 ;  method= bPLS 
+
+ iter= 46 ;  day= 9 ;  method= bPLS 
+
+ iter= 50 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 9 ;  method= bPLS 
+
+ iter= 49 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 9 ;  method= bPLS_perm 
+
+ iter= 50 ;  day= 10 ;  method= PCA 
+
+ iter= 49 ;  day= 10 ;  method= PCA 
+
+ iter= 48 ;  day= 10 ;  method= PCA 
+
+ iter= 46 ;  day= 10 ;  method= PCA 
+
+ iter= 50 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 10 ;  method= PCA 
+
+ iter= 49 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 48 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 46 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 47 ;  day= 10 ;  method= PCA_perm 
+
+ iter= 50 ;  day= 10 ;  method= bPLS 
+
+ iter= 49 ;  day= 10 ;  method= bPLS 
+
+ iter= 48 ;  day= 10 ;  method= bPLS 
+
+ iter= 46 ;  day= 10 ;  method= bPLS 
+
+ iter= 50 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 10 ;  method= bPLS 
+
+ iter= 49 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 48 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 46 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 47 ;  day= 10 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 2 ;  method= PCA 
+
+ iter= 2 ;  day= 2 ;  method= PCA 
+
+ iter= 3 ;  day= 2 ;  method= PCA 
+
+ iter= 4 ;  day= 2 ;  method= PCA 
+
+ iter= 5 ;  day= 2 ;  method= PCA 
+
+ iter= 6 ;  day= 2 ;  method= PCA 
+
+ iter= 7 ;  day= 2 ;  method= PCA 
+
+ iter= 8 ;  day= 2 ;  method= PCA 
+
+ iter= 9 ;  day= 2 ;  method= PCA 
+
+ iter= 8 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 2 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 2 ;  method= bPLS 
+
+ iter= 7 ;  day= 2 ;  method= bPLS 
+
+ iter= 8 ;  day= 2 ;  method= bPLS 
+
+ iter= 4 ;  day= 2 ;  method= bPLS 
+
+ iter= 9 ;  day= 2 ;  method= bPLS 
+
+ iter= 2 ;  day= 2 ;  method= bPLS 
+
+ iter= 6 ;  day= 2 ;  method= bPLS 
+
+ iter= 3 ;  day= 2 ;  method= bPLS 
+
+ iter= 1 ;  day= 2 ;  method= bPLS 
+
+ iter= 6 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 2 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 2 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 3 ;  method= PCA 
+
+ iter= 6 ;  day= 3 ;  method= PCA 
+
+ iter= 9 ;  day= 3 ;  method= PCA 
+
+ iter= 2 ;  day= 3 ;  method= PCA 
+
+ iter= 4 ;  day= 3 ;  method= PCA 
+
+ iter= 1 ;  day= 3 ;  method= PCA 
+
+ iter= 8 ;  day= 3 ;  method= PCA 
+
+ iter= 2 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 9 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 6 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 3 ;  method= PCA 
+
+ iter= 7 ;  day= 3 ;  method= PCA 
+
+ iter= 6 ;  day= 3 ;  method= bPLS 
+
+ iter= 2 ;  day= 3 ;  method= bPLS 
+
+ iter= 8 ;  day= 3 ;  method= bPLS 
+
+ iter= 1 ;  day= 3 ;  method= bPLS 
+
+ iter= 9 ;  day= 3 ;  method= bPLS 
+
+ iter= 5 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 3 ;  method= PCA_perm 
+
+ iter= 2 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 3 ;  method= bPLS 
+
+ iter= 3 ;  day= 3 ;  method= bPLS 
+
+ iter= 6 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 1 ;  day= 4 ;  method= PCA 
+
+ iter= 2 ;  day= 4 ;  method= PCA 
+
+ iter= 2 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 4 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 7 ;  day= 3 ;  method= bPLS 
+
+ iter= 9 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 4 ;  method= PCA 
+
+ iter= 5 ;  day= 3 ;  method= bPLS 
+
+ iter= 6 ;  day= 4 ;  method= PCA 
+
+ iter= 7 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 5 ;  day= 3 ;  method= bPLS_perm 
+
+ iter= 8 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 3 ;  day= 4 ;  method= PCA 
+
+ iter= 4 ;  day= 4 ;  method= PCA 
+
+ iter= 2 ;  day= 4 ;  method= bPLS 
+
+ iter= 1 ;  day= 4 ;  method= bPLS 
+
+ iter= 9 ;  day= 4 ;  method= PCA 
+
+ iter= 2 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 9 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 1 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 4 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 4 ;  method= PCA 
+
+ iter= 8 ;  day= 4 ;  method= bPLS 
+
+ iter= 5 ;  day= 4 ;  method= PCA 
+
+ iter= 6 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 7 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 5 ;  day= 4 ;  method= PCA_perm 
+
+ iter= 8 ;  day= 4 ;  method= bPLS_perm 
+
+ iter= 3 ;  day= 4 ;  method= bPLS 
+
+ iter= 2 ;  day= 5 ;  method= PCA 
+
+ iter= 1 ;  day= 5 ;  method= PCA 
+
+ iter= 4 ;  day= 4 ;  method= bPLS 
+
+ iter= 9 ;  day= 4 ;  method= bPLS 
