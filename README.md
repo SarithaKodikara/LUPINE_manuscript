@@ -16,3 +16,5 @@ LUPINE is a simple yet innovative network inference methodology that is suitable
 
 
 **Keywords:**  longitudinal, microbiome networks, partial correlation, 16S
+
+`LUPINE` R Package is [here](https://github.com/SarithaKodikara/LUPINE)
