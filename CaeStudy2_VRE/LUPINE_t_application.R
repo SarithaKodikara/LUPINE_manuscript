@@ -11,14 +11,15 @@ library(graphlayouts)
 library(tidyverse)
 library(tidygraph)
 library(LUPINE)
+library(e1071)
+library(ade4)
 load("data_filtered/taxonomy.rds")
 load("data_filtered/OTUdata.rds")
 load("data_filtered/Lib_size.rds")
 load("data_filtered/OTU_l.abundance.rds")
 
-netPlotVRE<-function(data, taxonomy, inferred_results){
-  net<-(res$pvalue<0.05)*1
-  net<-apply(net,c(1,2), function(x){ifelse(is.na(x),0,x)})
+netPlotVRE<-function(data, taxonomy, net_matrix=NULL){
+  net<-net_matrix
   g <- graph.adjacency(net, mode="undirected", weighted=NULL)
   # provide some names
   V(g)$name <- 1:vcount(g)
@@ -138,15 +139,32 @@ netPlotVRE<-function(data, taxonomy, inferred_results){
 
 # Using only current time points (LUPINE_single)
 res_none <-LUPINE_t(data=OTUdata_array, day_index=10, num_lags=0,
-              excluded_taxa=OTU_l.abundance, lib_size = Lib_size, single = FALSE)
+              excluded_taxa=OTU_l.abundance, lib_size = Lib_size)
 # Using all previous time points
 res_all<-LUPINE_t(data=OTUdata_array, day_index=10, num_lags=999,
-              excluded_taxa=OTU_l.abundance, lib_size = Lib_size, single = FALSE)
+              excluded_taxa=OTU_l.abundance, lib_size = Lib_size)
 # Using only data from VRE phase
 res_3lags<-LUPINE_t(data=OTUdata_array, day_index=10, num_lags=3,
-              excluded_taxa=OTU_l.abundance, lib_size = Lib_size, single = FALSE)
+              excluded_taxa=OTU_l.abundance, lib_size = Lib_size)
 
+net_matrix<-function(res){
+  net<-(res$pvalue<0.05)*1
+  net<-apply(net,c(1,2), function(x){ifelse(is.na(x),0,x)})
+  return(net)
+}
 
-netPlotVRE(OTUdata_array, taxanomy_filter_ordered, res_none)
-netPlotVRE(OTUdata_array, taxanomy_filter_ordered, res_all)
-netPlotVRE(OTUdata_array, taxanomy_filter_ordered, res_3lags)
+net_1<-net_matrix(res_none)
+net_2<-net_matrix(res_all)
+net_3<-net_matrix(res_3lags)
+
+netPlotVRE(OTUdata_array, taxanomy_filter_ordered, net_1)
+netPlotVRE(OTUdata_array, taxanomy_filter_ordered, net_2)
+netPlotVRE(OTUdata_array, taxanomy_filter_ordered, net_3)
+
+sum(net_2!=net_1)/2
+sum(net_3!=net_1)/2
+sum(net_3!=net_2)/2
+
+netPlotVRE(OTUdata_array, taxanomy_filter_ordered, net_2!=net_1)
+netPlotVRE(OTUdata_array, taxanomy_filter_ordered, net_3!=net_1)
+netPlotVRE(OTUdata_array, taxanomy_filter_ordered, net_3!=net_2)
