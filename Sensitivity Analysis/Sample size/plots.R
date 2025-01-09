@@ -20,12 +20,12 @@ df_1000<-df_sen_pre%>% filter(Day==5) %>%mutate(Sample_size=1000)
 
 
 df_sen_pre_all<- rbind(df_10,df_50, df_100,df_500,df_1000)
-df_sen_pre_all$Method<-factor(df_sen_pre_all$Method, levels = c( "PCA","bPLS"), 
-                              labels = c("LUPINE_single",  "LUPINE"))
+df_sen_pre_all$Method<-factor(df_sen_pre_all$Method, levels = c( "PCA","bPLS","pcor_full"), 
+                              labels = c("LUPINE_single", "LUPINE", "Using p-2 taxa"))
 data_long <- gather(df_sen_pre_all, AUC, Value, ROC:PRC, factor_key=TRUE)
 data_long$Sample_size<-factor(data_long$Sample_size)
 
-pdf("Figures/Sample_size.pdf",
+pdf("Figures/p-2_approx.pdf",
     width=10, height=8)
 set.seed(12345)
 op <- par(mar = rep(0, 4))
@@ -33,16 +33,21 @@ op <- par(mar = rep(0, 4))
 data_long %>%
   ggplot(aes(x=Sample_size, y=Value, fill=Method, color=Method)) +
   geom_boxplot() +
-  ylim(0,1)+
-  scale_fill_manual(values=c("plum1","plum4"))+
-  scale_color_manual(values=c("grey28","grey28"))+
+  scale_fill_manual(values=c("plum1","plum4","darkgoldenrod1"))+
+  scale_color_manual(values=c("grey28","grey28","grey28"))+
   facet_wrap(~AUC,labeller = labeller(AUC = 
                                         c("ROC" = "AUC-ROC",
                                           "PRC" = "AUC-PRC")
-  ))+theme_bw()+
+  )) +theme_bw()+
   theme(text = element_text(size=20),legend.position = 'none')+
-  xlab("Sample size")
-
+  xlab("Sample size")+
+  ylim(0,1)+
+  annotate("rect", xmin = 2.5, xmax = 2.5, ymin = -Inf, ymax = Inf, 
+           linetype = "dashed", color = "red", size = 0.4)+
+  annotate("text", x = 2, y = 0, 
+           label = "p > n", color = "blue", size = 6, hjust = 1)+
+  annotate("text", x = 4.3, y = 0, 
+           label = "p < n", color = "blue", size = 6, hjust = 1)
 par(op)
 dev.off()
 
@@ -52,8 +57,8 @@ dev.off()
 gplot <- data_long %>%
   ggplot(aes(x=Day, y=Value, fill=Method, color=Method)) +
   geom_boxplot() +
-  scale_fill_manual(values=c("plum1","plum4"))+
-  scale_color_manual(values=c("grey28","grey28"))+
+  scale_fill_manual(values=c("plum1","plum4","darkgoldenrod1"))+
+  scale_color_manual(values=c("grey28","grey28","grey28"))+
   facet_wrap(~AUC,labeller = labeller(AUC = 
                                         c("ROC" = "AUC-ROC",
                                           "PRC" = "AUC-PRC")
@@ -76,7 +81,7 @@ grid.newpage()
 grid.draw(legend)  
 
 pdf("Figures/legend.pdf",
-    width=4, height=0.5)
+    width=6, height=0.5)
 op <- par(mar = rep(0, 4))
 grid.draw(legend) 
 par(op)

@@ -67,6 +67,25 @@ auc_res<-function( iter, day, method='sparcc'){
     res<-list(Estimate=pcor, pvalue=pcor.pval, RunTime=elap_time)
     auc_obj <- precrec::auc(evalmod(scores = pcor.pval[upper.tri(pcor.pval)], 
                                     labels = true_graph[upper.tri(true_graph)]))
+  }else if(method=='pcor_full'){
+    elap_time<-system.time({
+      pcor<-matrix(NA, nrow = nOTU,ncol = nOTU)
+      pcor.pval<-matrix(NA, nrow = nOTU,ncol = nOTU)
+      
+      sapply(1:len, function(i){
+        X_1<-newSimData[[iter]][,-c(taxa1[i],taxa2[i]), day]
+        r_i<-lm(log(newSimData[[iter]][,taxa1[i], day]+1)~X_1,offset=log(newLibSize[[iter]][,day]))
+        r_j<-lm(log(newSimData[[iter]][,taxa2[i], day]+1)~X_1,offset=log(newLibSize[[iter]][,day]))
+        pcor[taxa1[i], taxa2[i]]<<-pcor[taxa2[i], taxa1[i]]<<-cor.test((r_i$residuals), 
+                                                                       (r_j$residuals))$estimate
+        pcor.pval[taxa1[i], taxa2[i]]<<-pcor.pval[taxa2[i], taxa1[i]]<<-1-cor.test((r_i$residuals), 
+                                                                                   (r_j$residuals))$p.value
+        
+      })
+    })
+    res<-list(Estimate=pcor, pvalue=pcor.pval, RunTime=elap_time)
+    auc_obj <- precrec::auc(evalmod(scores = pcor.pval[upper.tri(pcor.pval)], 
+                                    labels = true_graph[upper.tri(true_graph)]))
   }else if(method=='bPLS'){
     
     elap_time<-system.time({
