@@ -137,9 +137,6 @@ netPlotVRE<-function(data, taxonomy, net_matrix=NULL){
 }
 
 
-# Using only current time points (LUPINE_single)
-res_none <-LUPINE_t(data=OTUdata_array, day_index=10, num_lags=0,
-              excluded_taxa=OTU_l.abundance, lib_size = Lib_size)
 # Using all previous time points
 res_all<-LUPINE_t(data=OTUdata_array, day_index=10, num_lags=999,
               excluded_taxa=OTU_l.abundance, lib_size = Lib_size)
@@ -153,18 +150,12 @@ net_matrix<-function(res){
   return(net)
 }
 
-net_1<-net_matrix(res_none)
-net_2<-net_matrix(res_all)
-net_3<-net_matrix(res_3lags)
+net_1<-net_matrix(res_all)
+net_2<-net_matrix(res_3lags)
 
 netPlotVRE(OTUdata_array, taxanomy_filter_ordered, net_1)
 netPlotVRE(OTUdata_array, taxanomy_filter_ordered, net_2)
-netPlotVRE(OTUdata_array, taxanomy_filter_ordered, net_3)
 
 sum(net_2!=net_1)/2
-sum(net_3!=net_1)/2
-sum(net_3!=net_2)/2
 
 netPlotVRE(OTUdata_array, taxanomy_filter_ordered, net_2!=net_1)
-netPlotVRE(OTUdata_array, taxanomy_filter_ordered, net_3!=net_1)
-netPlotVRE(OTUdata_array, taxanomy_filter_ordered, net_3!=net_2)
